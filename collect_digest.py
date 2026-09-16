@@ -34,6 +34,8 @@ import requests
 
 FRAICHEUR_HEURES = 60
 MAX_ITEMS_PAR_FLUX = 20
+MAX_ITEMS_PAR_RUBRIQUE = 25   # nouveau : plafond par rubrique après tri par fraîcheur
+MAX_ITEMS_UNE = 40            # nouveau : plafond plus large pour le recoupement de la Une
 TIMEOUT = 15
 
 
@@ -298,6 +300,8 @@ def main():
             lines.append("_Rien de neuf remonté par les flux pour cette rubrique._")
         else:
             rubrique_items.sort(key=lambda it: it["dt"] or now, reverse=True)
+            plafond = MAX_ITEMS_UNE if num == 0 else MAX_ITEMS_PAR_RUBRIQUE
+            rubrique_items = rubrique_items[:plafond]
             for item in rubrique_items:
                 lines.append(f"- **{item['title']}** — {item['source']} ({item['date']}) — {item['link']}")
             total_items += len(rubrique_items)

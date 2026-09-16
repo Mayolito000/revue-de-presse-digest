@@ -32,7 +32,7 @@ from datetime import datetime, timedelta, timezone
 import feedparser
 import requests
 
-FRAICHEUR_HEURES = 60
+FRAICHEUR_HEURES = 24
 MAX_ITEMS_PAR_FLUX = 20
 MAX_ITEMS_PAR_RUBRIQUE = 25   # nouveau : plafond par rubrique après tri par fraîcheur
 MAX_ITEMS_UNE = 40            # nouveau : plafond plus large pour le recoupement de la Une

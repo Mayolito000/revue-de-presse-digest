@@ -1,4 +1,4 @@
-# Digest RSS mensuel — généré le 2026-09-22 05:00 UTC
+# Digest RSS mensuel — généré le 2026-09-23 04:48 UTC
 
 Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se situe entre le 2026-08-01 et le 2026-08-31 (mois civil écoulé le plus récent). Aucun tri éditorial n'a été fait.
 

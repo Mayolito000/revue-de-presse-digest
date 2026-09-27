@@ -2,8 +2,9 @@ name: Digest RSS (quotidien, hebdomadaire, mensuel)
 
 on:
   schedule:
-    # 03:00 UTC = 04:00 ou 05:00 heure de Paris selon l'heure d'été/hiver,
-    # donc toujours avant 6h du matin heure de Paris.
+    # 00:17 UTC = 01:17 ou 02:17 heure de Paris selon l'heure d'hiver/d'été.
+    # Minute décalée (pas :00) et large avance sur la revue quotidienne
+    # (06:00 UTC), car GitHub retarde souvent les tâches planifiées.
     - cron: "17 0 * * *"
   workflow_dispatch: {}
 
@@ -32,7 +33,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git fetch origin main
           git reset --mixed origin/main
-          git add digest/latest.md digest/week.md digest/month.md digest/history.jsonl
+          git add -A digest/latest.md digest/week.md digest/month.md digest/history.jsonl digest/archive
           if git diff --cached --quiet; then
             echo "Rien de nouveau à publier."
           else

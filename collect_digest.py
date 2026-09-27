@@ -35,9 +35,13 @@ période plus longue). Les entrées sans date fiable ne sont pas archivées
 (elles ne peuvent pas être placées dans une semaine ou un mois précis) mais
 restent présentes dans le digest quotidien.
 
+Archive longue (digest/archive/) : history.jsonl est aussi reversé chaque
+jour dans un fichier par mois, conservé un an, qui alimente la page de
+recherche recherche.html (publiée avec GitHub Pages).
+
 Usage: python3 collect_digest.py
-Écrit digest/latest.md, digest/week.md, digest/month.md et digest/history.jsonl
-dans le répertoire courant.
+Écrit digest/latest.md, digest/week.md, digest/month.md, digest/history.jsonl
+et digest/archive/ dans le répertoire courant.
 """
 
 import json
@@ -68,6 +72,13 @@ MAX_ITEMS_UNE_MOIS = 80
 TIMEOUT = 15
 HISTORY_PATH = "digest/history.jsonl"
 
+# Archive longue durée, utilisée par la page de recherche (recherche.html).
+# Un fichier par mois (digest/archive/AAAA-MM.jsonl) plutôt qu'un seul gros
+# fichier : les mois passés ne changent plus, seul le mois en cours est
+# réécrit chaque jour, et la page ne charge que les mois dont elle a besoin.
+ARCHIVE_DIR = "digest/archive"
+ARCHIVE_MOIS_CONSERVES = 12   # mois complets gardés en plus du mois en cours
+
 
 def google_news(query):
     q = urllib.parse.quote(query)
@@ -80,6 +91,49 @@ def gsite(nom, domaine, extra=""):
     permet d'ajouter des mots-clés (utile pour restreindre à une section)."""
     query = f"site:{domaine} {extra}".strip()
     return (f"{nom} (via Google Actualités)", google_news(query))
+
+
+def site_or(domaines):
+    """Groupe une liste de domaines en clause OR entre parenthèses, ex.
+    "(site:lemonde.fr OR site:lefigaro.fr)". À combiner ensuite avec un
+    groupe de mots-clés, lui aussi entre parenthèses, pour éviter tout
+    problème de priorité des opérateurs dans la requête Google."""
+    return "(" + " OR ".join(f"site:{d}" for d in domaines) + ")"
+
+
+# Domaines de presse retenus pour restreindre les recherches thématiques
+# Google Actualités (par opposition à gsite(), qui cible UN média précis,
+# ces listes couvrent plusieurs médias de référence, sensibilités
+# différentes incluses, pour une même zone ou un même sujet). Sans cette
+# restriction, une recherche par mots-clés seule peut remonter n'importe
+# quel site indexé par Google : qualité éditoriale incertaine, ou même
+# mauvais pays (c'est ce qui a produit l'erreur Portugal/Sécurité sociale).
+DOMAINES_FRANCE = [
+    "lemonde.fr", "lefigaro.fr", "liberation.fr", "francetvinfo.fr",
+    "leparisien.fr", "lopinion.fr", "la-croix.com", "ouest-france.fr",
+    "sudouest.fr", "lepoint.fr", "nouvelobs.com", "marianne.net",
+    "rtl.fr", "bfmtv.com", "publicsenat.fr", "lcp.fr",
+]
+DOMAINES_UE = ["euractiv.fr", "touteleurope.eu", "politico.eu", "lemonde.fr", "lefigaro.fr"]
+DOMAINES_EUROPE_PAYS = [
+    "lemonde.fr", "courrierinternational.com", "euronews.com",
+    "bbc.com", "reuters.com", "apnews.com", "politico.eu",
+]
+DOMAINES_CONFLITS = [
+    "lemonde.fr", "france24.com", "rfi.fr", "reuters.com",
+    "apnews.com", "bbc.com", "lefigaro.fr", "courrierinternational.com",
+]
+DOMAINES_AMERIQUES = ["reuters.com", "apnews.com", "nytimes.com", "bbc.com", "lemonde.fr"]
+DOMAINES_ASIE = [
+    "reuters.com", "apnews.com", "bbc.com", "scmp.com",
+    "lemonde.fr", "courrierinternational.com",
+]
+DOMAINES_AFRIQUE = ["rfi.fr", "lemonde.fr", "reuters.com", "apnews.com", "jeuneafrique.com"]
+DOMAINES_ECO_MONDIALE = [
+    "ft.com", "reuters.com", "lemonde.fr", "lesechos.fr",
+    "latribune.fr", "bloomberg.com",
+]
+DOMAINES_TECH = ["lemonde.fr", "reuters.com", "courrierinternational.com", "usine-digitale.fr"]
 
 
 # Chaque rubrique : (numéro, nom, liste de flux [(nom_source, url), ...])
@@ -113,7 +167,7 @@ RUBRIQUES = [
         ("Le Monde", "https://www.lemonde.fr/politique/rss_full.xml"),
         ("Le Figaro", "https://www.lefigaro.fr/rss/figaro_politique.xml"),
         ("franceinfo", "https://www.francetvinfo.fr/politique.rss"),
-        ("Google Actualités", google_news("(Assemblée nationale OR gouvernement OR Sénat) France")),
+        ("Google Actualités", google_news(f"{site_or(DOMAINES_FRANCE)} (Assemblée nationale OR gouvernement OR Sénat OR Élysée OR ministre OR projet de loi OR motion de censure)")),
         gsite("La Croix", "la-croix.com", "politique"),
         gsite("L'Humanité", "humanite.fr", "politique"),
         gsite("L'Opinion", "lopinion.fr", "politique"),
@@ -121,49 +175,49 @@ RUBRIQUES = [
     (2, "Justice, police et sécurité intérieure", [
         ("franceinfo", "https://www.francetvinfo.fr/faits-divers.rss"),
         ("Le Parisien", "https://feeds.leparisien.fr/leparisien/rss"),
-        ("Google Actualités", google_news("(procès OR tribunal OR garde à vue OR Cour de cassation) France")),
+        ("Google Actualités", google_news(f"{site_or(DOMAINES_FRANCE)} (procès OR tribunal OR garde à vue OR Cour de cassation OR enquête judiciaire OR condamnation OR parquet OR perquisition)")),
         gsite("OCCRP", "occrp.org"),
     ]),
     (3, "Défense et armées", [
         ("Opex360 / Zone Militaire", "https://www.opex360.com/feed/"),
-        ("Google Actualités", google_news("(armée française OR défense OR OTAN OR militaire) France")),
+        ("Google Actualités", google_news(f"{site_or(DOMAINES_FRANCE)} (armée française OR défense OR OTAN OR militaire OR ministère des Armées OR forces armées OR dissuasion nucléaire)")),
     ]),
     (4, "Économie française et social", [
         ("Le Monde", "https://www.lemonde.fr/economie/rss_full.xml"),
         ("Les Échos", "https://services.lesechos.fr/rss/les-echos-economie.xml"),
         ("franceinfo", "https://www.francetvinfo.fr/economie.rss"),
-        ("Google Actualités", google_news("(budget OR chômage OR salaires OR grève) France")),
+        ("Google Actualités", google_news(f"{site_or(DOMAINES_FRANCE)} (budget OR chômage OR salaires OR grève OR Bercy OR dette publique OR pouvoir d'achat OR inflation)")),
         gsite("La Tribune", "latribune.fr"),
         gsite("Alternatives Économiques", "alternatives-economiques.fr"),
     ]),
     (5, "Union européenne", [
         ("Euractiv France", "https://euractiv.fr/feed/"),
-        ("Google Actualités", google_news("Commission européenne OR Parlement européen OR Bruxelles UE")),
+        ("Google Actualités", google_news(f"{site_or(DOMAINES_UE)} (Commission européenne OR Parlement européen OR Bruxelles OR eurodéputés OR sommet européen OR Conseil européen)")),
         gsite("Contexte", "contexte.com"),
     ]),
     (6, "Europe (pays)", [
-        ("Google Actualités", google_news("Allemagne OR Italie OR Espagne OR Royaume-Uni politique")),
+        ("Google Actualités", google_news(f"{site_or(DOMAINES_EUROPE_PAYS)} (Allemagne OR Italie OR Espagne OR Royaume-Uni OR Pologne OR Pays-Bas) (politique OR élections OR gouvernement)")),
         gsite("Der Spiegel International", "spiegel.de/international"),
         gsite("El País", "elpais.com"),
     ]),
     (7, "Guerres et conflits", [
         ("Le Monde", "https://www.lemonde.fr/international/rss_full.xml"),
         ("France 24", "https://www.france24.com/fr/moyen-orient/rss"),
-        ("Google Actualités", google_news("Ukraine OR Gaza OR Sahel guerre")),
+        ("Google Actualités", google_news(f"{site_or(DOMAINES_CONFLITS)} (Ukraine OR Gaza OR Sahel OR Soudan OR Syrie) (guerre OR conflit)")),
         ("The Moscow Times", "https://www.themoscowtimes.com/rss/news"),
         ("Meduza (English)", "https://meduza.io/rss/en/all"),
         gsite("Reuters", "reuters.com"),
         gsite("Kyiv Independent", "kyivindependent.com"),
     ]),
     (8, "Amériques", [
-        ("Google Actualités", google_news("États-Unis OR Washington OR Amérique latine")),
+        ("Google Actualités", google_news(f"{site_or(DOMAINES_AMERIQUES)} (États-Unis OR Washington OR Amérique latine OR Maison Blanche OR Congrès américain OR Brésil OR Mexique OR Argentine)")),
         ("MercoPress", "https://en.mercopress.com/rss/"),
         gsite("Associated Press", "apnews.com"),
         gsite("New York Times", "nytimes.com"),
         gsite("BBC Mundo", "bbc.com/mundo"),
     ]),
     (9, "Asie et Océanie", [
-        ("Google Actualités", google_news("Chine OR Inde OR Japon OR Taïwan")),
+        ("Google Actualités", google_news(f"{site_or(DOMAINES_ASIE)} (Chine OR Inde OR Japon OR Taïwan OR Corée du Sud OR Pékin OR Tokyo)")),
         gsite("South China Morning Post", "scmp.com"),
         gsite("CNA / Focus Taiwan", "focustaiwan.tw"),
         gsite("The Hindu", "thehindu.com"),
@@ -174,21 +228,21 @@ RUBRIQUES = [
     ]),
     (10, "Afrique et Maghreb", [
         ("RFI", "https://www.rfi.fr/fr/afrique/rss"),
-        ("Google Actualités", google_news("Afrique OR Algérie OR Maroc OR Sahel")),
+        ("Google Actualités", google_news(f"{site_or(DOMAINES_AFRIQUE)} (Afrique OR Algérie OR Maroc OR Sahel OR Tunisie OR Sénégal OR Nigeria OR RDC)")),
         ("Jeune Afrique", "https://www.jeuneafrique.com/feed/"),
         ("AllAfrica", "https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf"),
         ("Daily Maverick", "https://www.dailymaverick.co.za/dmrss/"),
         gsite("The Continent", "continent.substack.com"),
     ]),
     (11, "Économie mondiale, marchés et énergie", [
-        ("Google Actualités", google_news("BCE OR Fed OR pétrole OR marchés OR inflation")),
+        ("Google Actualités", google_news(f"{site_or(DOMAINES_ECO_MONDIALE)} (BCE OR Fed OR pétrole OR marchés OR inflation OR taux d'intérêt OR Wall Street OR récession)")),
         gsite("Financial Times", "ft.com"),
         gsite("Reuters Business", "reuters.com", "business"),
     ]),
     (12, "Sciences, technologies et numérique", [
         ("Le Monde", "https://www.lemonde.fr/sciences/rss_full.xml"),
         ("Next", "https://next.ink/feed/"),
-        ("Google Actualités", google_news("intelligence artificielle OR cybersécurité OR espace recherche")),
+        ("Google Actualités", google_news(f"{site_or(DOMAINES_TECH)} (intelligence artificielle OR cybersécurité OR espace OR recherche OR OpenAI OR semi-conducteurs OR données personnelles OR CNIL)")),
         ("Rest of World", "https://restofworld.org/feed/latest/"),
     ]),
     (13, "Environnement et climat", [
@@ -197,31 +251,31 @@ RUBRIQUES = [
         ("Carbon Brief", "https://www.carbonbrief.org/feed/"),
     ]),
     (14, "Agriculture et alimentation", [
-        ("Google Actualités", google_news("(agriculteurs OR PAC OR élevage OR récolte) France")),
+        ("Google Actualités", google_news(f"{site_or(DOMAINES_FRANCE)} (agriculteurs OR PAC OR élevage OR récolte OR FNSEA OR prix agricoles OR sécheresse agricole)")),
         gsite("La France Agricole", "lafranceagricole.fr"),
     ]),
     (15, "Santé et protection sociale", [
         ("franceinfo", "https://www.francetvinfo.fr/sante.rss"),
-        ("Google Actualités", google_news("(hôpital OR Sécurité sociale OR médicament OR retraites) France")),
+        ("Google Actualités", google_news(f"{site_or(DOMAINES_FRANCE)} (hôpital OR Sécurité sociale OR médicament OR retraites OR assurance maladie OR PLFSS OR Cnam OR soignants OR déficit de la Sécu)")),
     ]),
     (16, "Éducation et enseignement supérieur", [
-        ("Google Actualités", google_news("(école OR université OR Parcoursup OR enseignants) France")),
+        ("Google Actualités", google_news(f"{site_or(DOMAINES_FRANCE)} (école OR université OR Parcoursup OR enseignants OR collège OR lycée OR ministère de l'Éducation OR rentrée scolaire)")),
         gsite("Café pédagogique", "cafepedagogique.net"),
     ]),
     (17, "Société et migrations", [
         ("Le Monde", "https://www.lemonde.fr/societe/rss_full.xml"),
-        ("Google Actualités", google_news("(immigration OR logement OR laïcité OR démographie) France")),
+        ("Google Actualités", google_news(f"{site_or(DOMAINES_FRANCE)} (immigration OR logement OR laïcité OR démographie OR asile OR sans-abrisme OR natalité)")),
         ("The New Humanitarian", "https://www.thenewhumanitarian.org/rss/all.xml"),
     ]),
     (18, "Transports et villes", [
-        ("Google Actualités", google_news("(SNCF OR RATP OR transports OR urbanisme) France")),
+        ("Google Actualités", google_news(f"{site_or(DOMAINES_FRANCE)} (SNCF OR RATP OR transports OR urbanisme OR grève des transports OR autoroutes OR aéroports)")),
     ]),
     (19, "Île-de-France et Paris", [
         ("Le Parisien", "https://feeds.leparisien.fr/leparisien/rss"),
-        ("Google Actualités", google_news("(Paris OR Île-de-France OR mairie OR conseil régional) France")),
+        ("Google Actualités", google_news(f"{site_or(DOMAINES_FRANCE)} (Paris OR Île-de-France OR mairie OR conseil régional OR Hidalgo OR banlieue parisienne)")),
     ]),
     (20, "Médias et journalisme", [
-        ("Google Actualités", google_news("(Arcom OR rédaction OR audiences OR liberté de la presse) France")),
+        ("Google Actualités", google_news(f"{site_or(DOMAINES_FRANCE)} (Arcom OR rédaction OR audiences OR liberté de la presse OR RSF OR pluralisme des médias OR concentration des médias)")),
         ("Bellingcat", "https://www.bellingcat.com/feed/"),
         gsite("La Revue des médias (INA)", "larevuedesmedias.ina.fr"),
     ]),
@@ -285,7 +339,25 @@ def fetch_feed(name, url, cutoff_hours):
         if not title or not link:
             continue
         date_str = dt.strftime("%Y-%m-%d %H:%M UTC") if dt else "date inconnue"
-        items.append({"title": title, "link": link, "source": name, "date": date_str, "dt": dt})
+        source = name
+        if name == "Google Actualités":
+            # Recherche thématique : on remonte le vrai média éditeur, fourni
+            # par Google dans le champ <source>, et on retire le suffixe
+            # " - Média" que Google ajoute au titre.
+            editeur = (entry.get("source") or {}).get("title", "").strip()
+            if editeur:
+                source = f"{editeur} (via Google Actualités)"
+                suffixe = f" - {editeur}"
+                if title.endswith(suffixe):
+                    title = title[: -len(suffixe)].strip()
+            else:
+                source = "Média non identifié (via Google Actualités)"
+        elif name.endswith("(via Google Actualités)"):
+            # Source gsite() : le média est déjà connu, on nettoie juste le titre.
+            editeur = (entry.get("source") or {}).get("title", "").strip()
+            if editeur and title.endswith(f" - {editeur}"):
+                title = title[: -len(f" - {editeur}")].strip()
+        items.append({"title": title, "link": link, "source": source, "date": date_str, "dt": dt})
         if len(items) >= MAX_ITEMS_PAR_FLUX:
             break
     return items
@@ -312,6 +384,74 @@ def load_history():
             except json.JSONDecodeError:
                 continue
     return history
+
+
+def update_archive(history, now):
+    """Reverse l'archive courte (history.jsonl, 33 jours) dans l'archive
+    longue par mois. Idempotent : une URL déjà archivée n'est pas réécrite,
+    donc relancer le script ne crée pas de doublons. Purge les mois au-delà
+    de ARCHIVE_MOIS_CONSERVES et écrit un index des mois disponibles."""
+    os.makedirs(ARCHIVE_DIR, exist_ok=True)
+
+    par_mois = {}
+    for item in history:
+        par_mois.setdefault(item["dt"][:7], []).append(item)
+
+    for mois, items in par_mois.items():
+        path = os.path.join(ARCHIVE_DIR, f"{mois}.jsonl")
+        existants = set()
+        if os.path.exists(path):
+            with open(path, "r", encoding="utf-8") as f:
+                for line in f:
+                    try:
+                        existants.add(json.loads(line)["url"])
+                    except (json.JSONDecodeError, KeyError):
+                        continue
+        nouveaux = [it for it in items if it["url"] not in existants]
+        if nouveaux:
+            with open(path, "a", encoding="utf-8") as f:
+                for it in nouveaux:
+                    ligne = dict(it)
+                    ligne["rubrique"] = RUBRIQUE_NOMS.get(it["rubrique_num"], "")
+                    # Entrées collectées avant le nettoyage des titres Google
+                    # Actualités (fin septembre 2026) : Google y avait ajouté
+                    # " - Média" en fin de titre. On le retire, et pour les
+                    # recherches thématiques on s'en sert comme nom de source.
+                    ancien = ligne["dt"] < "2026-09-27"
+                    if ancien and ligne["source"] == "Google Actualités" and " - " in ligne["title"]:
+                        titre, editeur = ligne["title"].rsplit(" - ", 1)
+                        ligne["title"] = titre.strip()
+                        ligne["source"] = f"{editeur.strip()} (via Google Actualités)"
+                    elif ancien and ligne["source"].endswith("(via Google Actualités)") and " - " in ligne["title"]:
+                        ligne["title"] = ligne["title"].rsplit(" - ", 1)[0].strip()
+                    f.write(json.dumps(ligne, ensure_ascii=False) + "\n")
+
+    # Purge : on garde le mois en cours + ARCHIVE_MOIS_CONSERVES mois pleins.
+    annee, mois = now.year, now.month
+    for _ in range(ARCHIVE_MOIS_CONSERVES):
+        mois -= 1
+        if mois == 0:
+            annee, mois = annee - 1, 12
+    limite = f"{annee:04d}-{mois:02d}"
+
+    index = []
+    for nom in sorted(os.listdir(ARCHIVE_DIR)):
+        if not re.fullmatch(r"\d{4}-\d{2}\.jsonl", nom):
+            continue
+        cle = nom[:7]
+        chemin = os.path.join(ARCHIVE_DIR, nom)
+        if cle < limite:
+            os.remove(chemin)
+            continue
+        with open(chemin, "r", encoding="utf-8") as f:
+            n = sum(1 for line in f if line.strip())
+        index.append({"mois": cle, "fichier": nom, "articles": n})
+
+    with open(os.path.join(ARCHIVE_DIR, "index.json"), "w", encoding="utf-8") as f:
+        json.dump({"genere_le": now.isoformat(), "mois": index}, f, ensure_ascii=False, indent=1)
+
+    total = sum(m["articles"] for m in index)
+    print(f"OK : archive longue à jour ({len(index)} mois, {total} articles)", file=sys.stderr)
 
 
 def save_history(history):
@@ -469,6 +609,7 @@ def main():
     history = [h for h in history if datetime.fromisoformat(h["dt"]) >= prune_cutoff]
     pruned = before_prune - len(history)
     save_history(history)
+    update_archive(history, now)
     print(f"OK : archive mise à jour ({added} ajoutées, {pruned} purgées, {len(history)} au total)", file=sys.stderr)
 
     # --- Digest hebdomadaire ---

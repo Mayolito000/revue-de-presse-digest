@@ -1,0 +1,370 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Recherche dans la revue de presse</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 100 100%27%3E%3Ctext y=%27.9em%27 font-size=%2790%27%3E%F0%9F%94%8E%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700&family=Newsreader:opsz,wght@6..72,400;6..72,500&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+<style>
+:root{--bg:#EDEEF0;--surface:#E4E6EA;--ink:#16181C;--muted:#5B6069;--rule:#CFD3D9;--accent:#2440C4;--accent-soft:#DDE1F7;--flag:#8A5A00;--flag-soft:#F0E4CB;--f-display:"Archivo",Helvetica,Arial,sans-serif;--f-body:"Newsreader",Georgia,serif;--f-mono:"IBM Plex Mono",ui-monospace,Menlo,monospace}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#101215;--surface:#171A1F;--ink:#E7E9EC;--muted:#969CA6;--rule:#272B33;--accent:#8FA2FF;--accent-soft:#1C2340;--flag:#E0B252;--flag-soft:#2E2413}}
+:root[data-theme="dark"]{--bg:#101215;--surface:#171A1F;--ink:#E7E9EC;--muted:#969CA6;--rule:#272B33;--accent:#8FA2FF;--accent-soft:#1C2340;--flag:#E0B252;--flag-soft:#2E2413}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--f-body);font-size:17px;line-height:1.5}
+.wrap{max-width:62rem;margin:0 auto;padding:2.5rem 1.5rem 5rem}
+.masthead{display:flex;flex-direction:column;gap:.8rem;padding-bottom:1.1rem;border-bottom:2px solid var(--ink)}
+.kicker{font-family:var(--f-mono);font-size:.7rem;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);display:flex;flex-wrap:wrap;gap:.4rem 1.25rem}
+h1{font-family:var(--f-display);font-weight:700;font-size:clamp(1.9rem,5vw,2.7rem);line-height:1.04;letter-spacing:-.025em;margin:0}
+.search{margin-top:1.5rem;display:flex;flex-direction:column;gap:.9rem}
+.q{width:100%;font-family:var(--f-body);font-size:1.15rem;padding:.7rem .85rem;background:var(--surface);color:var(--ink);border:1px solid var(--rule);border-radius:0}
+.q:focus,select:focus,input[type=date]:focus{outline:2px solid var(--accent);outline-offset:1px}
+.hint{font-family:var(--f-mono);font-size:.68rem;color:var(--muted);margin:-.4rem 0 0}
+.filters{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:.7rem}
+.field{display:flex;flex-direction:column;gap:.25rem;min-width:0}
+.field label{font-family:var(--f-mono);font-size:.66rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+select,input[type=date]{width:100%;min-width:0;font-family:var(--f-mono);font-size:.78rem;padding:.5rem .5rem;background:var(--surface);color:var(--ink);border:1px solid var(--rule);border-radius:0}
+.periods{display:flex;flex-wrap:wrap;gap:.4rem;align-items:center}
+.chip{font-family:var(--f-mono);font-size:.72rem;padding:.32rem .6rem;border:1px solid var(--rule);background:transparent;color:var(--ink);cursor:pointer}
+.chip[aria-pressed="true"]{border-color:var(--accent);color:var(--accent);background:var(--accent-soft)}
+.dates{display:flex;gap:.4rem;align-items:center;font-family:var(--f-mono);font-size:.72rem;color:var(--muted)}
+.dates input{width:auto}
+.bar{margin-top:1.6rem;display:flex;flex-wrap:wrap;align-items:baseline;gap:.5rem 1rem;padding-bottom:.5rem;border-bottom:1px solid var(--rule)}
+.count{font-family:var(--f-display);font-weight:600;font-size:1.05rem}
+.weeks{font-family:var(--f-mono);font-size:.7rem;color:var(--muted);flex:1 1 20rem}
+.actions{display:flex;gap:.4rem;margin-left:auto}
+.btn{font-family:var(--f-mono);font-size:.72rem;padding:.32rem .6rem;border:1px solid var(--rule);background:transparent;color:var(--ink);cursor:pointer}
+.btn:hover,.chip:hover{border-color:var(--accent);color:var(--accent)}
+.status{font-family:var(--f-mono);font-size:.75rem;color:var(--muted);padding:1rem 0}
+.status.err{color:var(--flag)}
+table{width:100%;border-collapse:collapse;margin-top:.3rem}
+th{font-family:var(--f-mono);font-size:.66rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:500;text-align:left;padding:.55rem .5rem .45rem;border-bottom:1px solid var(--rule);white-space:nowrap}
+th button{all:unset;cursor:pointer}
+th button:hover{color:var(--accent)}
+th button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+th .arrow{color:var(--accent)}
+td{padding:.6rem .5rem;border-bottom:1px solid var(--rule);vertical-align:top}
+td.d{font-family:var(--f-mono);font-size:.72rem;color:var(--muted);white-space:nowrap}
+td.t a{font-family:var(--f-display);font-weight:600;font-size:.98rem;line-height:1.3;color:var(--ink);text-decoration:none}
+td.t a:hover{color:var(--accent)}
+td.s,td.r{font-family:var(--f-mono);font-size:.72rem;color:var(--muted)}
+.ga{display:inline-block;margin-left:.3rem;font-size:.6rem;padding:.05rem .3rem;border:1px solid var(--flag);color:var(--flag);background:var(--flag-soft);letter-spacing:.04em}
+.more{margin:1.2rem auto 0;display:block}
+footer{margin-top:3rem;padding-top:1rem;border-top:1px solid var(--rule);font-family:var(--f-mono);font-size:.7rem;color:var(--muted)}
+a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+@media (max-width:48rem){
+  .filters{grid-template-columns:1fr 1fr}
+  thead{display:none}
+  table,tbody,tr,td{display:block;width:100%}
+  tr{padding:.7rem 0;border-bottom:1px solid var(--rule)}
+  td{border:none;padding:.1rem 0}
+  td.d{order:-1}
+  td.s,td.r{display:inline;margin-right:.6rem}
+}
+@media (max-width:30rem){.wrap{padding:1.8rem 1rem 3.5rem}.filters{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="masthead">
+    <div class="kicker"><span id="k-archive">Archive</span><span>Mise à jour chaque nuit</span></div>
+    <h1>Rechercher dans la revue de presse</h1>
+  </header>
+
+  <div class="search" role="search">
+    <input class="q" id="q" type="search" placeholder="Mots du titre : retraites, Tour de France, Hidalgo..." autocomplete="off" aria-label="Recherche dans les titres">
+    <p class="hint">Tous les mots doivent figurer dans le titre. "expression exacte" entre guillemets, -mot pour exclure. Accents et majuscules ignorés.</p>
+
+    <div class="periods" id="periods">
+      <button class="chip" data-days="7" aria-pressed="false">7 jours</button>
+      <button class="chip" data-days="30" aria-pressed="true">30 jours</button>
+      <button class="chip" data-days="90" aria-pressed="false">3 mois</button>
+      <button class="chip" data-days="all" aria-pressed="false">Tout</button>
+      <span class="dates"><input type="date" id="from" aria-label="Du"> au <input type="date" id="to" aria-label="Au"></span>
+    </div>
+
+    <div class="filters">
+      <div class="field"><label for="source">Source</label><select id="source"><option value="">Toutes les sources</option></select></div>
+      <div class="field"><label for="rubrique">Rubrique</label><select id="rubrique"><option value="">Toutes les rubriques</option></select></div>
+      <div class="field"><label for="origine">Origine</label><select id="origine"><option value="">Toutes</option><option value="rss">Flux RSS directs</option><option value="ga">Via Google Actualités</option></select></div>
+      <div class="field"><label for="tri">Tri</label><select id="tri"><option value="date-desc">Plus récent d'abord</option><option value="date-asc">Plus ancien d'abord</option><option value="source-asc">Source (A-Z)</option><option value="rubrique-asc">Rubrique</option></select></div>
+    </div>
+  </div>
+
+  <div class="bar">
+    <span class="count" id="count">...</span>
+    <span class="weeks" id="weeks"></span>
+    <span class="actions"><button class="btn" id="reset">Réinitialiser</button><button class="btn" id="csv">Exporter CSV</button></span>
+  </div>
+
+  <div class="status" id="status">Chargement de l'archive...</div>
+  <table id="table" hidden>
+    <thead><tr>
+      <th><button data-sort="date">Date <span class="arrow"></span></button></th>
+      <th>Titre</th>
+      <th><button data-sort="source">Source <span class="arrow"></span></button></th>
+      <th><button data-sort="rubrique">Rubrique <span class="arrow"></span></button></th>
+    </tr></thead>
+    <tbody id="rows"></tbody>
+  </table>
+  <button class="btn more" id="more" hidden>Afficher plus</button>
+
+  <footer>Recherche dans les titres des articles collectés par le digest RSS (un an d'archive). Ne contient que ce qui a passé les filtres et plafonds de la collecte. Étiquette GA : article remonté via Google Actualités, date à vérifier.</footer>
+</div>
+
+<script>
+(function(){
+  "use strict";
+  // Chemin relatif (GitHub Pages), repli sur le dépôt brut si la page est ouverte ailleurs.
+  var BASES = ["digest/archive/", "https://raw.githubusercontent.com/Mayolito000/revue-de-presse-digest/main/digest/archive/"];
+  var PAGE = 200;
+  var GA = " (via Google Actualités)";
+
+  var $ = function(id){ return document.getElementById(id); };
+  var base = null, index = [], cache = {}, rows = [], filtered = [], shown = 0;
+  var sort = { key: "date", dir: -1 };
+  var state = { q: "", days: "30", from: "", to: "", source: "", rubrique: "", origine: "" };
+
+  function norm(s){
+    return (s || "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase()
+      .replace(/[’'`]/g, "'").replace(/\s+/g, " ");
+  }
+  function shortRubrique(r){ return (r || "").replace(/ \(.*\)$/, ""); }
+  function baseSource(s){ s = s.endsWith(GA) ? s.slice(0, -GA.length) : s; return s.charAt(0).toUpperCase() + s.slice(1); }
+  function ymd(d){ return d.getFullYear() + "-" + String(d.getMonth()+1).padStart(2,"0") + "-" + String(d.getDate()).padStart(2,"0"); }
+  var fmt = new Intl.DateTimeFormat("fr-FR", { day:"numeric", month:"short", year:"numeric", hour:"2-digit", minute:"2-digit", timeZone:"Europe/Paris" });
+
+  function fetchText(path){
+    var tryBase = function(i){
+      if (i >= BASES.length) return Promise.reject(new Error("introuvable"));
+      return fetch(BASES[i] + path, { cache: "no-cache" }).then(function(r){
+        if (!r.ok) throw new Error(r.status);
+        base = base || BASES[i];
+        return r.text();
+      }).catch(function(){ return tryBase(i + 1); });
+    };
+    return base ? fetch(base + path, { cache: "no-cache" }).then(function(r){ if(!r.ok) throw new Error(r.status); return r.text(); }) : tryBase(0);
+  }
+
+  // Parse la requête : mots obligatoires, "expressions", -exclusions.
+  function parseQuery(q){
+    var must = [], not = [], re = /(-?)"([^"]+)"|(-?)(\S+)/g, m;
+    q = norm(q);
+    while ((m = re.exec(q))) {
+      var neg = m[1] || m[3], term = (m[2] || m[4] || "").trim();
+      if (!term || term === "-") continue;
+      (neg ? not : must).push(term);
+    }
+    return { must: must, not: not };
+  }
+
+  function range(){
+    var to = state.to ? new Date(state.to + "T23:59:59") : new Date();
+    var from;
+    if (state.from) from = new Date(state.from + "T00:00:00");
+    else if (state.days === "all") from = new Date(2000, 0, 1);
+    else { from = new Date(); from.setHours(0,0,0,0); from.setDate(from.getDate() - Number(state.days) + 1); }
+    return { from: from, to: to };
+  }
+
+  function monthsNeeded(r){
+    return index.filter(function(m){
+      var start = new Date(m.mois + "-01T00:00:00");
+      var end = new Date(start.getFullYear(), start.getMonth() + 1, 0, 23, 59, 59);
+      return end >= r.from && start <= r.to;
+    }).map(function(m){ return m.fichier; });
+  }
+
+  function loadMonths(files){
+    var todo = files.filter(function(f){ return !cache[f]; });
+    if (!todo.length) return Promise.resolve();
+    $("status").hidden = false; $("status").className = "status";
+    $("status").textContent = "Chargement de " + todo.length + " mois d'archive...";
+    return Promise.all(todo.map(function(f){
+      return fetchText(f).then(function(txt){
+        cache[f] = txt.split("\n").filter(Boolean).map(function(l){
+          try {
+            var o = JSON.parse(l);
+            o._d = new Date(o.dt);
+            o._t = norm(o.title);
+            o._src = baseSource(o.source);
+            o._ga = o.source.endsWith(GA);
+            o._rub = shortRubrique(o.rubrique);
+            return o;
+          } catch(e){ return null; }
+        }).filter(Boolean);
+      });
+    }));
+  }
+
+  function populateSelects(){
+    var srcCount = {}, rubs = {};
+    Object.keys(cache).forEach(function(f){ cache[f].forEach(function(o){
+      srcCount[o._src] = (srcCount[o._src] || 0) + 1;
+      rubs[o.rubrique_num] = o._rub;
+    }); });
+    var srcSel = $("source"), cur = state.source;
+    srcSel.length = 1;
+    Object.keys(srcCount).sort(function(a,b){ return a.localeCompare(b, "fr"); }).forEach(function(s){
+      srcSel.add(new Option(s + " (" + srcCount[s] + ")", s));
+    });
+    srcSel.value = cur;
+    var rubSel = $("rubrique"); cur = state.rubrique;
+    rubSel.length = 1;
+    Object.keys(rubs).sort(function(a,b){ return a - b; }).forEach(function(n){ rubSel.add(new Option(rubs[n], n)); });
+    rubSel.value = cur;
+  }
+
+  function apply(){
+    var r = range(), files = monthsNeeded(r);
+    return loadMonths(files).then(function(){
+      populateSelects();
+      var q = parseQuery(state.q);
+      rows = [];
+      files.forEach(function(f){ rows = rows.concat(cache[f] || []); });
+      filtered = rows.filter(function(o){
+        if (o._d < r.from || o._d > r.to) return false;
+        if (state.source && o._src !== state.source) return false;
+        if (state.rubrique !== "" && String(o.rubrique_num) !== state.rubrique) return false;
+        if (state.origine === "ga" && !o._ga) return false;
+        if (state.origine === "rss" && o._ga) return false;
+        for (var i = 0; i < q.must.length; i++) if (o._t.indexOf(q.must[i]) === -1) return false;
+        for (var j = 0; j < q.not.length; j++) if (o._t.indexOf(q.not[j]) !== -1) return false;
+        return true;
+      });
+      sortRows();
+      shown = 0;
+      $("rows").textContent = "";
+      renderMore();
+      renderSummary(r);
+      writeHash();
+    }).catch(function(e){
+      $("status").hidden = false; $("status").className = "status err";
+      $("status").textContent = "Impossible de charger l'archive (" + e.message + "). Réessaie dans un moment.";
+    });
+  }
+
+  function sortRows(){
+    var k = sort.key, d = sort.dir;
+    filtered.sort(function(a, b){
+      var c = 0;
+      if (k === "source") c = a._src.localeCompare(b._src, "fr") * d;
+      else if (k === "rubrique") c = (a.rubrique_num - b.rubrique_num) * d;
+      else c = (a._d - b._d) * d;
+      // À égalité de source ou de rubrique : le plus récent d'abord.
+      return c || (b._d - a._d);
+    });
+    document.querySelectorAll("th button").forEach(function(b){
+      b.querySelector(".arrow").textContent = b.dataset.sort === k ? (d < 0 ? "↓" : "↑") : "";
+      b.parentElement.setAttribute("aria-sort", b.dataset.sort === k ? (d < 0 ? "descending" : "ascending") : "none");
+    });
+    $("tri").value = k + "-" + (d < 0 ? "desc" : "asc");
+  }
+
+  function renderMore(){
+    var frag = document.createDocumentFragment();
+    filtered.slice(shown, shown + PAGE).forEach(function(o){
+      var tr = document.createElement("tr");
+      var td1 = document.createElement("td"); td1.className = "d"; td1.textContent = fmt.format(o._d);
+      var td2 = document.createElement("td"); td2.className = "t";
+      var a = document.createElement("a"); a.href = o.url; a.target = "_blank"; a.rel = "noopener"; a.textContent = o.title;
+      td2.appendChild(a);
+      var td3 = document.createElement("td"); td3.className = "s"; td3.textContent = o._src;
+      if (o._ga) { var g = document.createElement("span"); g.className = "ga"; g.textContent = "GA"; g.title = "Via Google Actualités"; td3.appendChild(g); }
+      var td4 = document.createElement("td"); td4.className = "r"; td4.textContent = o._rub;
+      tr.append(td1, td2, td3, td4);
+      frag.appendChild(tr);
+    });
+    $("rows").appendChild(frag);
+    shown = Math.min(shown + PAGE, filtered.length);
+    $("table").hidden = filtered.length === 0;
+    $("status").hidden = filtered.length !== 0;
+    if (!filtered.length) { $("status").className = "status"; $("status").textContent = "Aucun article ne correspond. Essaie un mot proche ou élargis la période."; }
+    $("more").hidden = shown >= filtered.length;
+    $("more").textContent = "Afficher plus (" + (filtered.length - shown) + " restants)";
+  }
+
+  function renderSummary(r){
+    var n = filtered.length;
+    $("count").textContent = n.toLocaleString("fr-FR") + (n > 1 ? " articles" : " article");
+    // Répartition par semaine (lundi), pour voir un sujet monter ou retomber.
+    var weeks = {};
+    filtered.forEach(function(o){
+      var d = new Date(o._d); d.setHours(0,0,0,0); d.setDate(d.getDate() - ((d.getDay() + 6) % 7));
+      var k = ymd(d); weeks[k] = (weeks[k] || 0) + 1;
+    });
+    var keys = Object.keys(weeks).sort();
+    $("weeks").textContent = (state.q || state.source || state.rubrique !== "" ) && keys.length > 1
+      ? "Par semaine : " + keys.slice(-12).map(function(k){ var p = k.split("-"); return p[2] + "/" + p[1] + " " + weeks[k]; }).join(" · ")
+      : "";
+  }
+
+  function writeHash(){
+    var p = new URLSearchParams();
+    Object.keys(state).forEach(function(k){ if (state[k] && !(k === "days" && state[k] === "30")) p.set(k, state[k]); });
+    if (sort.key !== "date" || sort.dir !== -1) p.set("tri", sort.key + "-" + (sort.dir < 0 ? "desc" : "asc"));
+    history.replaceState(null, "", p.toString() ? "#" + p.toString() : location.pathname);
+  }
+  function readHash(){
+    var p = new URLSearchParams(location.hash.slice(1));
+    Object.keys(state).forEach(function(k){ if (p.has(k)) state[k] = p.get(k); });
+    if (p.has("tri")) { var t = p.get("tri").split("-"); sort = { key: t[0], dir: t[1] === "asc" ? 1 : -1 }; }
+  }
+  function syncControls(){
+    $("q").value = state.q; $("from").value = state.from; $("to").value = state.to;
+    $("origine").value = state.origine;
+    document.querySelectorAll("#periods .chip").forEach(function(c){
+      c.setAttribute("aria-pressed", String(!state.from && !state.to && c.dataset.days === state.days));
+    });
+  }
+
+  // Événements
+  var timer;
+  $("q").addEventListener("input", function(){ clearTimeout(timer); timer = setTimeout(function(){ state.q = $("q").value; apply(); }, 180); });
+  document.querySelectorAll("#periods .chip").forEach(function(c){
+    c.addEventListener("click", function(){ state.days = c.dataset.days; state.from = ""; state.to = ""; syncControls(); apply(); });
+  });
+  ["from","to"].forEach(function(id){ $(id).addEventListener("change", function(){ state[id] = $(id).value; syncControls(); apply(); }); });
+  ["source","rubrique","origine"].forEach(function(id){ $(id).addEventListener("change", function(){ state[id] = $(id).value; apply(); }); });
+  $("tri").addEventListener("change", function(){ var t = $("tri").value.split("-"); sort = { key: t[0], dir: t[1] === "asc" ? 1 : -1 }; sortRows(); shown = 0; $("rows").textContent = ""; renderMore(); writeHash(); });
+  document.querySelectorAll("th button").forEach(function(b){
+    b.addEventListener("click", function(){
+      var k = b.dataset.sort;
+      sort = sort.key === k ? { key: k, dir: -sort.dir } : { key: k, dir: k === "date" ? -1 : 1 };
+      sortRows(); shown = 0; $("rows").textContent = ""; renderMore(); writeHash();
+    });
+  });
+  $("more").addEventListener("click", renderMore);
+  $("reset").addEventListener("click", function(){
+    state = { q: "", days: "30", from: "", to: "", source: "", rubrique: "", origine: "" };
+    sort = { key: "date", dir: -1 }; syncControls(); apply();
+  });
+  $("csv").addEventListener("click", function(){
+    var esc = function(v){ return '"' + String(v).replace(/"/g, '""') + '"'; };
+    var lines = [["date","titre","source","via_google_actualites","rubrique","lien"].join(";")];
+    filtered.forEach(function(o){ lines.push([fmt.format(o._d), o.title, o._src, o._ga ? "oui" : "non", o._rub, o.url].map(esc).join(";")); });
+    var blob = new Blob(["﻿" + lines.join("\n")], { type: "text/csv;charset=utf-8" });
+    var a = document.createElement("a"); a.href = URL.createObjectURL(blob);
+    a.download = "revue-recherche-" + ymd(new Date()) + ".csv"; a.click();
+    setTimeout(function(){ URL.revokeObjectURL(a.href); }, 1000);
+  });
+
+  // Démarrage
+  readHash(); syncControls();
+  fetchText("index.json").then(function(txt){
+    var data = JSON.parse(txt);
+    index = data.mois || [];
+    var total = index.reduce(function(s, m){ return s + m.articles; }, 0);
+    var first = index.length ? index[0].mois : "";
+    $("k-archive").textContent = total.toLocaleString("fr-FR") + " articles" + (first ? " depuis " + new Date(first + "-01T00:00:00").toLocaleDateString("fr-FR", { month: "long", year: "numeric" }) : "");
+    return apply();
+  }).catch(function(e){
+    $("status").className = "status err";
+    $("status").textContent = "Archive introuvable pour l'instant (" + e.message + "). Elle apparaît après la prochaine collecte nocturne.";
+  });
+})();
+</script>
+</body>
+</html>

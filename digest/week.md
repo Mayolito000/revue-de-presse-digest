@@ -1,4 +1,4 @@
-# Digest RSS hebdomadaire — généré le 2026-10-13 06:49 UTC
+# Digest RSS hebdomadaire — généré le 2026-10-14 04:57 UTC
 
 Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se situe entre le 2026-10-05 et le 2026-10-11 (semaine calendaire complète la plus récente, lundi à dimanche). Aucun tri éditorial n'a été fait.
 

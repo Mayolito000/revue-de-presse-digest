@@ -1,4 +1,4 @@
-# Digest RSS mensuel — généré le 2026-10-19 04:45 UTC
+# Digest RSS mensuel — généré le 2026-10-20 04:55 UTC
 
 Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se situe entre le 2026-09-01 et le 2026-09-30 (mois civil écoulé le plus récent). Aucun tri éditorial n'a été fait.
 
@@ -1133,7 +1133,6 @@ Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se s
 - **« Faire mieux avec moins » – la pratique du vélo grimpe en Île-de-France, mais le réseau reste très inégal - Weelz!** — Google Actualités (2026-09-18 04:58 UTC) — https://news.google.com/rss/articles/CBMiygFBVV95cUxONmwxZVExXzliS29kY015S2ZxOTJ5VEpoRWpYTEtYQWg4MjhlYV9sZ3NVZVF3c082QlJMZEhvd2lJdzk5c3FUMm84R1dIUTAyYkpGWlJDMFdKVkpfWXA2aG05bHlPSGxYYW1lY3JadUtCRU13cDB2T0JfU3hLV29UVElnd3FhUTEzc2tXY0FpT0swVDZLTWxxZmV0Vl9rR3BCZ3JGaC10QUxpR0dSXzhPa3VCUDJMUTVvZVljcEVpYW0ySzNMcVl3VTd3?oc=5
 - **Les manuels numériques libres de la région Île-de-France devront être retirés avant le 2 novembre (cour d'appel) - AEF info** — Google Actualités (2026-09-18 04:55 UTC) — https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNFUteklmTjd6SFNjczR0MDQ5em5meHBRbTlWYnpMV2tUN3pEYzNQRVdVTnhWMlJKQ2xla1MtYUlHZm5HUHpOV3B3NGYtbUhlcmJxTV9jWklGSzV2TWE1SDZoWmR4RVZkeFpqMTRnVktmM3ZDNHA5ZndtQ05PV2M2YXNPUUVXWWFkdGo2V2xyWXNBZHctMHdoTnprYmxpVmVPZlBWdDY4VFdXUUtWcWhZRkxmbC1DREVueEQxdUhLNGlTRG0wUTJVUGlhRENDdEY3ajJFMlN3YVF3dVpVUDhR?oc=5
 - **ESS : accélérer la dynamique d’achat responsable en Île-de-France - Région Ile-de-France** — Google Actualités (2026-09-17 15:22 UTC) — https://news.google.com/rss/articles/CBMisAFBVV95cUxOMmI4bnF5T2RuMW1reEJDSVRiZ0F5d21iRGU3djExX2tfd1FQUXRLOUU3WTF3VWJVY0FqOFJ1U2RJRTAzNjlpUjZab3BEZE5SQ09PZUxNMHpSUEN2YVlidDFVYTBsY0ZMRG93YmJWc1d2QzhISkRZRUJDOFBpVW1maV9wTlVJQ3lSMGlVcjZTR055V3hwb0tJZXZ5RzJ2dXNkLWU4TWhaamdFRkk0bXl0Yw?oc=5
-- **Derrière leur soutien à la science, les Hauts-de-France misent sur l'emploi local - EVASION** — Google Actualités (2026-09-16 10:00 UTC) — https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdm1qZnZRVC1QRE5QcUtJR2NDSHZCOVhETzlac25mMXV3QTlGVzZhdk5PQzB1cXM1eFBQS1MtNVhWeFhETmMtRjU5UWZyU2x6aVYxcW4yS1R3TkU2blBRMFJ0bWFTWGszeE9vS1M1YVlmdFNrOEJJblByb1pPeWVxVno0SzhmWkJkUnF0bDhWSXJWUFZfQkhxeXM0bWdFSER1bGFja19hc0piQQ?oc=5
 
 ## 20. Médias et journalisme
 - **Mariana Grépinet** — La Revue des médias (INA) (via Google Actualités) (2026-09-30 08:57 UTC) — https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80WWdqbGg2REYzQTloYklVNEctMV91OEVDS3Z6RGxvbTBaLWZjaEgwcWJ5SUdDRUJrUkRtQmp2NXZFam1IVUU1bnhhS2dCYXNHTDJaZGhXQ25UY2huOFdGR1lQUFV3NHM?oc=5
@@ -1150,7 +1149,6 @@ Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se s
 - **Christy Kinahan’s UAE Residence Visa Cancelled** — Bellingcat (2026-09-19 17:46 UTC) — https://www.bellingcat.com/news/2026/09/19/christy-kinahans-uae-residence-visa-cancelled
 - **France: victoire juridique pour les journalistes du groupe de presse Infopro Digital menacés de licenciement au profit de l’IA - European Federation of Journalists** — Google Actualités (2026-09-17 13:58 UTC) — https://news.google.com/rss/articles/CBMigAJBVV95cUxQVUZoS0kzWVZjZUFsa01mRERLOElfd2oyb1ZSejFHRGdMTUlsVDJJYXQ3LVR1V2pwSGkya2Z1Rk5LSHVHa2VENDJxd2dhLXloN05yeGp0S2tEdFl5TzBOQ0RoN1piWnpUYlR2ZmhfV1BxZ3dUOEFFTVNscnFGYUMySkRRb3VvVm1ZbHNFNDI5Rkh6ZWpGQVlYN25Ud0hwY2NSLXdScWlJTGZ2UlRUWkMxTy11VnNlSVVGUjlrRDJXTEI0YWgxN3lGQnV2ek13YWRSY3lRZ0FNVVR3WXE0dElFV3U4UFdmU2VqcGdxbC1WamFfTHZOOG5TMHc0b0FOcXN5?oc=5
 - **Désinformation : un compte complotiste parmi les meilleures ventes Substack - ina.fr** — La Revue des médias (INA) (via Google Actualités) (2026-09-17 05:30 UTC) — https://news.google.com/rss/articles/CBMirAFBVV95cUxOWGpEMXh0a1c5Y085bDNMekgwQU96R0lZRUxRbVdWWDBMakNHRU95dWtmQ01aOVZUeUFtVmstSzNjSDd3NUsydHY2ZUt6MUFpa1dKWGsxSmE5WnY0VXA1V1VCTjFvakpJTGM3WDBWUjlaSmJMbTZlcEI5dVdIZFpsY0plUWVEOFB2VEt3eGlFTmJJb2IyVmJiaHo0d2VZNkpyQ2FieV9nZ1FRM0hz?oc=5
-- **“A Recurring Pattern”: Civilians Paying the Price in Mali’s Drone Campaign** — Bellingcat (2026-09-16 16:04 UTC) — https://www.bellingcat.com/news/2026/09/16/drone-strike-civilians-killed-aes-sahel-mali-russia-africa-corps-guilt-by-location-jeune-afrique
 
 ## 21. Culture
 - **A Bordeaux, des danseurs établissent le record du monde du plus grand French cancan** — franceinfo (2026-09-30 18:47 UTC) — https://www.franceinfo.fr/culture/spectacles/danse/a-bordeaux-des-danseurs-etablissent-le-record-du-monde-du-plus-grand-french-cancan_8216794.html#xtor=RSS-3-%5Bgeneral%5D
@@ -1325,4 +1323,4 @@ Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se s
 
 ---
 
-Total d'entrées sur la période : 1273.
+Total d'entrées sur la période : 1271.

@@ -1,4 +1,4 @@
-# Digest RSS mensuel — généré le 2026-10-23 04:55 UTC
+# Digest RSS mensuel — généré le 2026-10-24 04:40 UTC
 
 Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se situe entre le 2026-09-01 et le 2026-09-30 (mois civil écoulé le plus récent). Aucun tri éditorial n'a été fait.
 
@@ -1139,7 +1139,6 @@ Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se s
 - **« La liberté de la presse est-elle menacée ? » : une table ronde ouverte à tous à Saint-Lô le 15 octobre - Ouest-France** — Google Actualités (2026-09-22 15:45 UTC) — https://news.google.com/rss/articles/CBMilAJBVV95cUxOTjFJRG1kZlhMUkdvSXlFWDBZZnN2clNXNnBKYi1zMEViSDJ1dFl5VUdidXo1Z25tbWNyQlpCUE1vM3BZTjJGLW03a09lREhuRzNvTXVPLXdBdkNrVWJtTGkxcXE0QjBQbVRwbUEzLUxMUlgtbWtvTHI0dEg0ZmhteEo4YjktMUNtN1loalJNcEY0Ukp4cWcxVnBhd2lPZm9WWlBrXzlYek5fNDNDQXIxbkREOFNmTzJhLWJNV2JZbEMzS2F6NDZISVFWUE16cEtIdjJxLTUyeXRmN0RIQjNJUV96X2tDMkVobWlDaUE2cTNORDF4aFRhaWJUZEppZFM2NWQ2c3ZHcUREaEZ1bC02czhXUVQ?oc=5
 - **« To Catch a Predator » : quand la télévision piégeait des prédateurs sexuels - ina.fr** — La Revue des médias (INA) (via Google Actualités) (2026-09-22 05:30 UTC) — https://news.google.com/rss/articles/CBMitwFBVV95cUxQWFlrYnZ0ZzhvQXowYU9aZ3VZa0dFemptbVh2M3hLLWotVHFxZm03a1FnNUZqdHM2cENDZnpmVDdZcVptMU1fNk50dzg3OVVLRkE4bTVKajQ2QUJkNTNrQm9rSGIyX2Ftcm1Na29yUFE1b2dTZnZoZTR6ckJNVDNqZmMwM183OWM3R001cmgwU25sY04tdTlDeXB2ZmpqUWE2RVh6Um5xWW1WX0swRmtvSHFEQzhndDQ?oc=5
 - **Explosion de l'usine AZF à Toulouse, 25 ans après : le « travelling vers le néant » de deux journalistes - ina.fr** — La Revue des médias (INA) (via Google Actualités) (2026-09-21 05:00 UTC) — https://news.google.com/rss/articles/CBMimwFBVV95cUxOWnQ0TEZValB1UGJNUndTM1NjbGFfbEZnY016a2pSYnVybzFsaEdwNVdaSXhlOC1IZHYtYVVmVF9LQ3RiS1JHWHMyWlNqZzZwV2FpbWNMb0pRUDIyOG5WTWdMOWRVVkJZT3p1Yy0xVkNHZ3FUYlBiZEwtTGpjSGFpU3ZpczgxOFBybHR5SkhrQVNtMVdQb1BZMHl3cw?oc=5
-- **« Stop de kindermoord » : l’article qui a conduit les Pays-Bas à devenir pro-vélo - ina.fr** — La Revue des médias (INA) (via Google Actualités) (2026-09-20 05:30 UTC) — https://news.google.com/rss/articles/CBMinwFBVV95cUxOOEtvelRxUzZEOXdFNWtwMXhRYlczUUhTMXBBNlhKSGdwTHpCSXVCcFFrR1NfVVVxYlgxbEtkZm9MTE1pUnc3VlUwM0VEWmpsdG9qbHVKNmROeG5mdm9mOGxJd0YyRVVHc19uUm9hRkZNZm9Wa2NJbTBqNDd6dWJmMHljVzRJZ0NocEVZZmU2dV9QYWZyalZSVDFaTVpfdlE?oc=5
 
 ## 21. Culture
 - **A Bordeaux, des danseurs établissent le record du monde du plus grand French cancan** — franceinfo (2026-09-30 18:47 UTC) — https://www.franceinfo.fr/culture/spectacles/danse/a-bordeaux-des-danseurs-etablissent-le-record-du-monde-du-plus-grand-french-cancan_8216794.html#xtor=RSS-3-%5Bgeneral%5D
@@ -1314,4 +1313,4 @@ Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se s
 
 ---
 
-Total d'entrées sur la période : 1262.
+Total d'entrées sur la période : 1261.

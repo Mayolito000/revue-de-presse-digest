@@ -1,4 +1,4 @@
-# Digest RSS mensuel — généré le 2026-11-08 06:06 UTC
+# Digest RSS mensuel — généré le 2026-11-09 06:39 UTC
 
 Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se situe entre le 2026-10-01 et le 2026-10-31 (mois civil écoulé le plus récent). Aucun tri éditorial n'a été fait.
 
@@ -1075,13 +1075,6 @@ _Rien de retenu par les flux pour cette rubrique sur la période._
 - **Ces journalistes qui changent leur écriture pour se distinguer de l’IA** — La Revue des médias (INA) (via Google Actualités) (2026-10-12 05:30 UTC) — https://news.google.com/rss/articles/CBMipwFBVV95cUxNMkItSGZhTnBHUExzMVVTbUZDN0xQOElXdTU0RWFlX2pHcWVCMHpHTlM3NXZwTGowd2dfRkFnclR6dkpKZ19uaUprNlBPZUtnMThGeWxZbjBQT2xocFVmaFEtTlNPX0w2Y0Nrd1FoV1VGUHZFQmlWb2xGM0ZqakowOXZ5aUhKNnB6V0UyNTFnQ2FQOC0zcHhKYlNUcHBkaXBxU0NzVk1xQQ?oc=5
 - **« Répression brutale », « la France en feu »… La mobilisation lycéenne récupérée par la propagande iranienne** — La Revue des médias (INA) (via Google Actualités) (2026-10-09 05:30 UTC) — https://news.google.com/rss/articles/CBMioAFBVV95cUxQQVdvWTY4X3hOYXdUSnJhM0hfSm83Ump0SGVaRFNPZV9MbjlaMUctYVlGdnpMRnZNV3VUTy1UMWU4MW43UEZURDQtTlB1TlljRDVMSF8zT1VQU0xiZUlpbDFfTnUwb192ejY5djRoZ0NRa29JUEFwOGpmYVlvb3l0UlZDMDdBSTdVMTFyY2xDT2poUFAzT1lST2c2VHRqWkZs?oc=5
 - **Affaire Thélyson Orélien : la critique littéraire à l’épreuve de l’intelligence artificielle** — La Revue des médias (INA) (via Google Actualités) (2026-10-07 08:29 UTC) — https://news.google.com/rss/articles/CBMipAFBVV95cUxQcFNraDJtYkZDSWVNTUNFTXlhWEpkS01lVWZhdVdmTlpSYXdTMjBWUzUyLV96SkoxOE91ZEgycTk5Rk50VmR2S2FfRDJOMlNZV2NiZ0swTEROQTJTNWRRNFBzdG93dDAzbFMyM2tPN2RZd2h3azRKTFQtSFI0R1h3Vmk1R0U1UkhYTVY0S2Z2LVdNMzFzYmU5dnUyZkhuUjFpOC1UNA?oc=5
-- **Groups Associated With India’s Far-Right Receive Millions Through US Donor-Advised Funds** — Bellingcat (2026-10-06 16:00 UTC) — https://www.bellingcat.com/news/2026/10/06/dafs-india-rss-donations
-- **[Vidéo] « Du journalisme au service de l’humour » : comment Swann Périssé fait fact-checker ses blagues** — La Revue des médias (INA) (via Google Actualités) (2026-10-06 13:46 UTC) — https://news.google.com/rss/articles/CBMixAFBVV95cUxPWkw3YWF2STNOR0dva21KN3VvTFhUWVo4NWphb2hvNlQ2dWRxVDhLZmlmX0d1MmdPNEtsQmxldmJjX1R5THozNzNhdnQydGxWV2d5OUk0d0FNMzkwdHFzZEdpTWxBcERZR2VXM3VmLUN3NnNSaFM4UTFlUjRTbVFzUEhTRzI0cHd1aWpVYkY4WWgyX1l4dFhTeHRIanZqQk5vOEEtSXM1UkhpSVo5bjVkeFE2V05xUFlLbXlhZXBqVFlOam85?oc=5
-- **[Vidéo] Esmeralda Petit Benito, « femme panthère » : « On amusait pas mal les médias »** — La Revue des médias (INA) (via Google Actualités) (2026-10-06 13:46 UTC) — https://news.google.com/rss/articles/CBMipAFBVV95cUxQWDNsU0dYVDdBZjQzOHdVa1pnWUlCeVZhTUFlV3hyQjh4SWljZE9LWHprdGhtMmYxN2syXzFnTmdBU2x5WnVSSU82ZElsWDJiemFsVlFfbTZENXlyZXNZRmQzaEU5SVNvNlVUS2J1TjV1UHJGV1l1V01ZYTZqX0tzZDNaRkdSRzhmc0FwXzNUbnRnWHBoX2dyZVAyUHVXX2JQcnhTRw?oc=5
-- **[Vidéo] Comment ChatGPT choisit ses sources pour vous répondre sur l’actualité** — La Revue des médias (INA) (via Google Actualités) (2026-10-06 13:46 UTC) — https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSkZjNE5IdDJCTVNJbmVsZkRqNnNFdnNmd0YzWngxVVZvUXVkYU1HMFhwekN3dkc2ZHlwaEVKUnZqeGNIcTlabGhDMWpfSmNsaEU0X0JCYWlsWG9HTzUzQjVzckZ4YlNGQWxYd2lFQ3IwSmR6ZjZsem9sd2FqRVVGeExzQnNJQkV5dURpZDBKa2Nyc19JbDdGc0trc3JjdDBDVWp4WW5yMlBCTnc?oc=5
-- **[Vidéo] Aziatack, le Français dont les miniatures YouTube font cliquer des millions d’internautes** — La Revue des médias (INA) (via Google Actualités) (2026-10-06 13:46 UTC) — https://news.google.com/rss/articles/CBMiwwFBVV95cUxObWZWRll6M1hZMXdCRG96bVlhSUZnN0Qtd0JVVDJCS3M0N1hzR1k3SjM5MXNIajhyOS1STjRpdFl2dDg4MEhOd3dDUjhrRXhUWDl5UXEwNzZHYVJhZnF3TFpfYTd6NlFQU2F1X0VXZjcxVGNHcVNnRjF3bmZHVnlkell5QzV4VWRuNlFHWVBmQm9QdS1FV0lnUG9MVjMwS01RVm5CU3V0ZXdRbE1qMWlGQW9xNHhaU2Vsak8zSV9lYkNodjQ?oc=5
-- **[Vidéo] Dans la presse, la recommandation supplante la critique gastronomique (sauf au « Figaro** — La Revue des médias (INA) (via Google Actualités) (2026-10-06 13:45 UTC) — https://news.google.com/rss/articles/CBMivgFBVV95cUxOdVJvZUw1b3FYb1lYcUdQX1Z3MHo0Zm5fZ2x2MTBKdzVjNzl1SlZOMHktV1BVSkJxZGlkUkNkY0VuLUxaUkF1Ym5XZ0FNa2lDSzNfLXlyUjJqcWxVUDZTazlGUG81Y1QyZmpxZTZqbDA3TUdOcWMwV2YydUtzakNnMXFBRE9mUXJsRld0Q3NQRXU1S2ZITHhRVS1BRDBSY0UwS19COWVnV3A0c0dNZE5rQzFtRHpNeWJSRkptUEVB?oc=5
-- **test vidéo youtube ina shorts** — La Revue des médias (INA) (via Google Actualités) (2026-10-06 12:54 UTC) — https://news.google.com/rss/articles/CBMibkFVX3lxTFBPUFpxMlJTODZDTllVVXMzcTBEejdxWHVEOUV0M1N1VVRWRXVydVF3cjFvMEZhZVlBOERFSFZOaUZ6NXpPT0pENlJPRER3aXg4Nk9nbUlpSXg1UFV4YVdiWVY0RXZkTHpvaTN4LTdB?oc=5
 
 ## 21. Culture
 - **“Pour Le Grand bleu, la colline était plus haute que ce que je pensais”** — franceinfo (2026-10-31 19:00 UTC) — https://www.franceinfo.fr/culture/cinema/pour-le-grand-bleu-la-colline-etait-plus-haute-que-ce-que-je-pensais_8260448.html#xtor=RSS-3-%5Bgeneral%5D
@@ -1256,4 +1249,4 @@ _Rien de retenu par les flux pour cette rubrique sur la période._
 
 ---
 
-Total d'entrées sur la période : 1202.
+Total d'entrées sur la période : 1195.

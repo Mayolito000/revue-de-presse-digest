@@ -1,4 +1,4 @@
-# Digest RSS mensuel — généré le 2026-11-09 06:39 UTC
+# Digest RSS mensuel — généré le 2026-11-10 07:23 UTC
 
 Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se situe entre le 2026-10-01 et le 2026-10-31 (mois civil écoulé le plus récent). Aucun tri éditorial n'a été fait.
 
@@ -1074,7 +1074,6 @@ _Rien de retenu par les flux pour cette rubrique sur la période._
 - **Zahra Nader, journaliste afghane : continuer à informer à tout prix** — La Revue des médias (INA) (via Google Actualités) (2026-10-13 05:00 UTC) — https://news.google.com/rss/articles/CBMimAFBVV95cUxQN3N1eUsxNzlFd1hibEpUbDBQUkh1a3Fvc3JlY2pKbWNOcnVuaDlna0I2WmdqcXlDbXJ5VFlTVlREbHVTTWJOWWQwdm56TWhNdThEcEh4QkhheUdjMzhUa24zYnpRRmNNQnFsRGlPM2pPNG1YNmRnX0t2Y0VaOUc1UWI5QlhyUUJIVmM1RXl0eUlEUWhuN0g3OA?oc=5
 - **Ces journalistes qui changent leur écriture pour se distinguer de l’IA** — La Revue des médias (INA) (via Google Actualités) (2026-10-12 05:30 UTC) — https://news.google.com/rss/articles/CBMipwFBVV95cUxNMkItSGZhTnBHUExzMVVTbUZDN0xQOElXdTU0RWFlX2pHcWVCMHpHTlM3NXZwTGowd2dfRkFnclR6dkpKZ19uaUprNlBPZUtnMThGeWxZbjBQT2xocFVmaFEtTlNPX0w2Y0Nrd1FoV1VGUHZFQmlWb2xGM0ZqakowOXZ5aUhKNnB6V0UyNTFnQ2FQOC0zcHhKYlNUcHBkaXBxU0NzVk1xQQ?oc=5
 - **« Répression brutale », « la France en feu »… La mobilisation lycéenne récupérée par la propagande iranienne** — La Revue des médias (INA) (via Google Actualités) (2026-10-09 05:30 UTC) — https://news.google.com/rss/articles/CBMioAFBVV95cUxQQVdvWTY4X3hOYXdUSnJhM0hfSm83Ump0SGVaRFNPZV9MbjlaMUctYVlGdnpMRnZNV3VUTy1UMWU4MW43UEZURDQtTlB1TlljRDVMSF8zT1VQU0xiZUlpbDFfTnUwb192ejY5djRoZ0NRa29JUEFwOGpmYVlvb3l0UlZDMDdBSTdVMTFyY2xDT2poUFAzT1lST2c2VHRqWkZs?oc=5
-- **Affaire Thélyson Orélien : la critique littéraire à l’épreuve de l’intelligence artificielle** — La Revue des médias (INA) (via Google Actualités) (2026-10-07 08:29 UTC) — https://news.google.com/rss/articles/CBMipAFBVV95cUxQcFNraDJtYkZDSWVNTUNFTXlhWEpkS01lVWZhdVdmTlpSYXdTMjBWUzUyLV96SkoxOE91ZEgycTk5Rk50VmR2S2FfRDJOMlNZV2NiZ0swTEROQTJTNWRRNFBzdG93dDAzbFMyM2tPN2RZd2h3azRKTFQtSFI0R1h3Vmk1R0U1UkhYTVY0S2Z2LVdNMzFzYmU5dnUyZkhuUjFpOC1UNA?oc=5
 
 ## 21. Culture
 - **“Pour Le Grand bleu, la colline était plus haute que ce que je pensais”** — franceinfo (2026-10-31 19:00 UTC) — https://www.franceinfo.fr/culture/cinema/pour-le-grand-bleu-la-colline-etait-plus-haute-que-ce-que-je-pensais_8260448.html#xtor=RSS-3-%5Bgeneral%5D
@@ -1249,4 +1248,4 @@ _Rien de retenu par les flux pour cette rubrique sur la période._
 
 ---
 
-Total d'entrées sur la période : 1195.
+Total d'entrées sur la période : 1194.

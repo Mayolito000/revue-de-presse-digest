@@ -6,7 +6,12 @@ on:
     # Minute décalée (pas :00) et large avance sur la revue quotidienne
     # (06:00 UTC), car GitHub retarde souvent les tâches planifiées.
     - cron: "17 0 * * *"
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      rattrapage:
+        description: "Regénérer les QCM des N derniers jours (0 = run normal)"
+        required: false
+        default: "0"
 
 permissions:
   contents: write
@@ -22,10 +27,21 @@ jobs:
           python-version: "3.12"
 
       - name: Installer les dépendances
-        run: pip install feedparser requests
+        run: pip install feedparser requests anthropic
 
       - name: Collecter les flux RSS
         run: python3 collect_digest.py
+
+      # QCM d'actualité et fiches de révision (revisions.py). Avec le secret
+      # ANTHROPIC_API_KEY, les questions et synthèses sont rédigées par Claude ;
+      # sans lui, le script produit une version automatique gratuite. Une
+      # erreur ici ne doit jamais bloquer la publication du digest.
+      - name: Générer QCM et fiches de révision
+        continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          RATTRAPAGE: ${{ github.event.inputs.rattrapage || '0' }}
+        run: python3 revisions.py --rattrapage "$RATTRAPAGE"
 
       - name: Publier les digests si changés
         run: |
@@ -33,7 +49,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git fetch origin main
           git reset --mixed origin/main
-          git add -A digest/latest.md digest/week.md digest/month.md digest/history.jsonl digest/archive
+          git add -A digest/latest.md digest/week.md digest/month.md digest/history.jsonl digest/archive digest/revisions
           if git diff --cached --quiet; then
             echo "Rien de nouveau à publier."
           else

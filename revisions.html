@@ -1,0 +1,530 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Révisions concours</title>
+<meta name="description" content="QCM d'actualité quotidiens, concours blanc et fiches de synthèse pour préparer les concours des écoles de journalisme.">
+<style>
+:root {
+  --bg: #f6f5f1; --surface: #ffffff; --surface-2: #efede6; --text: #1d1c19; --muted: #6b6860;
+  --border: #dcd9cf; --accent: #b3261e; --accent-ink: #ffffff; --ok: #1f7a3d; --ok-bg: #e3f2e7;
+  --ko: #b3261e; --ko-bg: #f9e3e1; --focus: #1d5fbf;
+  --radius: 10px; --shadow: 0 1px 2px rgba(0,0,0,.05);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #161513; --surface: #1f1e1b; --surface-2: #2a2925; --text: #ecebe6; --muted: #a29f95;
+    --border: #3a3833; --accent: #ef6b5f; --accent-ink: #1a0d0b; --ok: #6fcf8e; --ok-bg: #1d3325;
+    --ko: #ef8a80; --ko-bg: #3a2220; --focus: #7aa7ec; --shadow: none;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #161513; --surface: #1f1e1b; --surface-2: #2a2925; --text: #ecebe6; --muted: #a29f95;
+  --border: #3a3833; --accent: #ef6b5f; --accent-ink: #1a0d0b; --ok: #6fcf8e; --ok-bg: #1d3325;
+  --ko: #ef8a80; --ko-bg: #3a2220; --focus: #7aa7ec; --shadow: none;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0; background: var(--bg); color: var(--text);
+  font: 16px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+.wrap { max-width: 860px; margin: 0 auto; padding: 0 16px 64px; }
+header { padding: 28px 0 8px; }
+h1 { font-family: Georgia, "Times New Roman", serif; font-size: 1.9rem; margin: 0 0 4px; letter-spacing: -.01em; }
+.sub { color: var(--muted); margin: 0; font-size: .95rem; }
+nav { position: sticky; top: 0; z-index: 5; background: var(--bg); border-bottom: 1px solid var(--border);
+  display: flex; gap: 4px; overflow-x: auto; padding: 10px 0; margin-bottom: 20px; scrollbar-width: none; }
+nav button { flex: none; border: 1px solid transparent; background: none; color: var(--muted); font: inherit;
+  font-size: .93rem; padding: 7px 12px; border-radius: 999px; cursor: pointer; white-space: nowrap; }
+nav button[aria-selected="true"] { background: var(--text); color: var(--bg); }
+nav .badge { display: inline-block; min-width: 1.4em; padding: 0 .4em; margin-left: 4px; border-radius: 999px;
+  background: var(--accent); color: var(--accent-ink); font-size: .75rem; font-weight: 600; text-align: center; }
+button, select, input { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
+.card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
+  padding: 18px; box-shadow: var(--shadow); margin-bottom: 14px; }
+.row { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+.spacer { flex: 1; }
+.muted { color: var(--muted); }
+.small { font-size: .86rem; }
+.btn { border: 1px solid var(--border); background: var(--surface); padding: 8px 14px; border-radius: 8px; cursor: pointer; }
+.btn.primary { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); font-weight: 600; }
+.btn:disabled { opacity: .5; cursor: default; }
+select, input[type="search"] { border: 1px solid var(--border); background: var(--surface); border-radius: 8px; padding: 7px 10px; max-width: 100%; }
+.tag { display: inline-block; font-size: .76rem; padding: 2px 8px; border-radius: 999px; background: var(--surface-2); color: var(--muted); }
+.progress { height: 6px; background: var(--surface-2); border-radius: 999px; overflow: hidden; margin: 10px 0 16px; }
+.progress > div { height: 100%; background: var(--accent); transition: width .2s; }
+.q-text { font-size: 1.12rem; font-weight: 600; margin: 10px 0 14px; overflow-wrap: anywhere; }
+.choices { display: grid; gap: 8px; }
+.choice { text-align: left; border: 1px solid var(--border); background: var(--surface); padding: 11px 14px;
+  border-radius: 8px; cursor: pointer; display: flex; gap: 10px; align-items: baseline; overflow-wrap: anywhere; }
+.choice:hover:not(:disabled) { border-color: var(--text); }
+.choice .k { font-weight: 700; color: var(--muted); flex: none; }
+.choice.picked { border-color: var(--text); background: var(--surface-2); }
+.choice.good { border-color: var(--ok); background: var(--ok-bg); }
+.choice.bad { border-color: var(--ko); background: var(--ko-bg); }
+.choice:disabled { cursor: default; }
+.feedback { margin-top: 14px; padding: 12px 14px; border-radius: 8px; background: var(--surface-2); overflow-wrap: anywhere; }
+.feedback strong.ok { color: var(--ok); } .feedback strong.ko { color: var(--ko); }
+a { color: var(--focus); }
+.score-big { font-family: Georgia, serif; font-size: 2.6rem; margin: 0; }
+.grid-stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; }
+.stat { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 14px; }
+.stat .v { font-size: 1.6rem; font-weight: 700; } .stat .l { color: var(--muted); font-size: .85rem; }
+.bars { display: grid; gap: 8px; }
+.bar-row { display: grid; grid-template-columns: minmax(0, 1fr) 140px 64px; gap: 10px; align-items: center; font-size: .9rem; }
+.bar-row .name { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.bar { height: 10px; background: var(--surface-2); border-radius: 999px; overflow: hidden; }
+.bar > div { height: 100%; background: var(--ok); }
+.bar.weak > div { background: var(--ko); }
+@media (max-width: 520px) { .bar-row { grid-template-columns: minmax(0, 1fr) 80px 54px; } }
+.fiche-list { display: grid; gap: 10px; }
+.fiche-item { text-align: left; width: 100%; border: 1px solid var(--border); background: var(--surface);
+  border-radius: var(--radius); padding: 14px 16px; cursor: pointer; }
+.fiche-item:hover { border-color: var(--text); }
+.fiche-item h3 { margin: 0 0 4px; font-size: 1.05rem; }
+.fiche h2 { font-family: Georgia, serif; font-size: 1.5rem; margin: 6px 0; }
+.fiche h3 { font-size: .8rem; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); margin: 20px 0 6px; }
+.fiche ul { padding-left: 20px; margin: 4px 0; } .fiche li { margin: 3px 0; }
+.chrono { border-left: 2px solid var(--border); margin-left: 6px; padding-left: 14px; }
+.chrono .day { margin-bottom: 12px; }
+.chrono .d { font-weight: 700; font-size: .92rem; }
+.chrono ul { list-style: none; padding: 0; } .chrono li { font-size: .92rem; overflow-wrap: anywhere; }
+.timer { font-variant-numeric: tabular-nums; font-weight: 700; }
+.timer.low { color: var(--ko); }
+.empty { text-align: center; padding: 36px 16px; color: var(--muted); }
+.review-list { display: grid; gap: 10px; }
+.review-item { border-left: 3px solid var(--ko); padding: 8px 12px; background: var(--surface); border-radius: 6px; overflow-wrap: anywhere; }
+.review-item.ok { border-left-color: var(--ok); }
+.note { font-size: .85rem; color: var(--muted); border-top: 1px solid var(--border); padding-top: 14px; margin-top: 28px; }
+.hidden { display: none !important; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Révisions concours</h1>
+    <p class="sub">L'actualité de ta revue de presse, transformée en QCM et en fiches. Mis à jour chaque nuit.</p>
+  </header>
+
+  <nav role="tablist" aria-label="Sections">
+    <button role="tab" data-tab="jour" aria-selected="true">QCM du jour</button>
+    <button role="tab" data-tab="blanc" aria-selected="false">Concours blanc</button>
+    <button role="tab" data-tab="revoir" aria-selected="false">À revoir<span class="badge hidden" id="badge-revoir"></span></button>
+    <button role="tab" data-tab="fiches" aria-selected="false">Fiches</button>
+    <button role="tab" data-tab="progres" aria-selected="false">Progrès</button>
+  </nav>
+
+  <main>
+    <section id="tab-jour"></section>
+    <section id="tab-blanc" class="hidden"></section>
+    <section id="tab-revoir" class="hidden"></section>
+    <section id="tab-fiches" class="hidden"></section>
+    <section id="tab-progres" class="hidden"></section>
+  </main>
+
+  <p class="note">Questions et fiches sont tirées des <em>titres</em> de presse archivés : chaque question renvoie à son article source. Vérifie un fait avant de le citer dans une copie. Ta progression est enregistrée dans ce navigateur (onglet Progrès pour l'exporter).</p>
+</div>
+
+<script>
+(function () {
+  "use strict";
+
+  // Les données sont lues à côté de la page (GitHub Pages). Si la page est
+  // ouverte ailleurs (fichier local), on retombe sur la copie brute du dépôt.
+  const SOURCES = ["", "https://raw.githubusercontent.com/mayolito000/revue-de-presse-digest/main/"];
+  const MOIS = ["janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"];
+  const JOURS = ["dimanche","lundi","mardi","mercredi","jeudi","vendredi","samedi"];
+  const INTERVALLES = [0, 1, 3, 7, 16, 35]; // jours avant de revoir, par boîte (répétition espacée)
+  const CLE_STOCKAGE = "revisions-concours-v1";
+
+  let base = null;
+  const DB = { qcm: {}, questions: new Map(), jours: [], fichesIndex: [], fiches: {} };
+
+  // ---------- Stockage local (progression) ----------
+  function chargerEtat() {
+    try { const s = JSON.parse(localStorage.getItem(CLE_STOCKAGE) || "null"); if (s && s.reponses) return s; } catch (e) {}
+    return { reponses: {}, journal: [], blancs: [] };
+  }
+  let etat = chargerEtat();
+  function sauver() { try { localStorage.setItem(CLE_STOCKAGE, JSON.stringify(etat)); } catch (e) {} }
+
+  function aujourdHui() { return new Date().toISOString().slice(0, 10); }
+  function ajouterJours(iso, n) { const d = new Date(iso + "T12:00:00Z"); d.setUTCDate(d.getUTCDate() + n); return d.toISOString().slice(0, 10); }
+
+  function enregistrer(q, ok) {
+    const r = etat.reponses[q.id] || { vu: 0, justes: 0, boite: 0 };
+    r.vu += 1; if (ok) r.justes += 1;
+    r.boite = ok ? Math.min(r.boite + 1, INTERVALLES.length - 1) : 1;
+    r.dernier = aujourdHui();
+    r.echeance = ajouterJours(r.dernier, INTERVALLES[r.boite]);
+    r.dernierOk = ok;
+    etat.reponses[q.id] = r;
+    etat.journal.push({ d: r.dernier, r: q.rubrique_num, ok: ok ? 1 : 0 });
+    if (etat.journal.length > 20000) etat.journal = etat.journal.slice(-20000);
+    sauver(); majBadge();
+  }
+
+  function aRevoir() {
+    const t = aujourdHui();
+    return Object.entries(etat.reponses)
+      .filter(([id, r]) => r.boite > 0 && r.boite < INTERVALLES.length - 1 && r.echeance <= t && DB.questions.has(id) && !(r.dernierOk && r.boite >= 3))
+      .map(([id]) => DB.questions.get(id));
+  }
+  function majBadge() {
+    const n = aRevoir().length, b = document.getElementById("badge-revoir");
+    b.textContent = n; b.classList.toggle("hidden", n === 0);
+  }
+
+  // ---------- Chargement ----------
+  async function lire(chemin) {
+    const essais = base !== null ? [base] : SOURCES;
+    for (const b of essais) {
+      try {
+        const r = await fetch(b + chemin, { cache: "no-cache" });
+        if (r.ok) { const j = await r.json(); base = b; return j; }
+      } catch (e) {}
+    }
+    throw new Error("introuvable : " + chemin);
+  }
+
+  async function chargerTout() {
+    const [qi, fi] = await Promise.all([lire("digest/revisions/qcm/index.json"), lire("digest/revisions/fiches/index.json")]);
+    const mois = await Promise.all(qi.mois.map(m => lire("digest/revisions/qcm/" + m.fichier).catch(() => null)));
+    for (const m of mois) {
+      if (!m) continue;
+      for (const [jour, contenu] of Object.entries(m.jours)) {
+        DB.qcm[jour] = contenu;
+        for (const q of contenu.questions) DB.questions.set(q.id, q);
+      }
+    }
+    DB.jours = Object.keys(DB.qcm).filter(j => DB.qcm[j].questions.length).sort().reverse();
+    DB.fichesIndex = fi.mois.slice().sort((a, b) => b.mois.localeCompare(a.mois));
+  }
+
+  // ---------- Utilitaires ----------
+  const esc = s => String(s == null ? "" : s).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  function dateFr(iso, avecJour) {
+    const d = new Date(iso + "T12:00:00Z");
+    return (avecJour ? JOURS[d.getUTCDay()] + " " : "") + d.getUTCDate() + " " + MOIS[d.getUTCMonth()] + (avecJour ? " " + d.getUTCFullYear() : "");
+  }
+  function melanger(a, seed) {
+    const t = a.slice(); let s = seed || Math.floor(Math.random() * 1e9);
+    const rnd = () => { s = (s * 1664525 + 1013904223) % 4294967296; return s / 4294967296; };
+    for (let i = t.length - 1; i > 0; i--) { const j = Math.floor(rnd() * (i + 1)); [t[i], t[j]] = [t[j], t[i]]; }
+    return t;
+  }
+  const LETTRES = "ABCD";
+  function sourceHtml(q) {
+    return `<a href="${esc(q.url)}" target="_blank" rel="noopener">${esc(q.media)}</a>, ${esc(dateFr(q.date))}`;
+  }
+
+  // ---------- Session de questions (mode entraînement : correction immédiate) ----------
+  function session(conteneur, questions, options) {
+    let i = 0, score = 0;
+    const resultats = [];
+    function afficher() {
+      if (i >= questions.length) return fin();
+      const q = questions[i];
+      conteneur.innerHTML = `
+        <div class="card">
+          <div class="row small muted"><span>Question ${i + 1} / ${questions.length}</span><span class="spacer"></span>
+            <span class="tag">${esc(q.rubrique || "")}</span>${q.difficulte ? `<span class="tag">${esc(q.difficulte)}</span>` : ""}</div>
+          <div class="progress"><div style="width:${(i / questions.length) * 100}%"></div></div>
+          <div class="q-text">${esc(q.question)}</div>
+          <div class="choices">${q.choix.map((c, k) => `<button class="choice" data-k="${k}"><span class="k">${LETTRES[k]}</span><span>${esc(c)}</span></button>`).join("")}</div>
+          <div class="fb"></div>
+        </div>`;
+      const boutons = conteneur.querySelectorAll(".choice");
+      boutons.forEach(b => b.addEventListener("click", () => repondre(+b.dataset.k)));
+      function repondre(k) {
+        const ok = k === q.reponse;
+        if (ok) score++;
+        resultats.push({ q, k, ok });
+        enregistrer(q, ok);
+        boutons.forEach(b => { b.disabled = true; const kk = +b.dataset.k;
+          if (kk === q.reponse) b.classList.add("good"); else if (kk === k) b.classList.add("bad"); });
+        conteneur.querySelector(".fb").innerHTML = `
+          <div class="feedback"><strong class="${ok ? "ok" : "ko"}">${ok ? "Juste." : "Raté."}</strong> ${esc(q.explication)}
+          <div class="small muted" style="margin-top:6px">Source : ${sourceHtml(q)}</div></div>
+          <div class="row" style="margin-top:14px"><span class="spacer"></span><button class="btn primary suivant">${i + 1 < questions.length ? "Question suivante" : "Voir le résultat"}</button></div>`;
+        const s = conteneur.querySelector(".suivant"); s.focus();
+        s.addEventListener("click", () => { i++; afficher(); });
+      }
+    }
+    function fin() {
+      const rates = resultats.filter(r => !r.ok);
+      conteneur.innerHTML = `
+        <div class="card"><p class="muted small" style="margin:0">${esc(options.titre)}</p>
+          <p class="score-big">${score} / ${questions.length}</p>
+          <p class="muted">${rates.length ? `Les ${rates.length} question${rates.length > 1 ? "s ratées reviendront" : " ratée reviendra"} dans l'onglet « À revoir ».` : "Sans faute."}</p>
+          <div class="row"><button class="btn recommencer">Recommencer</button>${options.apres || ""}</div></div>`;
+      conteneur.querySelector(".recommencer").addEventListener("click", () => { i = 0; score = 0; resultats.length = 0; afficher(); });
+      if (options.onFin) options.onFin(conteneur);
+    }
+    afficher();
+  }
+
+  // ---------- Onglet : QCM du jour ----------
+  function ongletJour() {
+    const el = document.getElementById("tab-jour");
+    if (!DB.jours.length) { el.innerHTML = `<div class="card empty">Aucun QCM disponible pour l'instant.</div>`; return; }
+    el.innerHTML = `
+      <div class="row" style="margin-bottom:14px">
+        <label for="choix-jour" class="small muted">Actualité du</label>
+        <select id="choix-jour">${DB.jours.map(j => {
+          const r = DB.qcm[j].questions.filter(q => etat.reponses[q.id]).length;
+          return `<option value="${j}">${esc(dateFr(j, true))}${r ? " ✓" : ""}</option>`; }).join("")}</select>
+        <span class="spacer"></span><span class="small muted" id="mode-jour"></span>
+      </div>
+      <div id="zone-jour"></div>`;
+    const sel = el.querySelector("#choix-jour");
+    const lancer = () => {
+      const j = sel.value, c = DB.qcm[j];
+      el.querySelector("#mode-jour").textContent = c.mode === "ia" ? "Questions rédigées par Claude" : "Textes à trous automatiques";
+      session(el.querySelector("#zone-jour"), c.questions, { titre: "Actualité du " + dateFr(j, true) });
+    };
+    sel.addEventListener("change", lancer);
+    lancer();
+  }
+
+  // ---------- Onglet : concours blanc (chronométré, correction à la fin) ----------
+  function ongletBlanc() {
+    const el = document.getElementById("tab-blanc");
+    const derniers = etat.blancs.slice(-5).reverse();
+    el.innerHTML = `
+      <div class="card">
+        <p style="margin-top:0">Conditions d'examen : questions tirées au hasard sur la période choisie, chronomètre, correction seulement à la fin.</p>
+        <div class="row">
+          <label class="small muted" for="b-periode">Période</label>
+          <select id="b-periode"><option value="30">1 mois</option><option value="90" selected>3 mois</option><option value="182">6 mois</option><option value="400">Tout</option></select>
+          <label class="small muted" for="b-n">Questions</label>
+          <select id="b-n"><option>20</option><option selected>40</option><option>60</option></select>
+          <label class="small muted" for="b-t">Temps</label>
+          <select id="b-t"><option value="10">10 min</option><option value="20" selected>20 min</option><option value="30">30 min</option><option value="0">Sans limite</option></select>
+          <span class="spacer"></span><button class="btn primary" id="b-go">Commencer</button>
+        </div>
+        <p class="small muted" id="b-dispo" style="margin-bottom:0"></p>
+      </div>
+      ${derniers.length ? `<div class="card"><strong>Derniers concours blancs</strong><ul class="small" style="margin-bottom:0">${derniers.map(b => `<li>${esc(dateFr(b.d, true))} : ${b.score}/${b.n} (${Math.round(100 * b.score / b.n)} %)</li>`).join("")}</ul></div>` : ""}
+      <div id="zone-blanc"></div>`;
+    const pool = () => {
+      const lim = ajouterJours(aujourdHui(), -(+el.querySelector("#b-periode").value));
+      return DB.jours.filter(j => j >= lim).flatMap(j => DB.qcm[j].questions);
+    };
+    const majDispo = () => { el.querySelector("#b-dispo").textContent = pool().length + " questions disponibles sur la période."; };
+    el.querySelector("#b-periode").addEventListener("change", majDispo); majDispo();
+    el.querySelector("#b-go").addEventListener("click", () => {
+      const p = pool(); const n = Math.min(+el.querySelector("#b-n").value, p.length);
+      if (!n) return;
+      // Équilibre les rubriques : tirage en tourniquet entre rubriques.
+      const parRub = {}; melanger(p).forEach(q => (parRub[q.rubrique_num] = parRub[q.rubrique_num] || []).push(q));
+      const lots = melanger(Object.values(parRub)); const tirage = [];
+      while (tirage.length < n) for (const l of lots) { if (l.length && tirage.length < n) tirage.push(l.pop()); }
+      examen(el.querySelector("#zone-blanc"), melanger(tirage), +el.querySelector("#b-t").value);
+      el.querySelector(".card").classList.add("hidden");
+    });
+  }
+
+  function examen(zone, questions, minutes) {
+    const reponses = new Array(questions.length).fill(null);
+    let i = 0, fin = minutes ? Date.now() + minutes * 60000 : null, timer = null, termine = false;
+    function tick() {
+      if (!fin || termine) return;
+      const reste = Math.max(0, fin - Date.now()), t = zone.querySelector(".timer");
+      if (t) { t.textContent = Math.floor(reste / 60000) + ":" + String(Math.floor(reste / 1000) % 60).padStart(2, "0"); t.classList.toggle("low", reste < 60000); }
+      if (reste <= 0) corriger();
+    }
+    function afficher() {
+      const q = questions[i];
+      zone.innerHTML = `
+        <div class="card">
+          <div class="row small muted"><span>Question ${i + 1} / ${questions.length} · ${reponses.filter(r => r !== null).length} répondues</span><span class="spacer"></span>${fin ? `<span class="timer">--:--</span>` : ""}</div>
+          <div class="progress"><div style="width:${(i / questions.length) * 100}%"></div></div>
+          <div class="q-text">${esc(q.question)}</div>
+          <div class="choices">${q.choix.map((c, k) => `<button class="choice${reponses[i] === k ? " picked" : ""}" data-k="${k}"><span class="k">${LETTRES[k]}</span><span>${esc(c)}</span></button>`).join("")}</div>
+          <div class="row" style="margin-top:16px"><button class="btn prec" ${i ? "" : "disabled"}>Précédente</button><span class="spacer"></span>
+            <button class="btn rendre">Rendre la copie</button><button class="btn primary suiv" ${i + 1 < questions.length ? "" : "disabled"}>Suivante</button></div>
+        </div>`;
+      zone.querySelectorAll(".choice").forEach(b => b.addEventListener("click", () => {
+        reponses[i] = +b.dataset.k; if (i + 1 < questions.length) { i++; afficher(); } else afficher(); }));
+      zone.querySelector(".prec").addEventListener("click", () => { i--; afficher(); });
+      zone.querySelector(".suiv").addEventListener("click", () => { i++; afficher(); });
+      zone.querySelector(".rendre").addEventListener("click", () => {
+        const vides = reponses.filter(r => r === null).length;
+        if (!vides || confirm(vides + " question(s) sans réponse. Rendre quand même ?")) corriger(); });
+      tick();
+    }
+    function corriger() {
+      if (termine) return; termine = true; clearInterval(timer);
+      let score = 0;
+      questions.forEach((q, k) => { const ok = reponses[k] === q.reponse; if (ok) score++; enregistrer(q, ok); });
+      etat.blancs.push({ d: aujourdHui(), score, n: questions.length }); sauver();
+      zone.innerHTML = `
+        <div class="card"><p class="muted small" style="margin:0">Concours blanc</p>
+          <p class="score-big">${score} / ${questions.length}</p>
+          <p class="muted">${Math.round(100 * score / questions.length)} % de bonnes réponses. Correction ci-dessous.</p>
+          <button class="btn" id="b-nouveau">Nouveau concours blanc</button></div>
+        <div class="review-list">${questions.map((q, k) => {
+          const ok = reponses[k] === q.reponse;
+          return `<div class="review-item ${ok ? "ok" : ""}"><div><strong>${k + 1}.</strong> ${esc(q.question)}</div>
+            <div class="small" style="margin-top:4px">${ok ? "✓" : "✗"} Ta réponse : ${reponses[k] === null ? "<em>aucune</em>" : esc(q.choix[reponses[k]])}${ok ? "" : ` · Bonne réponse : <strong>${esc(q.choix[q.reponse])}</strong>`}</div>
+            <div class="small muted" style="margin-top:4px">${esc(q.explication)} (${sourceHtml(q)})</div></div>`; }).join("")}</div>`;
+      zone.querySelector("#b-nouveau").addEventListener("click", ongletBlanc);
+    }
+    if (fin) timer = setInterval(tick, 500);
+    afficher();
+  }
+
+  // ---------- Onglet : à revoir (répétition espacée) ----------
+  function ongletRevoir() {
+    const el = document.getElementById("tab-revoir");
+    const qs = aRevoir();
+    if (!qs.length) {
+      const enCours = Object.values(etat.reponses).filter(r => r.boite > 0 && r.boite < INTERVALLES.length - 1).length;
+      el.innerHTML = `<div class="card empty">Rien à revoir aujourd'hui.${enCours ? `<br>${enCours} question(s) en cours de mémorisation reviendront les prochains jours.` : "<br>Les questions ratées apparaîtront ici, puis reviendront à intervalles croissants (1, 3, 7, 16 jours…) jusqu'à ce qu'elles soient acquises."}</div>`;
+      return;
+    }
+    el.innerHTML = `<p class="muted small">${qs.length} question(s) à revoir aujourd'hui. Une bonne réponse espace la prochaine révision, une erreur la ramène à demain.</p><div id="zone-revoir"></div>`;
+    session(el.querySelector("#zone-revoir"), melanger(qs).slice(0, 25), { titre: "Révision", onFin: () => {} });
+  }
+
+  // ---------- Onglet : fiches ----------
+  async function ongletFiches() {
+    const el = document.getElementById("tab-fiches");
+    if (!DB.fichesIndex.length) { el.innerHTML = `<div class="card empty">Aucune fiche disponible.</div>`; return; }
+    el.innerHTML = `
+      <div class="row" style="margin-bottom:14px">
+        <label class="small muted" for="f-mois">Mois</label>
+        <select id="f-mois">${DB.fichesIndex.map(m => `<option value="${m.mois}">${esc(m.libelle)} (${m.fiches})</option>`).join("")}</select>
+        <input type="search" id="f-filtre" placeholder="Filtrer (nom, mot-clé…)" aria-label="Filtrer les fiches" style="flex:1;min-width:160px">
+      </div>
+      <div id="zone-fiches"></div>`;
+    const zone = el.querySelector("#zone-fiches");
+    const sel = el.querySelector("#f-mois"), filtre = el.querySelector("#f-filtre");
+    async function liste() {
+      const m = sel.value;
+      if (!DB.fiches[m]) {
+        zone.innerHTML = `<p class="muted">Chargement…</p>`;
+        try { DB.fiches[m] = await lire("digest/revisions/fiches/" + m + ".json"); }
+        catch (e) { zone.innerHTML = `<div class="card empty">Impossible de charger ce mois.</div>`; return; }
+      }
+      const data = DB.fiches[m], f = filtre.value.trim().toLowerCase();
+      const fiches = data.fiches.filter(x => !f || [x.titre, x.intitule_auto, ...(x.entites || []), ...(x.mots_cles || []),
+        x.synthese ? x.synthese.resume : ""].join(" ").toLowerCase().includes(f));
+      zone.innerHTML = `<p class="small muted">${data.fiches.length} grands sujets repérés parmi ${data.articles_du_mois} titres${data.complet ? "" : " (mois en cours, mis à jour chaque nuit)"}.</p>
+        <div class="fiche-list">${fiches.map(x => `
+          <button class="fiche-item" data-id="${esc(x.id)}">
+            <h3>${esc(x.titre)}</h3>
+            <div class="small muted">${x.nombre_articles} articles · ${esc(dateFr(x.debut))} → ${esc(dateFr(x.fin))}${x.rubriques.length ? " · " + esc(x.rubriques[0]) : ""}</div>
+            ${x.synthese ? `<div class="small" style="margin-top:6px">${esc(x.synthese.resume)}</div>` : (x.entites.length ? `<div class="small" style="margin-top:6px">${esc(x.entites.slice(0, 5).join(", "))}</div>` : "")}
+          </button>`).join("") || `<div class="card empty">Aucune fiche ne correspond.</div>`}</div>`;
+      zone.querySelectorAll(".fiche-item").forEach(b => b.addEventListener("click", () => detail(data.fiches.find(x => x.id === b.dataset.id))));
+    }
+    function liste_ul(titre, items, rendu) {
+      return items && items.length ? `<h3>${titre}</h3><ul>${items.map(rendu || (x => `<li>${esc(x)}</li>`)).join("")}</ul>` : "";
+    }
+    function detail(x) {
+      const s = x.synthese;
+      zone.innerHTML = `
+        <button class="btn" id="f-retour" style="margin-bottom:12px">← Toutes les fiches</button>
+        <article class="card fiche">
+          <div class="small muted">${x.nombre_articles} articles · ${esc(dateFr(x.debut))} → ${esc(dateFr(x.fin))} · ${esc(x.rubriques.join(", "))}</div>
+          <h2>${esc(x.titre)}</h2>
+          ${s ? `<p><strong>En bref.</strong> ${esc(s.resume)}</p><h3>Contexte</h3><p style="margin:4px 0">${esc(s.contexte)}</p>
+            ${liste_ul("Enjeux", s.enjeux)}
+            ${liste_ul("Acteurs", s.acteurs, a => `<li><strong>${esc(a.nom)}</strong> : ${esc(a.role)}</li>`)}
+            ${liste_ul("Chiffres clés", s.chiffres_cles)}
+            ${liste_ul("À retenir pour le concours", s.a_retenir)}
+            ${liste_ul("Questions possibles à l'oral", s.questions_oral)}`
+          : `<p class="small muted">Fiche automatique : sujet et chronologie repérés dans les titres. Avec une clé API Claude configurée, chaque fiche reçoit aussi une synthèse (contexte, enjeux, acteurs, chiffres, questions d'oral).</p>
+            ${x.entites.length ? `<h3>Noms qui reviennent</h3><p style="margin:4px 0">${esc(x.entites.join(", "))}</p>` : ""}
+            ${x.mots_cles.length ? `<h3>Mots-clés</h3><p style="margin:4px 0">${esc(x.mots_cles.join(", "))}</p>` : ""}`}
+          <h3>Chronologie</h3>
+          <div class="chrono">${x.chronologie.map(j => `
+            <div class="day"><div class="d">${esc(dateFr(j.date, true))} <span class="muted small">· ${j.nombre} article${j.nombre > 1 ? "s" : ""}</span></div>
+            <ul>${j.articles.map(a => `<li><a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.titre)}</a> <span class="muted">— ${esc(a.media)}</span></li>`).join("")}</ul></div>`).join("")}</div>
+          <h3>Sources principales</h3><p class="small" style="margin:4px 0">${esc(x.medias.join(", "))}</p>
+        </article>`;
+      zone.querySelector("#f-retour").addEventListener("click", liste);
+      window.scrollTo({ top: 0 });
+    }
+    sel.addEventListener("change", liste);
+    filtre.addEventListener("input", liste);
+    liste();
+  }
+
+  // ---------- Onglet : progrès ----------
+  function ongletProgres() {
+    const el = document.getElementById("tab-progres");
+    const j = etat.journal, total = j.length, justes = j.filter(x => x.ok).length;
+    const jours = new Set(j.map(x => x.d));
+    let serie = 0, d = aujourdHui();
+    if (!jours.has(d)) d = ajouterJours(d, -1); // la série n'est pas perdue tant que la journée n'est pas finie
+    while (jours.has(d)) { serie++; d = ajouterJours(d, -1); }
+    const acquises = Object.values(etat.reponses).filter(r => r.boite >= 3).length;
+    const parRub = {};
+    j.forEach(x => { const r = parRub[x.r] = parRub[x.r] || { n: 0, ok: 0 }; r.n++; r.ok += x.ok; });
+    const nomRub = {}; DB.questions.forEach(q => { nomRub[q.rubrique_num] = q.rubrique; });
+    const lignes = Object.entries(parRub).filter(([, v]) => v.n >= 3).map(([k, v]) => ({ nom: nomRub[k] || "Rubrique " + k, n: v.n, p: v.ok / v.n }))
+      .sort((a, b) => a.p - b.p);
+    const sem = j.filter(x => x.d >= ajouterJours(aujourdHui(), -6));
+    el.innerHTML = `
+      <div class="grid-stats" style="margin-bottom:14px">
+        <div class="stat"><div class="v">${total}</div><div class="l">réponses au total</div></div>
+        <div class="stat"><div class="v">${total ? Math.round(100 * justes / total) : 0} %</div><div class="l">de bonnes réponses</div></div>
+        <div class="stat"><div class="v">${sem.length ? Math.round(100 * sem.filter(x => x.ok).length / sem.length) + " %" : "—"}</div><div class="l">sur les 7 derniers jours</div></div>
+        <div class="stat"><div class="v">${serie}</div><div class="l">jour${serie > 1 ? "s" : ""} d'affilée</div></div>
+        <div class="stat"><div class="v">${acquises}</div><div class="l">questions acquises</div></div>
+      </div>
+      <div class="card"><strong>Par rubrique</strong> <span class="small muted">(points faibles en premier, à partir de 3 réponses)</span>
+        <div class="bars" style="margin-top:12px">${lignes.length ? lignes.map(l => `
+          <div class="bar-row"><span class="name" title="${esc(l.nom)}">${esc(l.nom)}</span>
+            <div class="bar ${l.p < .5 ? "weak" : ""}"><div style="width:${Math.round(l.p * 100)}%"></div></div>
+            <span class="small">${Math.round(l.p * 100)} % <span class="muted">(${l.n})</span></span></div>`).join("") : `<p class="muted small">Réponds à quelques QCM pour voir tes points forts et faibles.</p>`}</div>
+      </div>
+      <div class="card"><strong>Sauvegarde</strong>
+        <p class="small muted">La progression est stockée dans ce navigateur. Exporte-la pour la transférer sur un autre appareil.</p>
+        <div class="row"><button class="btn" id="p-export">Exporter</button><label class="btn" for="p-import">Importer</label>
+          <input type="file" id="p-import" accept="application/json" class="hidden"><span class="spacer"></span><button class="btn" id="p-reset">Tout effacer</button></div>
+      </div>`;
+    el.querySelector("#p-export").addEventListener("click", () => {
+      const a = document.createElement("a");
+      a.href = URL.createObjectURL(new Blob([JSON.stringify(etat)], { type: "application/json" }));
+      a.download = "revisions-progression-" + aujourdHui() + ".json"; a.click();
+    });
+    el.querySelector("#p-import").addEventListener("change", async e => {
+      try { const s = JSON.parse(await e.target.files[0].text()); if (!s.reponses) throw 0; etat = s; sauver(); majBadge(); ongletProgres(); }
+      catch (err) { alert("Fichier de progression invalide."); }
+    });
+    el.querySelector("#p-reset").addEventListener("click", () => {
+      if (confirm("Effacer toute la progression enregistrée dans ce navigateur ?")) { etat = { reponses: {}, journal: [], blancs: [] }; sauver(); majBadge(); ongletProgres(); }
+    });
+  }
+
+  // ---------- Navigation ----------
+  const rendus = { jour: ongletJour, blanc: ongletBlanc, revoir: ongletRevoir, fiches: ongletFiches, progres: ongletProgres };
+  function ouvrir(nom) {
+    document.querySelectorAll("nav button").forEach(b => b.setAttribute("aria-selected", b.dataset.tab === nom ? "true" : "false"));
+    document.querySelectorAll("main > section").forEach(s => s.classList.toggle("hidden", s.id !== "tab-" + nom));
+    // « À revoir » et « Progrès » sont recalculés à chaque visite ; les autres
+    // onglets gardent leur état (un concours blanc en cours n'est pas perdu).
+    if (nom === "revoir" || nom === "progres" || !document.getElementById("tab-" + nom).innerHTML) rendus[nom]();
+    try { localStorage.setItem(CLE_STOCKAGE + "-onglet", nom); } catch (e) {}
+  }
+  document.querySelectorAll("nav button").forEach(b => b.addEventListener("click", () => ouvrir(b.dataset.tab)));
+
+  chargerTout().then(() => {
+    majBadge();
+    let dernier = "jour"; try { dernier = localStorage.getItem(CLE_STOCKAGE + "-onglet") || "jour"; } catch (e) {}
+    ouvrir(rendus[dernier] ? dernier : "jour");
+  }).catch(() => {
+    document.querySelector("main").innerHTML = `<div class="card empty">Impossible de charger les données de révision.<br>
+      <span class="small">La page doit être servie depuis le dépôt (GitHub Pages) ou le dépôt doit être public.</span></div>`;
+  });
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,2199 @@
+{
+ "mois": "2026-11",
+ "jours": {
+  "2026-11-09": {
+   "mode": "auto",
+   "genere_le": "2026-11-10T12:50:05+00:00",
+   "questions": [
+    {
+     "type": "texte_a_trous",
+     "question": "Quel chiffre complète ce titre (La France Agricole (via Google Actualités), lundi 9 novembre 2026) ? « Ecorobotix présente des pulvérisateurs de précision jusqu’à _____ m de large »",
+     "choix": [
+      "6",
+      "12",
+      "120",
+      "24"
+     ],
+     "reponse": 1,
+     "explication": "Titre complet : « Ecorobotix présente des pulvérisateurs de précision jusqu’à 12 m de large »",
+     "difficulte": "moyen",
+     "rubrique_num": 14,
+     "rubrique": "Agriculture et alimentation",
+     "titre_source": "Ecorobotix présente des pulvérisateurs de précision jusqu’à 12 m de large",
+     "media": "La France Agricole (via Google Actualités)",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNanBBeEVIZ1RESDVJLVZhQ0g3T3RlcktVTXJlR1M2SWs3YzcwRm1CNWJ3UV8xcEltYTcyVkhJVEtFWXhNazJzMFZSZjZlQlJqMktlYjZGSkQ0eHFqRkp5RVpHTU0wQzBiMEx3WDctYlhrdm54aWVEd3VyaDRxVmhtVkRqQUZLeGdxeFVCQ250cWdEalRYaXRIcUFSaWprZmExQVNIbFFGbzN1bEZxTTdwYnVqTzZWakI1bGNzTzRfcUY0ZzNFYnBkUXZqMTBtTS02R0HSAdcBQVVfeXFMTVFMWXZrVElBV3VYWTdOdklHOG94dHdJc0NGTDFpVTcxX05GQnF3TVhHbmVNSjFLaTJlWE94RXdneVFXck5lT2VuZTk2a0QtTE5zcWx0YTlvQlc3M0dGTUtoT3pmemMzeGhXT0QwTWlNWWV5MzItckVlcEx2SXhESDQybmhlVmljR2ZWa3hmU003eWlBSUpyNnIyYU1WcDRPRWJlVGp0aV82LVNXV01HUWVzVkt3Ry1MdnBIaVNTc2I2NE5GakNiZUkzU2M0TUVIX3dXbldqS3c?oc=5",
+     "date": "2026-11-09",
+     "id": "2026-11-09-00"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel chiffre complète ce titre (Courrier international (via Google Actualités), lundi 9 novembre 2026) ? « Grèce: _____ migrants morts, craintes d'une \"crise migratoire\" en Crète »",
+     "choix": [
+      "66",
+      "22",
+      "11",
+      "220"
+     ],
+     "reponse": 1,
+     "explication": "Titre complet : « Grèce: 22 migrants morts, craintes d'une \"crise migratoire\" en Crète »",
+     "difficulte": "moyen",
+     "rubrique_num": 9,
+     "rubrique": "Asie et Océanie",
+     "titre_source": "Grèce: 22 migrants morts, craintes d'une \"crise migratoire\" en Crète",
+     "media": "Courrier international (via Google Actualités)",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSnpWTXl1TGl3UEFnclBUczc5VG5CeUJvUVg5MnhVdXNDcUUwcGxDbmdyb2hON0pnbEU3aFNHMkdSRHRaZUx5NkZMZURYTlBxY01PODNONTFvaVpCUmE0dTJDR3psY3lqQmF5R05LWFNCcDYxZS02ZVRxc0hoazRLZmROR0pvOHJlN3lLOVU3U09OZTMwci1ZMkh6em9OaTQtWUtRTkZaSkgzRjFad1FVUGwxTHRUaVhRenlVejM4cGJoNUVNVkNhOXllbUVGeEpzSXdOMzkyclFtWnM?oc=5",
+     "date": "2026-11-09",
+     "id": "2026-11-09-01"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel chiffre complète ce titre (franceinfo, lundi 9 novembre 2026) ? « Le SMIC à _____ : un coup de pouce insuffisant pour les syndicats »",
+     "choix": [
+      "750 euros",
+      "150 euros",
+      "4 500 euros",
+      "1500 euros"
+     ],
+     "reponse": 3,
+     "explication": "Titre complet : « Le SMIC à 1500 euros : un coup de pouce insuffisant pour les syndicats »",
+     "difficulte": "moyen",
+     "rubrique_num": 4,
+     "rubrique": "Économie française et social",
+     "titre_source": "Le SMIC à 1500 euros : un coup de pouce insuffisant pour les syndicats",
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/le-smic-a-1500-euros-un-coup-de-pouce-insuffisant-pour-les-syndicats_8275157.html#xtor=RSS-3-%5Bgeneral%5D",
+     "date": "2026-11-09",
+     "id": "2026-11-09-02"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel chiffre complète ce titre (Courrier international (via Google Actualités), lundi 9 novembre 2026) ? « Drame migratoire au Sénégal: _____ noyées dans le naufrage de leur pirogue »",
+     "choix": [
+      "20 personnes",
+      "390 personnes",
+      "39 personnes",
+      "117 personnes"
+     ],
+     "reponse": 2,
+     "explication": "Titre complet : « Drame migratoire au Sénégal: 39 personnes noyées dans le naufrage de leur pirogue »",
+     "difficulte": "moyen",
+     "rubrique_num": 9,
+     "rubrique": "Asie et Océanie",
+     "titre_source": "Drame migratoire au Sénégal: 39 personnes noyées dans le naufrage de leur pirogue",
+     "media": "Courrier international (via Google Actualités)",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQ0ZmVTh1S1h2Q1luekJxeUxXMFV3S0NqZzZrQjd4aDNwc0dBLVBqWW1WSXdlcFBZSkwzYXZRaDZGQmhsdGljUms5X2h4VjFRUXU2RTJITW1hcHNudUdya1NmNmtrUWVicjdPb3JtZlM2ZVpyTjcyMHJKc2U4S2xHQUFCOU42aTd4dnhIM3BReVJMSDgySEZQRzBfM1NYekpmR0lpZE0xaFJUclc1clRKRW5DRnlyQkNTTDhsU2pPQS1MMFZIQkJyZXhlVkxySjRqejZqYi1HZlAtcDdNQ0VvQnMxZmZ0RWNiTTJlS2VyeDM?oc=5",
+     "date": "2026-11-09",
+     "id": "2026-11-09-03"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel chiffre complète ce titre (Reporterre, lundi 9 novembre 2026) ? « Tchernobyl : une collecte à _____ d'euros pour réparer l'arche de confinement »",
+     "choix": [
+      "250 millions",
+      "1 500 millions",
+      "500 millions",
+      "1 000 millions"
+     ],
+     "reponse": 2,
+     "explication": "Titre complet : « Tchernobyl : une collecte à 500 millions d'euros pour réparer l'arche de confinement »",
+     "difficulte": "moyen",
+     "rubrique_num": 13,
+     "rubrique": "Environnement et climat",
+     "titre_source": "Tchernobyl : une collecte à 500 millions d'euros pour réparer l'arche de confinement",
+     "media": "Reporterre",
+     "url": "https://reporterre.net/Tchernobyl-une-collecte-a-500-millions-d-euros-pour-reparer-l-arche-de-confinement",
+     "date": "2026-11-09",
+     "id": "2026-11-09-04"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Qui ou quoi complète ce titre (Le Monde, lundi 9 novembre 2026) ? « Après les concerts de _____, le syndicat des entrepreneurs du spectacle vivant attaque les vendeurs de faux billets et critique l’Etat »",
+     "choix": [
+      "HBO Max",
+      "Céline Dion",
+      "Tadej Pogacar",
+      "Jordan Bardella"
+     ],
+     "reponse": 1,
+     "explication": "Titre complet : « Après les concerts de Céline Dion, le syndicat des entrepreneurs du spectacle vivant attaque les vendeurs de faux billets et critique l’Etat »",
+     "difficulte": "moyen",
+     "rubrique_num": 4,
+     "rubrique": "Économie française et social",
+     "titre_source": "Après les concerts de Céline Dion, le syndicat des entrepreneurs du spectacle vivant attaque les vendeurs de faux billets et critique l’Etat",
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/economie/article/2026/11/09/apres-les-concerts-de-celine-dion-le-syndicat-des-entrepreneurs-du-spectacle-vivant-attaque-les-vendeurs-de-faux-billets-et-critique-l-etat_6808682_3234.html",
+     "date": "2026-11-09",
+     "id": "2026-11-09-05"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Qui ou quoi complète ce titre (franceinfo, lundi 9 novembre 2026) ? « Accusé d'agression sexuelle, le procès du navigateur _____, s'ouvre »",
+     "choix": [
+      "Kevin Escoffier",
+      "Federico Martin Aramburu",
+      "Laurent Nuñez",
+      "Amine Kessaci"
+     ],
+     "reponse": 0,
+     "explication": "Titre complet : « Accusé d'agression sexuelle, le procès du navigateur Kevin Escoffier, s'ouvre »",
+     "difficulte": "moyen",
+     "rubrique_num": 2,
+     "rubrique": "Justice, police et sécurité intérieure",
+     "titre_source": "Accusé d'agression sexuelle, le procès du navigateur Kevin Escoffier, s'ouvre",
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/faits-divers/accuse-d-agression-sexuelle-le-proces-du-navigateur-kevin-escoffier-s-ouvre_8274431.html#xtor=RSS-3-%5Bgeneral%5D",
+     "date": "2026-11-09",
+     "id": "2026-11-09-06"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Qui ou quoi complète ce titre (franceinfo, lundi 9 novembre 2026) ? « \"Il n'y a pas de discriminations en France\" pour _____ »",
+     "choix": [
+      "Edouard Philippe",
+      "Gabriel Attal",
+      "Léon XIV",
+      "Marine Le Pen"
+     ],
+     "reponse": 3,
+     "explication": "Titre complet : « \"Il n'y a pas de discriminations en France\" pour Marine Le Pen »",
+     "difficulte": "moyen",
+     "rubrique_num": 1,
+     "rubrique": "Politique française",
+     "titre_source": "\"Il n'y a pas de discriminations en France\" pour Marine Le Pen",
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/politique/marine-le-pen/il-n-y-a-pas-de-discriminations-en-france-pour-marine-le-pen_8275169.html#xtor=RSS-3-%5Bgeneral%5D",
+     "date": "2026-11-09",
+     "id": "2026-11-09-07"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Qui ou quoi complète ce titre (La Croix (via Google Actualités), lundi 9 novembre 2026) ? « Présidentielle 2027 : _____, le risque d’une campagne en solitaire »",
+     "choix": [
+      "Marine Tondelier",
+      "Édouard Philippe",
+      "Gabriel Attal",
+      "Marine Le Pen"
+     ],
+     "reponse": 1,
+     "explication": "Titre complet : « Présidentielle 2027 : Édouard Philippe, le risque d’une campagne en solitaire »",
+     "difficulte": "moyen",
+     "rubrique_num": 1,
+     "rubrique": "Politique française",
+     "titre_source": "Présidentielle 2027 : Édouard Philippe, le risque d’une campagne en solitaire",
+     "media": "La Croix (via Google Actualités)",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ0hOSjFCZklTazZiMUc5RUtMOVphWXFqM05PY05vOEFrY3dQUm9xZXZTZkM4aE05eXc5cURGUllneV9PdU42R01pYkpqNktwUUsxWUJGSTR3bkZhc0ZUSWQ0NzlGZGJ3dHpWR3FZbWxaWVBHZDFTZ01LWjJ4MmVWbzJmMGFEOENQcGJGWDdSbFpLQ29KaDgzVk9fejBPZF9MZFRSeS1oZ0pfY00zSGM1aTRyanlwRU85Ymc?oc=5",
+     "date": "2026-11-09",
+     "id": "2026-11-09-08"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Qui ou quoi complète ce titre (Le Monde, lundi 9 novembre 2026) ? « _____ affirme que sa proposition de nommer Dana White, patron de l’UFC, porte-parole de la Maison Blanche était une blague »",
+     "choix": [
+      "Volodymyr Zelensky",
+      "Emmanuel Macron",
+      "Donald Trump",
+      "Kylian Mbappé"
+     ],
+     "reponse": 2,
+     "explication": "Titre complet : « Donald Trump affirme que sa proposition de nommer Dana White, patron de l’UFC, porte-parole de la Maison Blanche était une blague »",
+     "difficulte": "moyen",
+     "rubrique_num": 7,
+     "rubrique": "Guerres et conflits",
+     "titre_source": "Donald Trump affirme que sa proposition de nommer Dana White, patron de l’UFC, porte-parole de la Maison Blanche était une blague",
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/11/09/donald-trump-affirme-que-sa-proposition-de-nommer-dana-white-patron-de-l-ufc-porte-parole-de-la-maison-blanche-etait-une-blague_6808598_3210.html",
+     "date": "2026-11-09",
+     "id": "2026-11-09-09"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel pays complète ce titre (Reporterre, lundi 9 novembre 2026) ? « L'angoisse des factures d'énergie explose en _____ »",
+     "choix": [
+      "Sénégal",
+      "États-Unis",
+      "Algérie",
+      "France"
+     ],
+     "reponse": 3,
+     "explication": "Titre complet : « L'angoisse des factures d'énergie explose en France »",
+     "difficulte": "moyen",
+     "rubrique_num": 13,
+     "rubrique": "Environnement et climat",
+     "titre_source": "L'angoisse des factures d'énergie explose en France",
+     "media": "Reporterre",
+     "url": "https://reporterre.net/L-angoisse-des-factures-d-energie-explose-en-France",
+     "date": "2026-11-09",
+     "id": "2026-11-09-10"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel pays complète ce titre (L'Usine Digitale (via Google Actualités), lundi 9 novembre 2026) ? « IA de défense : La start-up française Harmattan AI séduit le _____ avec son intercepteur de drones Gobi Tempest »",
+     "choix": [
+      "Yémen",
+      "Turquie",
+      "Canada",
+      "Qatar"
+     ],
+     "reponse": 3,
+     "explication": "Titre complet : « IA de défense : La start-up française Harmattan AI séduit le Qatar avec son intercepteur de drones Gobi Tempest »",
+     "difficulte": "moyen",
+     "rubrique_num": 12,
+     "rubrique": "Sciences, technologies et numérique",
+     "titre_source": "IA de défense : La start-up française Harmattan AI séduit le Qatar avec son intercepteur de drones Gobi Tempest",
+     "media": "L'Usine Digitale (via Google Actualités)",
+     "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxON010Q3gxczkySWk3RURtb0h1Y1luaktBV2x3cUpfX0hWVGxpUldZbEdkazlVelRfdm0zQ1dfV2dtMzEwX1c3LTMyRWoxWE52bXVITnlFeU5qNmhzNmRGSDVlbUZCc1luUjcxUFhiUmhEeVppa3NLUzNIV1RZU3JCX3Y5WF9POVVLWW11M19PTmQ0aVA2MUF5d3o2RGZQYmtnUzFpdDA5Ui05ekxqX29jaGI2dVJVLUl3MEFnYk9sTFJ1WU9Xa003OEsxZGc4X0pJT2gtZHJ4UDczWjFTcllGYnE3b001OVdPaGNabzBISl9xM3RBczVIWjBjSXlUVDZsUnRiSURQSU0wWC1QdF9hOGNLQkgxekJJOUotZlRKR0lkXzM3dVdmWHVPd3ZVaHBqcUwyYzQ2SGo?oc=5",
+     "date": "2026-11-09",
+     "id": "2026-11-09-11"
+    }
+   ]
+  },
+  "2026-11-08": {
+   "mode": "auto",
+   "genere_le": "2026-11-10T12:50:05+00:00",
+   "questions": [
+    {
+     "type": "texte_a_trous",
+     "question": "Quel chiffre complète ce titre (franceinfo, dimanche 8 novembre 2026) ? « Mobilisation du 7 novembre : _____ ont défilé en France samedi selon le ministère de l'Intérieur, 250 000 selon l'intersyndicale de la jeunesse »",
+     "choix": [
+      "146 000 personnes",
+      "292 000 personnes",
+      "1 460 000 personnes",
+      "438 000 personnes"
+     ],
+     "reponse": 0,
+     "explication": "Titre complet : « Mobilisation du 7 novembre : 146 000 personnes ont défilé en France samedi selon le ministère de l'Intérieur, 250 000 selon l'intersyndicale de la jeunesse »",
+     "difficulte": "moyen",
+     "rubrique_num": 4,
+     "rubrique": "Économie française et social",
+     "titre_source": "Mobilisation du 7 novembre : 146 000 personnes ont défilé en France samedi selon le ministère de l'Intérieur, 250 000 selon l'intersyndicale de la jeunesse",
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-7-novembre-suivez-avec-nous-cette-nouvelle-journee-de-manifestations_8272010.html#xtor=RSS-3-%5Bgeneral%5D",
+     "date": "2026-11-08",
+     "id": "2026-11-08-00"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel chiffre complète ce titre (Le Monde, dimanche 8 novembre 2026) ? « Présidentielle 2027 : en cas de victoire, LFI instaurera un « état d’urgence sociale », pour appliquer par décrets certaines mesures comme la hausse du smic ou la retraite à _____ »",
+     "choix": [
+      "62 ans",
+      "31 ans",
+      "124 ans",
+      "6 ans"
+     ],
+     "reponse": 0,
+     "explication": "Titre complet : « Présidentielle 2027 : en cas de victoire, LFI instaurera un « état d’urgence sociale », pour appliquer par décrets certaines mesures comme la hausse du smic ou la retraite à 62 ans »",
+     "difficulte": "moyen",
+     "rubrique_num": 1,
+     "rubrique": "Politique française",
+     "titre_source": "Présidentielle 2027 : en cas de victoire, LFI instaurera un « état d’urgence sociale », pour appliquer par décrets certaines mesures comme la hausse du smic ou la retraite à 62 ans",
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/politique/article/2026/11/08/presidentielle-2027-en-cas-de-victoire-lfi-instaurera-un-etat-d-urgence-sociale-pour-appliquer-par-decrets-certaines-mesures-comme-la-hausse-du-smic-ou-la-retraite-a-62-ans_6808436_823448.html",
+     "date": "2026-11-08",
+     "id": "2026-11-08-01"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel chiffre complète ce titre (franceinfo, dimanche 8 novembre 2026) ? « Possible augmentation du SMIC lors de la conférence sociale : \"_____, c'est 73 centimes par jour\", rappelle Rokhaya Diallo, la directrice de publication de Politis »",
+     "choix": [
+      "11 euros",
+      "22 euros",
+      "2 euros",
+      "33 euros"
+     ],
+     "reponse": 1,
+     "explication": "Titre complet : « Possible augmentation du SMIC lors de la conférence sociale : \"22 euros, c'est 73 centimes par jour\", rappelle Rokhaya Diallo, la directrice de publication de Politis »",
+     "difficulte": "moyen",
+     "rubrique_num": 1,
+     "rubrique": "Politique française",
+     "titre_source": "Possible augmentation du SMIC lors de la conférence sociale : \"22 euros, c'est 73 centimes par jour\", rappelle Rokhaya Diallo, la directrice de publication de Politis",
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/possible-augmentation-du-smic-lors-de-la-conference-sociale-22-euros-c-est-73-centimes-par-jour-rappelle-rokhaya-diallo-la-directrice-de-publication-de-politis_8273666.html#xtor=RSS-3-%5Bgeneral%5D",
+     "date": "2026-11-08",
+     "id": "2026-11-08-02"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel chiffre complète ce titre (franceinfo, dimanche 8 novembre 2026) ? « Enchères : une truffe blanche vendue à _____ en Italie »",
+     "choix": [
+      "50 000 euros",
+      "100 000 euros",
+      "10 000 euros",
+      "1 000 000 euros"
+     ],
+     "reponse": 1,
+     "explication": "Titre complet : « Enchères : une truffe blanche vendue à 100 000 euros en Italie »",
+     "difficulte": "moyen",
+     "rubrique_num": 4,
+     "rubrique": "Économie française et social",
+     "titre_source": "Enchères : une truffe blanche vendue à 100 000 euros en Italie",
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/economie/encheres-une-truffe-blanche-vendue-a-100-000-euros-en-italie_8273732.html#xtor=RSS-3-%5Bgeneral%5D",
+     "date": "2026-11-08",
+     "id": "2026-11-08-03"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Qui ou quoi complète ce titre (Le Monde, dimanche 8 novembre 2026) ? « Le pape _____ appelle les hommes à traiter leurs épouses « avec respect », lors de sa première tournée en Amérique latine »",
+     "choix": [
+      "Côte Ivoire",
+      "Gabriel Attal",
+      "Léon XIV",
+      "Paul Seixas"
+     ],
+     "reponse": 2,
+     "explication": "Titre complet : « Le pape Léon XIV appelle les hommes à traiter leurs épouses « avec respect », lors de sa première tournée en Amérique latine »",
+     "difficulte": "moyen",
+     "rubrique_num": 7,
+     "rubrique": "Guerres et conflits",
+     "titre_source": "Le pape Léon XIV appelle les hommes à traiter leurs épouses « avec respect », lors de sa première tournée en Amérique latine",
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/11/08/le-pape-leon-xiv-appelle-les-hommes-a-traiter-leurs-epouses-avec-respect-lors-de-sa-premiere-tournee-en-amerique-latine_6808440_3210.html",
+     "date": "2026-11-08",
+     "id": "2026-11-08-04"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Qui ou quoi complète ce titre (MercoPress, dimanche 8 novembre 2026) ? « Paraguay’s prosecutors charge _____ and seek his pre-trial detention over the Ueno Bank collapse »",
+     "choix": [
+      "Punta Arenas",
+      "Amérique du Sud",
+      "Santiago Peña",
+      "Léon XIV"
+     ],
+     "reponse": 2,
+     "explication": "Titre complet : « Paraguay’s prosecutors charge Santiago Peña and seek his pre-trial detention over the Ueno Bank collapse »",
+     "difficulte": "moyen",
+     "rubrique_num": 8,
+     "rubrique": "Amériques",
+     "titre_source": "Paraguay’s prosecutors charge Santiago Peña and seek his pre-trial detention over the Ueno Bank collapse",
+     "media": "MercoPress",
+     "url": "https://en.mercopress.com/2026/11/08/paraguay-s-prosecutors-charge-santiago-pena-and-seek-his-pre-trial-detention-over-the-ueno-bank-collapse?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+     "date": "2026-11-08",
+     "id": "2026-11-08-05"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Qui ou quoi complète ce titre (Le Figaro (via Google Actualités), dimanche 8 novembre 2026) ? « Guerre en Ukraine : les Européens, dont la France, seront «représentés» lors des négociations à _____ »",
+     "choix": [
+      "Laurent Nuñez",
+      "Abu Dhabi",
+      "Volodymyr Zelensky",
+      "Jean-Luc Mélenchon"
+     ],
+     "reponse": 1,
+     "explication": "Titre complet : « Guerre en Ukraine : les Européens, dont la France, seront «représentés» lors des négociations à Abu Dhabi »",
+     "difficulte": "moyen",
+     "rubrique_num": 7,
+     "rubrique": "Guerres et conflits",
+     "titre_source": "Guerre en Ukraine : les Européens, dont la France, seront «représentés» lors des négociations à Abu Dhabi",
+     "media": "Le Figaro (via Google Actualités)",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYVF5akhQeDllOXVrSU91bEl4UkEtejlRbXQ5ajF1QU9FM3JPblpFNkl0d0t3a1lGamVwc1dpZGhfd1JxU3NxX2tOQmMtQWNYTGV3YzQ2RXJ5ajdhS2JCT2JkME5KLUNhOXJVYjBHSkduQU1XNjNfVG9qWjlnLXB4REViQk1SSVlKLUxEQmdfdUllU3VSSzBzOWlrTkt2NkQybVYzVmpIbXl0RTdyMXlHaGd4TTNQQWZxaDNBdU5QeDVnZnM2NGNjOWxUcnhfa3ZMM2h2Y2JUWEVlU2ItN1Zr?oc=5",
+     "date": "2026-11-08",
+     "id": "2026-11-08-06"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Qui ou quoi complète ce titre (MercoPress, dimanche 8 novembre 2026) ? « _____ leaves Uruguay urging Catholics to reach out to “those who have drifted away” »",
+     "choix": [
+      "Leo XIV",
+      "El Niño",
+      "Biarritz Amérique",
+      "Elon Musk"
+     ],
+     "reponse": 0,
+     "explication": "Titre complet : « Leo XIV leaves Uruguay urging Catholics to reach out to “those who have drifted away” »",
+     "difficulte": "moyen",
+     "rubrique_num": 8,
+     "rubrique": "Amériques",
+     "titre_source": "Leo XIV leaves Uruguay urging Catholics to reach out to “those who have drifted away”",
+     "media": "MercoPress",
+     "url": "https://en.mercopress.com/2026/11/08/leo-xiv-leaves-uruguay-urging-catholics-to-reach-out-to-those-who-have-drifted-away?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+     "date": "2026-11-08",
+     "id": "2026-11-08-07"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Qui ou quoi complète ce titre (Le Monde, dimanche 8 novembre 2026) ? « Le domicile d’un policier d’Auch, dans le Gers, incendié ; _____ dénonce un « acte criminel intolérable » »",
+     "choix": [
+      "Gérald Darmanin",
+      "Bally Bagayoko",
+      "South Sudan",
+      "Laurent Nuñez"
+     ],
+     "reponse": 3,
+     "explication": "Titre complet : « Le domicile d’un policier d’Auch, dans le Gers, incendié ; Laurent Nuñez dénonce un « acte criminel intolérable » »",
+     "difficulte": "moyen",
+     "rubrique_num": 17,
+     "rubrique": "Société et migrations",
+     "titre_source": "Le domicile d’un policier d’Auch, dans le Gers, incendié ; Laurent Nuñez dénonce un « acte criminel intolérable »",
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/societe/article/2026/11/08/le-domicile-d-un-policier-d-auch-dans-le-gers-incendie-laurent-nunez-denonce-un-acte-criminel-intolerable_6808426_3224.html",
+     "date": "2026-11-08",
+     "id": "2026-11-08-08"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel pays complète ce titre (franceinfo, dimanche 8 novembre 2026) ? « Six personnes abattues dans la rue, un suspect aux idées \"ultranationalistes\", trois corps retrouvés chez lui... Ce que l'on sait de l'attentat en _____ »",
+     "choix": [
+      "Cisjordanie",
+      "Pologne",
+      "Canada",
+      "Chine"
+     ],
+     "reponse": 1,
+     "explication": "Titre complet : « Six personnes abattues dans la rue, un suspect aux idées \"ultranationalistes\", trois corps retrouvés chez lui... Ce que l'on sait de l'attentat en Pologne »",
+     "difficulte": "moyen",
+     "rubrique_num": 2,
+     "rubrique": "Justice, police et sécurité intérieure",
+     "titre_source": "Six personnes abattues dans la rue, un suspect aux idées \"ultranationalistes\", trois corps retrouvés chez lui... Ce que l'on sait de l'attentat en Pologne",
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/monde/europe/ce-que-l-on-sait-de-l-attentat-en-pologne-qui-a-fait-six-morts-et-quinze-blesses-dans-le-centre-de-cracovie_8273087.html#xtor=RSS-3-%5Bgeneral%5D",
+     "date": "2026-11-08",
+     "id": "2026-11-08-09"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel pays complète ce titre (franceinfo, dimanche 8 novembre 2026) ? « \"Voir son pays briller de mille feux, c'est vraiment un sentiment spécial\" : l'_____ célèbre Diwali, la fête de la lumière »",
+     "choix": [
+      "Afrique",
+      "Turquie",
+      "Inde",
+      "Espagne"
+     ],
+     "reponse": 2,
+     "explication": "Titre complet : « \"Voir son pays briller de mille feux, c'est vraiment un sentiment spécial\" : l'Inde célèbre Diwali, la fête de la lumière »",
+     "difficulte": "moyen",
+     "rubrique_num": 21,
+     "rubrique": "Culture",
+     "titre_source": "\"Voir son pays briller de mille feux, c'est vraiment un sentiment spécial\" : l'Inde célèbre Diwali, la fête de la lumière",
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/monde/inde/voir-son-pays-briller-de-mille-feux-c-est-vraiment-un-sentiment-special-l-inde-celebre-diwali-la-fete-de-la-lumiere_8273378.html#xtor=RSS-3-%5Bgeneral%5D",
+     "date": "2026-11-08",
+     "id": "2026-11-08-10"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel pays complète ce titre (RFI, dimanche 8 novembre 2026) ? « L'énorme demande chinoise en peaux d'ânes met à mal le cheptel en _____ »",
+     "choix": [
+      "Brésil",
+      "Corée",
+      "Arabie",
+      "Afrique"
+     ],
+     "reponse": 3,
+     "explication": "Titre complet : « L'énorme demande chinoise en peaux d'ânes met à mal le cheptel en Afrique »",
+     "difficulte": "moyen",
+     "rubrique_num": 10,
+     "rubrique": "Afrique et Maghreb",
+     "titre_source": "L'énorme demande chinoise en peaux d'ânes met à mal le cheptel en Afrique",
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/afrique/20261108-l-%C3%A9norme-demande-chinoise-en-peaux-d-%C3%A2nes-met-%C3%A0-mal-le-cheptel-en-afrique",
+     "date": "2026-11-08",
+     "id": "2026-11-08-11"
+    }
+   ]
+  },
+  "2026-11-07": {
+   "mode": "auto",
+   "genere_le": "2026-11-10T12:50:05+00:00",
+   "questions": [
+    {
+     "type": "texte_a_trous",
+     "question": "Quel chiffre complète ce titre (franceinfo, samedi 7 novembre 2026) ? « TEMOIGNAGE. \"Personne ne mérite ça\" : rencontre avec Maïssa, _____, qui a perdu un œil à la suite d'un tir de grenade le 17 octobre »",
+     "choix": [
+      "54 ans",
+      "27 ans",
+      "18 ans",
+      "9 ans"
+     ],
+     "reponse": 2,
+     "explication": "Titre complet : « TEMOIGNAGE. \"Personne ne mérite ça\" : rencontre avec Maïssa, 18 ans, qui a perdu un œil à la suite d'un tir de grenade le 17 octobre »",
+     "difficulte": "moyen",
+     "rubrique_num": 2,
+     "rubrique": "Justice, police et sécurité intérieure",
+     "titre_source": "TEMOIGNAGE. \"Personne ne mérite ça\" : rencontre avec Maïssa, 18 ans, qui a perdu un œil à la suite d'un tir de grenade le 17 octobre",
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/faits-divers/police/violences-policieres/temoignage-personne-ne-merite-ca-rencontre-avec-maissa-18-ans-qui-a-perdu-un-il-a-la-suite-d-un-tir-de-grenade-le-17-octobre_8271551.html#xtor=RSS-3-%5Bgeneral%5D",
+     "date": "2026-11-07",
+     "id": "2026-11-07-00"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel chiffre complète ce titre (franceinfo, samedi 7 novembre 2026) ? « \"Cette recrudescence des vols impacte la production des parcs\" : _____ de câbles de cuivre dérobés dans une centrale photovoltaïque »",
+     "choix": [
+      "5 000 km",
+      "1 500 km",
+      "500 km",
+      "750 km"
+     ],
+     "reponse": 2,
+     "explication": "Titre complet : « \"Cette recrudescence des vols impacte la production des parcs\" : 500 km de câbles de cuivre dérobés dans une centrale photovoltaïque »",
+     "difficulte": "moyen",
+     "rubrique_num": 2,
+     "rubrique": "Justice, police et sécurité intérieure",
+     "titre_source": "\"Cette recrudescence des vols impacte la production des parcs\" : 500 km de câbles de cuivre dérobés dans une centrale photovoltaïque",
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/france/nouvelle-aquitaine/gironde/cette-recrudescence-des-vols-impacte-la-production-des-parcs-500-km-de-cables-de-cuivre-derobes-dans-une-centrale-photovoltaique_8272673.html#xtor=RSS-3-%5Bgeneral%5D",
+     "date": "2026-11-07",
+     "id": "2026-11-07-01"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel chiffre complète ce titre (Le Monde, samedi 7 novembre 2026) ? « Revivez les manifestations du 7 novembre : _____ ont défilé dans le calme en France, selon le ministère de l’intérieur, 250 000, selon l’intersyndicale de la jeunesse »",
+     "choix": [
+      "1 460 000 personnes",
+      "14 600 personnes",
+      "146 000 personnes",
+      "438 000 personnes"
+     ],
+     "reponse": 2,
+     "explication": "Titre complet : « Revivez les manifestations du 7 novembre : 146 000 personnes ont défilé dans le calme en France, selon le ministère de l’intérieur, 250 000, selon l’intersyndicale de la jeunesse »",
+     "difficulte": "moyen",
+     "rubrique_num": 1,
+     "rubrique": "Politique française",
+     "titre_source": "Revivez les manifestations du 7 novembre : 146 000 personnes ont défilé dans le calme en France, selon le ministère de l’intérieur, 250 000, selon l’intersyndicale de la jeunesse",
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/societe/live/2026/11/07/en-direct-manifestations-du-7-novembre-146-000-personnes-ont-defile-en-france-samedi-selon-le-ministere-de-l-interieur-250-000-selon-l-intersyndicale-de-la-jeunesse_6808254_3224.html",
+     "date": "2026-11-07",
+     "id": "2026-11-07-02"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel chiffre complète ce titre (Le Monde, samedi 7 novembre 2026) ? « Au Yémen, _____ après des frappes saoudiennes dans la région de Sanaa, annoncent les houthistes »",
+     "choix": [
+      "16 morts",
+      "66 morts",
+      "33 morts",
+      "50 morts"
+     ],
+     "reponse": 2,
+     "explication": "Titre complet : « Au Yémen, 33 morts après des frappes saoudiennes dans la région de Sanaa, annoncent les houthistes »",
+     "difficulte": "moyen",
+     "rubrique_num": 7,
+     "rubrique": "Guerres et conflits",
+     "titre_source": "Au Yémen, 33 morts après des frappes saoudiennes dans la région de Sanaa, annoncent les houthistes",
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/11/07/au-yemen-22-morts-apres-des-frappes-saoudiennes-dans-la-region-de-sanaa-annoncent-les-houthistes_6808280_3210.html",
+     "date": "2026-11-07",
+     "id": "2026-11-07-03"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel chiffre complète ce titre (Le Monde, samedi 7 novembre 2026) ? « Les saphirs d’Ergond, l’énigme maths du « Monde » nᵒ _____ »",
+     "choix": [
+      "12",
+      "118",
+      "1 180",
+      "177"
+     ],
+     "reponse": 1,
+     "explication": "Titre complet : « Les saphirs d’Ergond, l’énigme maths du « Monde » nᵒ 118 »",
+     "difficulte": "moyen",
+     "rubrique_num": 12,
+     "rubrique": "Sciences, technologies et numérique",
+     "titre_source": "Les saphirs d’Ergond, l’énigme maths du « Monde » nᵒ 118",
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/sciences/article/2026/11/07/les-saphirs-d-ergond-l-enigme-maths-du-monde-n-118_6808255_1650684.html",
+     "date": "2026-11-07",
+     "id": "2026-11-07-04"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Qui ou quoi complète ce titre (Le Monde, samedi 7 novembre 2026) ? « Israël : Gadi Eisenkot, principal opposant de _____, va être chargé de former un gouvernement »",
+     "choix": [
+      "Gabriel Attal",
+      "Léon XIV",
+      "Benyamin Nétanyahou",
+      "Paul Seixas"
+     ],
+     "reponse": 2,
+     "explication": "Titre complet : « Israël : Gadi Eisenkot, principal opposant de Benyamin Nétanyahou, va être chargé de former un gouvernement »",
+     "difficulte": "moyen",
+     "rubrique_num": 7,
+     "rubrique": "Guerres et conflits",
+     "titre_source": "Israël : Gadi Eisenkot, principal opposant de Benyamin Nétanyahou, va être chargé de former un gouvernement",
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/11/07/israel-gadi-eisenkot-le-principal-opposant-de-benyamin-netanyahou-va-etre-charge-de-former-un-gouvernement_6808313_3210.html",
+     "date": "2026-11-07",
+     "id": "2026-11-07-05"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Qui ou quoi complète ce titre (Le Figaro (via Google Actualités), samedi 7 novembre 2026) ? « Mini Moke, pièces d’or et bijoux de famille… Ce qui a disparu chez _____ à la Madrague »",
+     "choix": [
+      "Ségolène Royal",
+      "Gabriel Attal",
+      "Brigitte Bardot",
+      "Raphaël Glucksmann"
+     ],
+     "reponse": 2,
+     "explication": "Titre complet : « Mini Moke, pièces d’or et bijoux de famille… Ce qui a disparu chez Brigitte Bardot à la Madrague »",
+     "difficulte": "moyen",
+     "rubrique_num": 1,
+     "rubrique": "Politique française",
+     "titre_source": "Mini Moke, pièces d’or et bijoux de famille… Ce qui a disparu chez Brigitte Bardot à la Madrague",
+     "media": "Le Figaro (via Google Actualités)",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObngtT0QxbERvWG9ub1BPUG56c3dxRDhRdnZ6aEthMHhaalBJb3VQWjIyQ3pqM0gxR005dTdsMzhUbXlxTXRGNEwzdWp4R3pud0JfMTFmdGlEdlI4aVRFQW03bXlJX2YtQ0Q4QTZ2Tks2TU5HcFM4QmdQUjI3YjNPTGF4dXZNZkVHODBQYXh2TmhSd1NaUnhkQmtDZUl6UUhZVm94MVY0Y1hxYWYwQWRab0F3NWhXQVIzekxRNGVMZk05NzUwc1ZmcGZfLVVHRlZQ?oc=5",
+     "date": "2026-11-07",
+     "id": "2026-11-07-06"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Qui ou quoi complète ce titre (MercoPress, samedi 7 novembre 2026) ? « _____ begins his tour in Uruguay, praising Mercosur and peace and questioning abortion and euthanasia »",
+     "choix": [
+      "Delcy Rodríguez",
+      "Flávio Bolsonaro",
+      "El Niño",
+      "Leo XIV"
+     ],
+     "reponse": 3,
+     "explication": "Titre complet : « Leo XIV begins his tour in Uruguay, praising Mercosur and peace and questioning abortion and euthanasia »",
+     "difficulte": "moyen",
+     "rubrique_num": 8,
+     "rubrique": "Amériques",
+     "titre_source": "Leo XIV begins his tour in Uruguay, praising Mercosur and peace and questioning abortion and euthanasia",
+     "media": "MercoPress",
+     "url": "https://en.mercopress.com/2026/11/07/leo-xiv-begins-his-tour-in-uruguay-praising-mercosur-and-peace-and-questioning-abortion-and-euthanasia?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+     "date": "2026-11-07",
+     "id": "2026-11-07-07"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Qui ou quoi complète ce titre (Le Monde.fr (via Google Actualités), samedi 7 novembre 2026) ? « Midterms 2026 : le Pakistan s’inquiète du revers essuyé par _____, allié du maréchal Munir »",
+     "choix": [
+      "Elon Musk",
+      "Leo XIV",
+      "Donald Trump",
+      "El Niño"
+     ],
+     "reponse": 2,
+     "explication": "Titre complet : « Midterms 2026 : le Pakistan s’inquiète du revers essuyé par Donald Trump, allié du maréchal Munir »",
+     "difficulte": "moyen",
+     "rubrique_num": 8,
+     "rubrique": "Amériques",
+     "titre_source": "Midterms 2026 : le Pakistan s’inquiète du revers essuyé par Donald Trump, allié du maréchal Munir",
+     "media": "Le Monde.fr (via Google Actualités)",
+     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNekthbEVkNjNTeFVwODI0S1pZTHdXZmRYNjN2bW1iNFhGV25JRUJPWU9oVXlBRFJRMWxTcWdQXzdGdnVFTi1pTS1EaTE4eHlfcmM1RjVLM3Y3eDBsNlBaYWdmb0Z5d21JblExSUVrUmMxRTQyLW96WWZsZmpaTUZKM19kdU5LbU1XVTZKN2lKSGRldFVCWmd0Wk5SOXQ0T3VyYVlmSGZRMThZRG92elZxQUxkeVpKODlsM1locmsxekY3Q1Vod2dBdmZyQmEyMGhiTjNJenBOLURRRVhsVGtEMEFlMWwyVU1WUmJ6b3BlcGhtYWIybFgxaGNxdTE?oc=5",
+     "date": "2026-11-07",
+     "id": "2026-11-07-08"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Qui ou quoi complète ce titre (Daily Maverick, samedi 7 novembre 2026) ? « Mind your business: New franchise models are expanding business ownership in _____ and beyond »",
+     "choix": [
+      "Jean-Luc Mélenchon",
+      "Vladimir Poutine",
+      "South Africa",
+      "Flavio Bolsonaro"
+     ],
+     "reponse": 2,
+     "explication": "Titre complet : « Mind your business: New franchise models are expanding business ownership in South Africa and beyond »",
+     "difficulte": "moyen",
+     "rubrique_num": 10,
+     "rubrique": "Afrique et Maghreb",
+     "titre_source": "Mind your business: New franchise models are expanding business ownership in South Africa and beyond",
+     "media": "Daily Maverick",
+     "url": "https://www.dailymaverick.co.za/article/2026-11-07-new-franchise-models-are-expanding-business-ownership-in-south-africa-and-beyond",
+     "date": "2026-11-07",
+     "id": "2026-11-07-09"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel pays complète ce titre (NHK World (via Google Actualités), samedi 7 novembre 2026) ? « L'_____ exige des États-Unis qu'ils agissent pour relancer les échanges diplomatiques »",
+     "choix": [
+      "Yémen",
+      "Japon",
+      "Sénégal",
+      "Iran"
+     ],
+     "reponse": 3,
+     "explication": "Titre complet : « L'Iran exige des États-Unis qu'ils agissent pour relancer les échanges diplomatiques »",
+     "difficulte": "moyen",
+     "rubrique_num": 9,
+     "rubrique": "Asie et Océanie",
+     "titre_source": "L'Iran exige des États-Unis qu'ils agissent pour relancer les échanges diplomatiques",
+     "media": "NHK World (via Google Actualités)",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqMzJGeUJBaGo3Ykk1WDhiRkhrTWpseTB5SWlpZVRaMG1CbDBqSF93X2xQLXpoZGJFbkZ4SnhHR0Q4UVgyWHFROEZqRDAxMzlYWXE5QXpwd012My1US2VrTUVmX1E?oc=5",
+     "date": "2026-11-07",
+     "id": "2026-11-07-10"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel pays complète ce titre (The Conversation France, samedi 7 novembre 2026) ? « Assiste-t-on à la fin du « privilège exorbitant » des _____ ? »",
+     "choix": [
+      "États-Unis",
+      "Iran",
+      "Cisjordanie",
+      "Russie"
+     ],
+     "reponse": 0,
+     "explication": "Titre complet : « Assiste-t-on à la fin du « privilège exorbitant » des États-Unis ? »",
+     "difficulte": "moyen",
+     "rubrique_num": 23,
+     "rubrique": "Analyse de fond et investigation",
+     "titre_source": "Assiste-t-on à la fin du « privilège exorbitant » des États-Unis ?",
+     "media": "The Conversation France",
+     "url": "https://theconversation.com/assiste-t-on-a-la-fin-du-privilege-exorbitant-des-etats-unis-293601",
+     "date": "2026-11-07",
+     "id": "2026-11-07-11"
+    }
+   ]
+  },
+  "2026-11-06": {
+   "mode": "auto",
+   "genere_le": "2026-11-10T12:50:05+00:00",
+   "questions": [
+    {
+     "type": "texte_a_trous",
+     "question": "Quel chiffre complète ce titre (Le Monde, vendredi 6 novembre 2026) ? « Accident de car dans l’Ain : _____ et 29 blessés, le chauffeur placé en garde à vue »",
+     "choix": [
+      "2 morts",
+      "1 morts",
+      "20 morts",
+      "3 morts"
+     ],
+     "reponse": 0,
+     "explication": "Titre complet : « Accident de car dans l’Ain : 2 morts et 29 blessés, le chauffeur placé en garde à vue »",
+     "difficulte": "moyen",
+     "rubrique_num": 17,
+     "rubrique": "Société et migrations",
+     "titre_source": "Accident de car dans l’Ain : 2 morts et 29 blessés, le chauffeur placé en garde à vue",
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/societe/article/2026/11/06/accident-de-car-dans-l-ain-deux-morts-et-29-blesses-le-chauffeur-place-en-garde-a-vue_6807748_3225.html",
+     "date": "2026-11-06",
+     "id": "2026-11-06-00"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel chiffre complète ce titre (franceinfo, vendredi 6 novembre 2026) ? « L'intelligence artificielle pousse des patients à contester leur diagnostic : _____ des soignants l'ont constaté, selon un baromètre »",
+     "choix": [
+      "38%",
+      "19%",
+      "76%",
+      "28%"
+     ],
+     "reponse": 0,
+     "explication": "Titre complet : « L'intelligence artificielle pousse des patients à contester leur diagnostic : 38% des soignants l'ont constaté, selon un baromètre »",
+     "difficulte": "moyen",
+     "rubrique_num": 15,
+     "rubrique": "Santé et protection sociale",
+     "titre_source": "L'intelligence artificielle pousse des patients à contester leur diagnostic : 38% des soignants l'ont constaté, selon un baromètre",
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/sante/l-intelligence-artificielle-pousse-des-patients-a-contester-leur-diagnostic-38-des-soignants-l-ont-constate-selon-un-barometre_8270333.html#xtor=RSS-3-%5Bgeneral%5D",
+     "date": "2026-11-06",
+     "id": "2026-11-06-01"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel chiffre complète ce titre (Le Monde, vendredi 6 novembre 2026) ? « L’autoroute A69 ouverte aux automobilistes, après quatre ans de contestation, avec un péage à _____ »",
+     "choix": [
+      "20,40 euros",
+      "61 euros",
+      "2,0 euros",
+      "10 euros"
+     ],
+     "reponse": 0,
+     "explication": "Titre complet : « L’autoroute A69 ouverte aux automobilistes, après quatre ans de contestation, avec un péage à 20,40 euros »",
+     "difficulte": "moyen",
+     "rubrique_num": 13,
+     "rubrique": "Environnement et climat",
+     "titre_source": "L’autoroute A69 ouverte aux automobilistes, après quatre ans de contestation, avec un péage à 20,40 euros",
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/planete/article/2026/11/06/l-autoroute-a69-ouverte-aux-automobilistes-apres-quatre-ans-de-contestation-avec-un-peage-a-20-40-euros_6807779_3244.html",
+     "date": "2026-11-06",
+     "id": "2026-11-06-02"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel chiffre complète ce titre (Le Monde, vendredi 6 novembre 2026) ? « Manifestations du 7 novembre : un quatrième samedi de mobilisation ; _____ policiers et gendarmes mobilisés »",
+     "choix": [
+      "70 000",
+      "35 000",
+      "140 000",
+      "700 000"
+     ],
+     "reponse": 0,
+     "explication": "Titre complet : « Manifestations du 7 novembre : un quatrième samedi de mobilisation ; 70 000 policiers et gendarmes mobilisés »",
+     "difficulte": "moyen",
+     "rubrique_num": 1,
+     "rubrique": "Politique française",
+     "titre_source": "Manifestations du 7 novembre : un quatrième samedi de mobilisation ; 70 000 policiers et gendarmes mobilisés",
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/politique/article/2026/11/06/manifestations-du-7-novembre-le-dispositif-de-securite-est-reconduit-avec-70-000-policiers-et-gendarmes-mobilises_6807790_823449.html",
+     "date": "2026-11-06",
+     "id": "2026-11-06-03"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel chiffre complète ce titre (Le Monde, vendredi 6 novembre 2026) ? « Le cinéaste chilien Sebastian Lelio, oscarisé pour « Une femme fantastique », est mort à _____ »",
+     "choix": [
+      "52 ans",
+      "26 ans",
+      "5 ans",
+      "520 ans"
+     ],
+     "reponse": 0,
+     "explication": "Titre complet : « Le cinéaste chilien Sebastian Lelio, oscarisé pour « Une femme fantastique », est mort à 52 ans »",
+     "difficulte": "moyen",
+     "rubrique_num": 21,
+     "rubrique": "Culture",
+     "titre_source": "Le cinéaste chilien Sebastian Lelio, oscarisé pour « Une femme fantastique », est mort à 52 ans",
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/disparitions/article/2026/11/06/le-cineaste-chilien-sebastian-lelio-oscarise-pour-une-femme-fantastique-est-mort-a-52-ans_6807860_3382.html",
+     "date": "2026-11-06",
+     "id": "2026-11-06-04"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Qui ou quoi complète ce titre (AllAfrica, vendredi 6 novembre 2026) ? « Nigeria: Nigerian Military Denies Ceasefire Deal With _____ »",
+     "choix": [
+      "Boko Haram",
+      "Elon Musk",
+      "Paul Magnier",
+      "Edouard Philippe"
+     ],
+     "reponse": 0,
+     "explication": "Titre complet : « Nigeria: Nigerian Military Denies Ceasefire Deal With Boko Haram »",
+     "difficulte": "moyen",
+     "rubrique_num": 10,
+     "rubrique": "Afrique et Maghreb",
+     "titre_source": "Nigeria: Nigerian Military Denies Ceasefire Deal With Boko Haram",
+     "media": "AllAfrica",
+     "url": "https://allafrica.com/stories/202611060084.html",
+     "date": "2026-11-06",
+     "id": "2026-11-06-05"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Qui ou quoi complète ce titre (Contexte (via Google Actualités), vendredi 6 novembre 2026) ? « [Présidentielle 2027] Ralliement d’une partie des parlementaires communistes à _____ »",
+     "choix": [
+      "Raphaël Glucksmann",
+      "Bruno Retailleau",
+      "Wall Street",
+      "Jean-Luc Mélenchon"
+     ],
+     "reponse": 3,
+     "explication": "Titre complet : « [Présidentielle 2027] Ralliement d’une partie des parlementaires communistes à Jean-Luc Mélenchon »",
+     "difficulte": "moyen",
+     "rubrique_num": 5,
+     "rubrique": "Union européenne",
+     "titre_source": "[Présidentielle 2027] Ralliement d’une partie des parlementaires communistes à Jean-Luc Mélenchon",
+     "media": "Contexte (via Google Actualités)",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMFVidlVyX2ZtMGRIMjk5Si1RbDNybWg3MlVzZE1iSl9IMzcyZXJxdng0SE9fOHVPVzdkQVphOVRlRWh2cE9tYl9Nd1Q0SmVySi0tbTV2U3BXZkdNMjJMcC1ScTFXd2FUb3ZvNFJ0TlhHelBqVHFXRm1yMXFHOTJkalJQUnlSNjRZZlZpX3AybHZHTVV1dklFUTVxdkpCYVlDV0E1eE9qY0FFelo5YmVDdFY0am94X19zSW5FZWl5MTBJdndoWnF3?oc=5",
+     "date": "2026-11-06",
+     "id": "2026-11-06-06"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Qui ou quoi complète ce titre (Daily Maverick, vendredi 6 novembre 2026) ? « POLITICALLY AWEH: Why is rent so expensive in _____, and would rent control help? »",
+     "choix": [
+      "Céline Dion",
+      "Cape Town",
+      "Volodymyr Zelensky",
+      "Edouard Philippe"
+     ],
+     "reponse": 1,
+     "explication": "Titre complet : « POLITICALLY AWEH: Why is rent so expensive in Cape Town, and would rent control help? »",
+     "difficulte": "moyen",
+     "rubrique_num": 10,
+     "rubrique": "Afrique et Maghreb",
+     "titre_source": "POLITICALLY AWEH: Why is rent so expensive in Cape Town, and would rent control help?",
+     "media": "Daily Maverick",
+     "url": "https://www.dailymaverick.co.za/article/2026-11-06-why-is-rent-so-expensive-in-cape-town-and-would-rent-control-help",
+     "date": "2026-11-06",
+     "id": "2026-11-06-07"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Qui ou quoi complète ce titre (Courrier international (via Google Actualités), vendredi 6 novembre 2026) ? « Après les midterms, Tokyo redoute un rapprochement entre _____ et Xi Jinping »",
+     "choix": [
+      "Harry Kane",
+      "Marine Le Pen",
+      "Volodymyr Zelensky",
+      "Donald Trump"
+     ],
+     "reponse": 3,
+     "explication": "Titre complet : « Après les midterms, Tokyo redoute un rapprochement entre Donald Trump et Xi Jinping »",
+     "difficulte": "moyen",
+     "rubrique_num": 9,
+     "rubrique": "Asie et Océanie",
+     "titre_source": "Après les midterms, Tokyo redoute un rapprochement entre Donald Trump et Xi Jinping",
+     "media": "Courrier international (via Google Actualités)",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOM3FGWHFNTWlsOGFqSTRTS0V0cmVNMXhNT3d5M1QyaHM0eDJBZEZpbHg3TFFKZDVtVXBLU01JVzdWbkJfS3lZTHA3WmxRT3lXLXRPSkh2XzlrQlhFb3dlUG9RcEpTT3gwS29jS2N0X3BNSmJwVzVFYS1NU0NsZmZHaHdHejBaZXJudFJWWHJJMTQzd3NVTjdXaVhPR3BFdFVjb3BVMXRHR21YZkw3Q2djcjhtMWNxTUxidTh4VjdmSVdka0dmUl80NnNhUFhTTEMyUEpHaGdpUHE3WER3SHRj?oc=5",
+     "date": "2026-11-06",
+     "id": "2026-11-06-08"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Qui ou quoi complète ce titre (Carbon Brief, vendredi 6 novembre 2026) ? « ‘Simply staggering’: Rapidly developing ‘super _____’ on track to peak in December »",
+     "choix": [
+      "Donald Trump",
+      "Wall Street",
+      "Paul Seixas",
+      "El Niño"
+     ],
+     "reponse": 3,
+     "explication": "Titre complet : « ‘Simply staggering’: Rapidly developing ‘super El Niño’ on track to peak in December »",
+     "difficulte": "moyen",
+     "rubrique_num": 13,
+     "rubrique": "Environnement et climat",
+     "titre_source": "‘Simply staggering’: Rapidly developing ‘super El Niño’ on track to peak in December",
+     "media": "Carbon Brief",
+     "url": "https://www.carbonbrief.org/simply-staggering-rapidly-developing-super-el-nino-on-track-to-peak-in-december",
+     "date": "2026-11-06",
+     "id": "2026-11-06-09"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel pays complète ce titre (L'Usine Digitale (via Google Actualités), vendredi 6 novembre 2026) ? « Data centers pour l’IA : de la _____ à l’Europe, la contestation des mégaprojets prend de l’ampleur »",
+     "choix": [
+      "Sénégal",
+      "France",
+      "Rwanda",
+      "Kenya"
+     ],
+     "reponse": 1,
+     "explication": "Titre complet : « Data centers pour l’IA : de la France à l’Europe, la contestation des mégaprojets prend de l’ampleur »",
+     "difficulte": "moyen",
+     "rubrique_num": 12,
+     "rubrique": "Sciences, technologies et numérique",
+     "titre_source": "Data centers pour l’IA : de la France à l’Europe, la contestation des mégaprojets prend de l’ampleur",
+     "media": "L'Usine Digitale (via Google Actualités)",
+     "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNOVZObzAyaWFmU2l5RkxqU2gwWWNCNGtQamo5TEJfM05WZ0lUTXhCTU1KbkhabXlxY0RSaTFsNFRzeXhYRmJqbnZGMUxYZGI2ajlybkdLRDAxeVZoUldjTUo3VkVIdWRpTHFiWFNndFFQcWgtV1E2eFd1N240OHdwNjdyWE5aOFRpQ09wY2d0a1pTZEJNQ01wNUpodDJTTnYwVWYtdFVoTjB6Q3F5N1VaU0dvQmY5dzY1VW9zUUtmTkFpejYwUUdPTzdyQjZ5MmVlUlhIZ3J1SWRjbjgxNVRqSnhKcFdsaWZJS0I3VDJRZllsaG9UaHdteGNVOTZKdGw3SWNXQlhzSkhLbW80R1hZ?oc=5",
+     "date": "2026-11-06",
+     "id": "2026-11-06-10"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel pays complète ce titre (Euractiv France, vendredi 6 novembre 2026) ? « Metsola appelle à défendre la démocratie parlementaire en _____ »",
+     "choix": [
+      "Arabie",
+      "Ukraine",
+      "Sénégal",
+      "Pologne"
+     ],
+     "reponse": 3,
+     "explication": "Titre complet : « Metsola appelle à défendre la démocratie parlementaire en Pologne »",
+     "difficulte": "moyen",
+     "rubrique_num": 5,
+     "rubrique": "Union européenne",
+     "titre_source": "Metsola appelle à défendre la démocratie parlementaire en Pologne",
+     "media": "Euractiv France",
+     "url": "https://www.rapporteur.com/fr/news/metsola-exhorte-les-polonais-a-donner-la-priorite-au-parlement-dans-le-contexte-des-tensions-constitutionnelles",
+     "date": "2026-11-06",
+     "id": "2026-11-06-11"
+    }
+   ]
+  },
+  "2026-11-05": {
+   "mode": "auto",
+   "genere_le": "2026-11-10T12:50:05+00:00",
+   "questions": [
+    {
+     "type": "texte_a_trous",
+     "question": "Quel chiffre complète ce titre (Le Monde, jeudi 5 novembre 2026) ? « Violences conjugales : _____ victimes enregistrées en 2025, dont 84 % de femmes »",
+     "choix": [
+      "855 000",
+      "142 500",
+      "285 000",
+      "427 500"
+     ],
+     "reponse": 2,
+     "explication": "Titre complet : « Violences conjugales : 285 000 victimes enregistrées en 2025, dont 84 % de femmes »",
+     "difficulte": "moyen",
+     "rubrique_num": 17,
+     "rubrique": "Société et migrations",
+     "titre_source": "Violences conjugales : 285 000 victimes enregistrées en 2025, dont 84 % de femmes",
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/societe/article/2026/11/05/violences-conjugales-285-000-victimes-enregistrees-en-2025-dont-84-de-femmes_6806852_3224.html",
+     "date": "2026-11-05",
+     "id": "2026-11-05-00"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel chiffre complète ce titre (franceinfo, jeudi 5 novembre 2026) ? « ENTRETIEN. \"La résistance, chez Doisneau, se fait à bas bruit\" : trois questions à Jeanne Poret, responsable de la collection \"_____ photos pour la liberté de la presse\" de Reporters sans frontières »",
+     "choix": [
+      "300",
+      "150",
+      "200",
+      "100"
+     ],
+     "reponse": 3,
+     "explication": "Titre complet : « ENTRETIEN. \"La résistance, chez Doisneau, se fait à bas bruit\" : trois questions à Jeanne Poret, responsable de la collection \"100 photos pour la liberté de la presse\" de Reporters sans frontières »",
+     "difficulte": "moyen",
+     "rubrique_num": 21,
+     "rubrique": "Culture",
+     "titre_source": "ENTRETIEN. \"La résistance, chez Doisneau, se fait à bas bruit\" : trois questions à Jeanne Poret, responsable de la collection \"100 photos pour la liberté de la presse\" de Reporters sans frontières",
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/culture/arts-expos/robert-doisneau/entretien-la-resistance-chez-doisneau-se-fait-a-bas-bruit-trois-questions-a-jeanne-poret-responsable-de-la-collection-100-photos-pour-la-liberte-de-la-presse-de-reporters-sans-frontieres_8260262.html#xtor=RSS-3-%5Bgeneral%5D",
+     "date": "2026-11-05",
+     "id": "2026-11-05-01"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel chiffre complète ce titre (franceinfo, jeudi 5 novembre 2026) ? « _____ heures à \"L'Escale\", le plus grand restaurant routier de France »",
+     "choix": [
+      "96",
+      "24",
+      "5",
+      "48"
+     ],
+     "reponse": 3,
+     "explication": "Titre complet : « 48 heures à \"L'Escale\", le plus grand restaurant routier de France »",
+     "difficulte": "moyen",
+     "rubrique_num": 21,
+     "rubrique": "Culture",
+     "titre_source": "48 heures à \"L'Escale\", le plus grand restaurant routier de France",
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/culture/48-heures-a-l-escale-le-plus-grand-restaurant-routier-de-france_8269910.html#xtor=RSS-3-%5Bgeneral%5D",
+     "date": "2026-11-05",
+     "id": "2026-11-05-02"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel chiffre complète ce titre (Café pédagogique (via Google Actualités), jeudi 5 novembre 2026) ? « Strasbourg : _____ lycéens mobilisés, des policiers déployés et la menace de 135 euros d’amende »",
+     "choix": [
+      "30",
+      "900",
+      "300",
+      "3 000"
+     ],
+     "reponse": 2,
+     "explication": "Titre complet : « Strasbourg : 300 lycéens mobilisés, des policiers déployés et la menace de 135 euros d’amende »",
+     "difficulte": "moyen",
+     "rubrique_num": 16,
+     "rubrique": "Éducation et enseignement supérieur",
+     "titre_source": "Strasbourg : 300 lycéens mobilisés, des policiers déployés et la menace de 135 euros d’amende",
+     "media": "Café pédagogique (via Google Actualités)",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUUM3YjAyS2d6LV9XVk9PM295djFERzk1bjBSNV9Gam02TUVVcEZITmxKQk1OM1pCcUg0d3RaMDJwUk5QbTdPOW1rbUE5MUZraG9XY3RMbWRJSEtnRnQxUVh0NTRZNWNnWDlvTXUzYV9jaXJwQm9XbEtuem9JRzR3RUZLaE1wMG1JNXJfTnFJdTF5S3pkRXBoUUFaMXhpRS1UMVl0czB1aFMtcXJBWFduZWEzVTI2bWd1dlF4MEdoaWdFcnhJUjBQV3N1NVI2Zw?oc=5",
+     "date": "2026-11-05",
+     "id": "2026-11-05-03"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel chiffre complète ce titre (AllAfrica, jeudi 5 novembre 2026) ? « Nigeria: Tinubu Seeks Senate Approval for $_____.7bn External Loan »",
+     "choix": [
+      "7",
+      "70",
+      "10",
+      "21"
+     ],
+     "reponse": 0,
+     "explication": "Titre complet : « Nigeria: Tinubu Seeks Senate Approval for $7.7bn External Loan »",
+     "difficulte": "moyen",
+     "rubrique_num": 10,
+     "rubrique": "Afrique et Maghreb",
+     "titre_source": "Nigeria: Tinubu Seeks Senate Approval for $7.7bn External Loan",
+     "media": "AllAfrica",
+     "url": "https://allafrica.com/stories/202611050038.html",
+     "date": "2026-11-05",
+     "id": "2026-11-05-04"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Qui ou quoi complète ce titre (franceinfo, jeudi 5 novembre 2026) ? « A suivre _____ : Mobilisation sociale, l'exécutif au pied du mur »",
+     "choix": [
+      "Paul Seixas",
+      "South African",
+      "Volodymyr Zelensky",
+      "Alban Mikoczy"
+     ],
+     "reponse": 3,
+     "explication": "Titre complet : « A suivre Alban Mikoczy : Mobilisation sociale, l'exécutif au pied du mur »",
+     "difficulte": "moyen",
+     "rubrique_num": 4,
+     "rubrique": "Économie française et social",
+     "titre_source": "A suivre Alban Mikoczy : Mobilisation sociale, l'exécutif au pied du mur",
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/economie/greve/greve/a-suivre-alban-mikoczy-mobilisation-sociale-l-executif-au-pied-du-mur_8268830.html#xtor=RSS-3-%5Bgeneral%5D",
+     "date": "2026-11-05",
+     "id": "2026-11-05-05"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Qui ou quoi complète ce titre (Les Echos (via Google Actualités), jeudi 5 novembre 2026) ? « IA : les craintes sur les data centers et les puces font plonger _____ »",
+     "choix": [
+      "Côte Ivoire",
+      "Gabriel Attal",
+      "Benyamin Nétanyahou",
+      "Wall Street"
+     ],
+     "reponse": 3,
+     "explication": "Titre complet : « IA : les craintes sur les data centers et les puces font plonger Wall Street »",
+     "difficulte": "moyen",
+     "rubrique_num": 11,
+     "rubrique": "Économie mondiale, marchés et énergie",
+     "titre_source": "IA : les craintes sur les data centers et les puces font plonger Wall Street",
+     "media": "Les Echos (via Google Actualités)",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSDhsYmtrWDJsZGNfaHR3UWtzSnJIRFBNNVdpcUxBWDUtcGV1eF93U1Z3aGMyV2VLZEVIZ3ZGZlBGb003aUVmek5XdWp2aTJ0aXpoYnctQ04zRkNDbkc4d0pWc2JRSGhxR3RuMHBXdmRFZGVTU0tQbjR3c0pHR3dxVTUycm8zYVRNaXRIZDNlNzJvWUFzWTdZTU1hMXZSb1A5UElBM1E1clpjRm5ad3pYN2NKOGxidlMwMWdtYTAtVzNlamdpYzZBVUgyaVBYaEpKMFR5Uw?oc=5",
+     "date": "2026-11-05",
+     "id": "2026-11-05-06"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Qui ou quoi complète ce titre (Le Monde, jeudi 5 novembre 2026) ? « A _____, la victoire démocrate aux midterms a fait exploser la bulle de l’IA »",
+     "choix": [
+      "Wall Street",
+      "Rachida Dati",
+      "Marine Le Pen",
+      "Raphaël Glucksmann"
+     ],
+     "reponse": 0,
+     "explication": "Titre complet : « A Wall Street, la victoire démocrate aux midterms a fait exploser la bulle de l’IA »",
+     "difficulte": "moyen",
+     "rubrique_num": 4,
+     "rubrique": "Économie française et social",
+     "titre_source": "A Wall Street, la victoire démocrate aux midterms a fait exploser la bulle de l’IA",
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/economie/article/2026/11/05/a-wall-street-la-victoire-democrate-aux-midterms-a-fait-exploser-la-bulle-de-l-ia_6807339_3234.html",
+     "date": "2026-11-05",
+     "id": "2026-11-05-07"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Qui ou quoi complète ce titre (Les Echos (via Google Actualités), jeudi 5 novembre 2026) ? « Incertitudes sur la dette, doutes sur l'IA… Ce que change la victoire démocrate pour _____ »",
+     "choix": [
+      "South Africa",
+      "Wall Street",
+      "Benyamin Nétanyahou",
+      "Remco Evenepoel"
+     ],
+     "reponse": 1,
+     "explication": "Titre complet : « Incertitudes sur la dette, doutes sur l'IA… Ce que change la victoire démocrate pour Wall Street »",
+     "difficulte": "moyen",
+     "rubrique_num": 11,
+     "rubrique": "Économie mondiale, marchés et énergie",
+     "titre_source": "Incertitudes sur la dette, doutes sur l'IA… Ce que change la victoire démocrate pour Wall Street",
+     "media": "Les Echos (via Google Actualités)",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNcFlkVW1ncWNrRlJkbzJQZl9raGRSZGJDbE9ldXM2eGVFUzl4enA0RFBlajhUbDd4SUZWWDM1TzdDbktyY2xMdGdQMGJvdmZpRDN4MVRaZ0ZZVjhjbFozcG1qVzl2UEJwcUpSXzZCLWttc3ZJUkFuOHhwR1htWHJBamkybXVteFBwM3pmdl9PSU1RMV9zb2tpTFdSRkFuODFEelRDWkdKZ2lpb1VXcmVsd0R1LXhaX0VRUm9UQzZuQU1XejNCOFZlcGU4RFNHcDYyWWR0TVVqOFl6VVh0SEQyRG12T2hlZjJqaEl3N2xvNUlxQQ?oc=5",
+     "date": "2026-11-05",
+     "id": "2026-11-05-08"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Qui ou quoi complète ce titre (Le Figaro (via Google Actualités), jeudi 5 novembre 2026) ? « Midterms 2026 : pourquoi les Européens n’attendent rien de la débâcle de _____ »",
+     "choix": [
+      "Harry Kane",
+      "Donald Trump",
+      "South Africa",
+      "Léon XIV"
+     ],
+     "reponse": 1,
+     "explication": "Titre complet : « Midterms 2026 : pourquoi les Européens n’attendent rien de la débâcle de Donald Trump »",
+     "difficulte": "moyen",
+     "rubrique_num": 5,
+     "rubrique": "Union européenne",
+     "titre_source": "Midterms 2026 : pourquoi les Européens n’attendent rien de la débâcle de Donald Trump",
+     "media": "Le Figaro (via Google Actualités)",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeElycUVacFlUQS1za0wxd2dia3RwZmtMNWV0WV9MeWt3UmVoQWJfZU42cV9tanJWMWlmN2M2U3l3WE1sb0o4d1o2S0lzWl9NYkh5Smt3aG4xZ3RPQ19yX1ZLM3lGUm82UmhoQ3NPY09VWlJXczlyY0VmRFVWN2g5SktBc0x3VDNRQjItTlhTNkZVNnJWTm90M3RzcFZKWThMQTlkTHF0c0hLS3BNTFpEZms0VmVnM2lLQzhqeXg2OHBRVzlfTE8zSWpn?oc=5",
+     "date": "2026-11-05",
+     "id": "2026-11-05-09"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel pays complète ce titre (Euronews.com (via Google Actualités), jeudi 5 novembre 2026) ? « Vidéo. _____ : une cinquantaine de globicéphales morts après un échouage massif »",
+     "choix": [
+      "Iran",
+      "Royaume-Uni",
+      "Nouvelle-Zélande",
+      "Inde"
+     ],
+     "reponse": 2,
+     "explication": "Titre complet : « Vidéo. Nouvelle-Zélande : une cinquantaine de globicéphales morts après un échouage massif »",
+     "difficulte": "moyen",
+     "rubrique_num": 6,
+     "rubrique": "Europe (pays)",
+     "titre_source": "Vidéo. Nouvelle-Zélande : une cinquantaine de globicéphales morts après un échouage massif",
+     "media": "Euronews.com (via Google Actualités)",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS1lJVy02Mi1idllnNERkUlVPdXdRZVdGYzdZbEVzZmg0aXZLUXZja3VnMW42V2JBelV5N24tTTZYd0ZteGdoQWdSTGptSmRnbS1CVEhicjlNeWNvc3pUeEVlU2lXZWREeEhQdFdMLVkzSVJQQ0M2RXRhdEQ5UUZ3eGZRUmM3X3JYMTVkdG9pZHNkTjJZX1h0NXR6Wl9UWDRkWG02OVQxNTYzODBSM0FBeFFlR2ZaUF92OGtmMy01cw?oc=5",
+     "date": "2026-11-05",
+     "id": "2026-11-05-10"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel pays complète ce titre (Touteleurope.eu (via Google Actualités), jeudi 5 novembre 2026) ? « Élargissement : le _____ en bonne voie pour intégrer l'Union européenne dès 2028 »",
+     "choix": [
+      "Monténégro",
+      "Etats-Unis",
+      "Chine",
+      "Gaza"
+     ],
+     "reponse": 0,
+     "explication": "Titre complet : « Élargissement : le Monténégro en bonne voie pour intégrer l'Union européenne dès 2028 »",
+     "difficulte": "moyen",
+     "rubrique_num": 5,
+     "rubrique": "Union européenne",
+     "titre_source": "Élargissement : le Monténégro en bonne voie pour intégrer l'Union européenne dès 2028",
+     "media": "Touteleurope.eu (via Google Actualités)",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaFNpVzF3QjRSR3AxUlFMTDRCSTRKQU44WkN4RW51TTlMcFhUaldwWXpXR3Y2b0VuZmdqRVdQNmRxUFlOYm5jYkc3QVE3Z1pmYURLQlJ5WnJ4VUJqcDZlNzVVaTN1R2NlOGZsS2VkMnROdUZkdF83dUdUVnJGZVZ2aTF5OElUa096VHJmNkVfN3RmVzY5Z1hfcm14WTZpeVFNYWhhVERRRFpFWkdsdXJERWVqTlhMN0RqYUQ0WVJZWWlNa3M?oc=5",
+     "date": "2026-11-05",
+     "id": "2026-11-05-11"
+    }
+   ]
+  },
+  "2026-11-04": {
+   "mode": "auto",
+   "genere_le": "2026-11-10T12:50:05+00:00",
+   "questions": [
+    {
+     "type": "texte_a_trous",
+     "question": "Quel chiffre complète ce titre (Financial Times (via Google Actualités), mercredi 4 novembre 2026) ? « _____ de McDonald's Suisse : 20 Minutes relance son édition papier pour un numéro spécial »",
+     "choix": [
+      "75 ans",
+      "500 ans",
+      "50 ans",
+      "100 ans"
+     ],
+     "reponse": 2,
+     "explication": "Titre complet : « 50 ans de McDonald's Suisse : 20 Minutes relance son édition papier pour un numéro spécial »",
+     "difficulte": "moyen",
+     "rubrique_num": 11,
+     "rubrique": "Économie mondiale, marchés et énergie",
+     "titre_source": "50 ans de McDonald's Suisse : 20 Minutes relance son édition papier pour un numéro spécial",
+     "media": "Financial Times (via Google Actualités)",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbXFweTlWdnhMa0hPbHJnM0VKZVRfRzc1dHhESUJDSGttUWdkSFhQNVNqWmNBd0JaSmJ2ZXdlYm1NQU0wMm5ZLW1pVVNrb3dGWTMteWFwZnJ3LU1EOUtYbWJQVE14RExiaEp0X2JadHd4bjBZSldwYjFHM1dLQm9JMGZFbllsaklmd3YzZkFsOTZmN1lJN0U1N2FZWGpKZmhnM3ZMWDR1ODEzUQ?oc=5",
+     "date": "2026-11-04",
+     "id": "2026-11-04-00"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel chiffre complète ce titre (franceinfo, mercredi 4 novembre 2026) ? « Au-delà du Nutri-Score, \"_____ Millions de consommateurs\" souhaite un indicateur du \"degré de transformation du produit\" »",
+     "choix": [
+      "6",
+      "60",
+      "120",
+      "30"
+     ],
+     "reponse": 1,
+     "explication": "Titre complet : « Au-delà du Nutri-Score, \"60 Millions de consommateurs\" souhaite un indicateur du \"degré de transformation du produit\" »",
+     "difficulte": "moyen",
+     "rubrique_num": 15,
+     "rubrique": "Santé et protection sociale",
+     "titre_source": "Au-delà du Nutri-Score, \"60 Millions de consommateurs\" souhaite un indicateur du \"degré de transformation du produit\"",
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/sante/alimentation/au-dela-du-nutri-score-60-millions-de-consommateurs-souhaite-un-indicateur-du-degre-de-transformation-du-produit_8267792.html#xtor=RSS-3-%5Bgeneral%5D",
+     "date": "2026-11-04",
+     "id": "2026-11-04-01"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel chiffre complète ce titre (Next, mercredi 4 novembre 2026) ? « Gears of War: E-Day : _____ de dollars, mais pour quoi faire ? »",
+     "choix": [
+      "1 500 millions",
+      "500 millions",
+      "1 000 millions",
+      "50 millions"
+     ],
+     "reponse": 1,
+     "explication": "Titre complet : « Gears of War: E-Day : 500 millions de dollars, mais pour quoi faire ? »",
+     "difficulte": "moyen",
+     "rubrique_num": 12,
+     "rubrique": "Sciences, technologies et numérique",
+     "titre_source": "Gears of War: E-Day : 500 millions de dollars, mais pour quoi faire ?",
+     "media": "Next",
+     "url": "https://next.ink/265584/gears-of-war-e-day-500-millions-de-dollars-mais-pour-quoi-faire",
+     "date": "2026-11-04",
+     "id": "2026-11-04-02"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel chiffre complète ce titre (Euronews.com (via Google Actualités), mercredi 4 novembre 2026) ? « Inflation de la zone euro à _____: l’énergie ravive les attentes de hausse des taux de la BCE »",
+     "choix": [
+      "1 %",
+      "8 %",
+      "4 %",
+      "14 %"
+     ],
+     "reponse": 2,
+     "explication": "Titre complet : « Inflation de la zone euro à 4 %: l’énergie ravive les attentes de hausse des taux de la BCE »",
+     "difficulte": "moyen",
+     "rubrique_num": 6,
+     "rubrique": "Europe (pays)",
+     "titre_source": "Inflation de la zone euro à 4 %: l’énergie ravive les attentes de hausse des taux de la BCE",
+     "media": "Euronews.com (via Google Actualités)",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUoweVVjNS1PU3VhQmJBdzlLbmN2OWVCYWx6TDUxeXB6eGFIZDlXVFdJOHhVQlM5Sk9GVEtBQ292b1I5N3MwQjNoTlRmb2xUS3VlRGtzMkUxcVZ5Nlc2OE5lRUUtSjI5ZkRZRFdZNG5vVkVBRXlzazhHc2tqQm0yTFFOaVhnaEVJYjEzZ3BiVGpNaDMweThDdWctWkVIenFRcGlpNEI0S21obVU0RTFvQkxMcFJzWHFXM1JvbXp5Yw?oc=5",
+     "date": "2026-11-04",
+     "id": "2026-11-04-03"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel chiffre complète ce titre (franceinfo, mercredi 4 novembre 2026) ? « A suivre Alban Mikoczy : carburants : \"_____ stations ont baissé les prix\" »",
+     "choix": [
+      "18 000",
+      "6000",
+      "60 000",
+      "12 000"
+     ],
+     "reponse": 1,
+     "explication": "Titre complet : « A suivre Alban Mikoczy : carburants : \"6000 stations ont baissé les prix\" »",
+     "difficulte": "moyen",
+     "rubrique_num": 4,
+     "rubrique": "Économie française et social",
+     "titre_source": "A suivre Alban Mikoczy : carburants : \"6000 stations ont baissé les prix\"",
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/economie/a-suivre-avec-alban-mikoczy-carburants-6000-stations-ont-baisse-les-prix_8267183.html#xtor=RSS-3-%5Bgeneral%5D",
+     "date": "2026-11-04",
+     "id": "2026-11-04-04"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Qui ou quoi complète ce titre (Investir Les Echos (via Google Actualités), mercredi 4 novembre 2026) ? « _____ ouvre en nette hausse après la victoire démocrate aux \"midterms\" »",
+     "choix": [
+      "Wall Street",
+      "Paul Seixas",
+      "Emmanuel Macron",
+      "Jean-Luc Mélenchon"
+     ],
+     "reponse": 0,
+     "explication": "Titre complet : « Wall Street ouvre en nette hausse après la victoire démocrate aux \"midterms\" »",
+     "difficulte": "moyen",
+     "rubrique_num": 11,
+     "rubrique": "Économie mondiale, marchés et énergie",
+     "titre_source": "Wall Street ouvre en nette hausse après la victoire démocrate aux \"midterms\"",
+     "media": "Investir Les Echos (via Google Actualités)",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOT01OWE9xaVRwOHlONVRqd0VYMlIxdGRpQVRBNmFFdk9YNWMzZklhOGdMYnlCZEJRWmY3V1lvYXVIdFhfNUxfZEZqc1hBck5oWnIwcElkQmpGMTQzeEtfS2NzU0pwR0J1NHVobUw1X2xvd1UzR3poZGM3SXZxcEtQTVNKTXFsUlZqSGJHWlVjUTljS1kwSFVzRmUtQ3BWdUdmb2M5c1hVS0dGanFtWG03bDF3cnZERURqRlpsN0dLSThOTG5PdEtTVFNjRE1aaGVHRk1XbjZuMl9oYUNxaFE?oc=5",
+     "date": "2026-11-04",
+     "id": "2026-11-04-05"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Qui ou quoi complète ce titre (L'Opinion (via Google Actualités), mercredi 4 novembre 2026) ? « Malgré la débâcle de _____, le risque de guerre avec l’Iran toujours au plus haut »",
+     "choix": [
+      "Laurent Nuñez",
+      "Bruno Retailleau",
+      "Rima Hassan",
+      "Donald Trump"
+     ],
+     "reponse": 3,
+     "explication": "Titre complet : « Malgré la débâcle de Donald Trump, le risque de guerre avec l’Iran toujours au plus haut »",
+     "difficulte": "moyen",
+     "rubrique_num": 1,
+     "rubrique": "Politique française",
+     "titre_source": "Malgré la débâcle de Donald Trump, le risque de guerre avec l’Iran toujours au plus haut",
+     "media": "L'Opinion (via Google Actualités)",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWjNkYW1OYXJyXzk3bmZMWkQteGFXa1R3cXp2QTg1SWxCd3VYSE5pUkNCNFBFYnFoeE9tOE1kYURyRHRjVFRHWEt0VVJMNXVrcEZkTHA0ZVdZMUlxbmgxeDVUUERSR2lrWHhfdkRpdzV1cjlQVGExcGhPWjRPUmQ4SkVDWmU3Q2FlNm5WcEcwYkV2Vy1SYmwwZHZ3cW5lSHk5T1dUX0dISWFJUTFyOTNINlVpeWpyZ1VGOG5vUmN2ZkJLdw?oc=5",
+     "date": "2026-11-04",
+     "id": "2026-11-04-06"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Qui ou quoi complète ce titre (franceinfo, mercredi 4 novembre 2026) ? « Le prix Femina 2026 est remis à _____ pour \"La solitude des professeurs est infinie\" »",
+     "choix": [
+      "Yannick Haenel",
+      "Paris Fashion Week",
+      "GTA VI",
+      "Céline Dion"
+     ],
+     "reponse": 0,
+     "explication": "Titre complet : « Le prix Femina 2026 est remis à Yannick Haenel pour \"La solitude des professeurs est infinie\" »",
+     "difficulte": "moyen",
+     "rubrique_num": 21,
+     "rubrique": "Culture",
+     "titre_source": "Le prix Femina 2026 est remis à Yannick Haenel pour \"La solitude des professeurs est infinie\"",
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/culture/livres/prix-litteraires/le-prix-femina-2026-est-remis-a-yannick-haenel-pour-la-solitude-des-professeurs-est-infinie_8267663.html#xtor=RSS-3-%5Bgeneral%5D",
+     "date": "2026-11-04",
+     "id": "2026-11-04-07"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Qui ou quoi complète ce titre (Le Monde.fr (via Google Actualités), mercredi 4 novembre 2026) ? « Le _____ subit « une humiliation » face à Côme en Ligue des champions et poursuit son début de saison tumultueux »",
+     "choix": [
+      "RC Lens",
+      "Friedrich Merz",
+      "Paul Magnier",
+      "Rachida Dati"
+     ],
+     "reponse": 0,
+     "explication": "Titre complet : « Le RC Lens subit « une humiliation » face à Côme en Ligue des champions et poursuit son début de saison tumultueux »",
+     "difficulte": "moyen",
+     "rubrique_num": 6,
+     "rubrique": "Europe (pays)",
+     "titre_source": "Le RC Lens subit « une humiliation » face à Côme en Ligue des champions et poursuit son début de saison tumultueux",
+     "media": "Le Monde.fr (via Google Actualités)",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOdFpjNEd5blVPWGIyejd4TERESmg4VDFDZl9SMDhIQjVQR0ZsRkJzVHJZbi1ZOXNtbmRMak12UTBGN19SYnBHZ1NTT05oMllKYmhQYV9ncjAtekFMbnNKN01IV2ozLW9Xc1diSTU3REJ5MDlnZEVCY2F1TTRsZHREbTB0VFhLZXlKMkwzR1c2MkpyNWZXemgzWWMwZ1ZFM0lnTUdqX0pXcGxPcWd1eWdNY2FBOV80Qm5DS0lnVW5fSk44dnF6eVZQMFFOdlhXZHJKcjYzaVFIZzlTcnMwUkZuNW1OMHUwcy1meEZURjI4djJ1QjJ5THRmYWFkMUZDZHlhc2hVM05ZYw?oc=5",
+     "date": "2026-11-04",
+     "id": "2026-11-04-08"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Qui ou quoi complète ce titre (Le Figaro (via Google Actualités), mercredi 4 novembre 2026) ? « Les coûts du changement climatique vont s'alourdir en Europe, estime _____ »",
+     "choix": [
+      "Remco Evenepoel",
+      "Raphaël Glucksmann",
+      "Christine Lagarde",
+      "Côte Ivoire"
+     ],
+     "reponse": 2,
+     "explication": "Titre complet : « Les coûts du changement climatique vont s'alourdir en Europe, estime Christine Lagarde »",
+     "difficulte": "moyen",
+     "rubrique_num": 5,
+     "rubrique": "Union européenne",
+     "titre_source": "Les coûts du changement climatique vont s'alourdir en Europe, estime Christine Lagarde",
+     "media": "Le Figaro (via Google Actualités)",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcG41VVU0ZjhjbS1vRzRxU1lKN2tvRTJEbG52ZVJRVGt4SWtJb2dhTENHckctcVNlWk5DTjM1ZGxzMklXV0phSi1KdnJiUnVmLUdzRmVkY3dEbGduNk9hU01EdHpGdThkS3NvYkI0dzFhZU5qQ3ZLUDFnWEMzMTZnMDdBbWJjdU5qaW9YUjBvVEx0bEJqb0hrX0VnYjI2UVpPb0J3RUx1TFRYc1M4VUxLOTFoemN5bWV6Nkh5SENORmxhODBvU2pyLXd3?oc=5",
+     "date": "2026-11-04",
+     "id": "2026-11-04-09"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel pays complète ce titre (Le Monde, mercredi 4 novembre 2026) ? « Midterms 2026 : « Les raisons du tsunami démocrate aux _____ sont bien connues, le coût de la vie, la brutalisation de la vie politique et la corruption » »",
+     "choix": [
+      "Espagne",
+      "Etats-Unis",
+      "Ukraine",
+      "Cameroun"
+     ],
+     "reponse": 1,
+     "explication": "Titre complet : « Midterms 2026 : « Les raisons du tsunami démocrate aux Etats-Unis sont bien connues, le coût de la vie, la brutalisation de la vie politique et la corruption » »",
+     "difficulte": "moyen",
+     "rubrique_num": 7,
+     "rubrique": "Guerres et conflits",
+     "titre_source": "Midterms 2026 : « Les raisons du tsunami démocrate aux Etats-Unis sont bien connues, le coût de la vie, la brutalisation de la vie politique et la corruption »",
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/idees/article/2026/11/04/midterms-2026-les-raisons-du-tsunami-democrate-aux-etats-unis-sont-bien-connues-le-cout-de-la-vie-la-brutalisation-de-la-vie-politique-et-la-corruption_6806424_3232.html",
+     "date": "2026-11-04",
+     "id": "2026-11-04-10"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel pays complète ce titre (Euractiv France, mercredi 4 novembre 2026) ? « Merz recevra ses alliés européens à l’approche des négociations sur l’_____ »",
+     "choix": [
+      "Corée",
+      "Israël",
+      "États-Unis",
+      "Ukraine"
+     ],
+     "reponse": 3,
+     "explication": "Titre complet : « Merz recevra ses alliés européens à l’approche des négociations sur l’Ukraine »",
+     "difficulte": "moyen",
+     "rubrique_num": 5,
+     "rubrique": "Union européenne",
+     "titre_source": "Merz recevra ses alliés européens à l’approche des négociations sur l’Ukraine",
+     "media": "Euractiv France",
+     "url": "https://www.rapporteur.com/fr/news/merz-recevra-ses-allies-europeens-a-lapproche-des-negociations-sur-lukraine",
+     "date": "2026-11-04",
+     "id": "2026-11-04-11"
+    }
+   ]
+  },
+  "2026-11-03": {
+   "mode": "auto",
+   "genere_le": "2026-11-10T12:50:05+00:00",
+   "questions": [
+    {
+     "type": "texte_a_trous",
+     "question": "Quel chiffre complète ce titre (Le Monde.fr (via Google Actualités), mardi 3 novembre 2026) ? « La journaliste Vanessa Dougnac, grande spécialiste de l’Inde, est morte à _____ »",
+     "choix": [
+      "108 ans",
+      "54 ans",
+      "5 ans",
+      "540 ans"
+     ],
+     "reponse": 1,
+     "explication": "Titre complet : « La journaliste Vanessa Dougnac, grande spécialiste de l’Inde, est morte à 54 ans »",
+     "difficulte": "moyen",
+     "rubrique_num": 9,
+     "rubrique": "Asie et Océanie",
+     "titre_source": "La journaliste Vanessa Dougnac, grande spécialiste de l’Inde, est morte à 54 ans",
+     "media": "Le Monde.fr (via Google Actualités)",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaGptV3VpRk9tMjhVSnFxRk0wR3c1bmI0MklfNDUtUlFxTTEyTENGeHk0X1Nwa2hWNEFOOEltWDQ2d3BVYVhIUFJINnFGekdJd2FVSnRwaV9FeWdnamtYR2tHOW11NkVMNGlQTl9FSjdGYjVCT3d0NzhEcDRtV0xjczhIbzFST2FhdDltNFNFOWpkbUQ5V0VhaXhKZmM1OGowbFUzS1dJSHc4dHlvVGFfeGhBcGNoTlRJXzZuQlVOSVE2c0NtXzVnSHUyX1BvX2c4SDcwQ0FOaFlIYmZsMmE4bmFTQXRMUQ?oc=5",
+     "date": "2026-11-03",
+     "id": "2026-11-03-00"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel chiffre complète ce titre (franceinfo, mardi 3 novembre 2026) ? « Livret A : le gouvernement envisage une hausse du plafond à _____ »",
+     "choix": [
+      "300 000 euros",
+      "90 000 euros",
+      "60 000 euros",
+      "30 000 euros"
+     ],
+     "reponse": 3,
+     "explication": "Titre complet : « Livret A : le gouvernement envisage une hausse du plafond à 30 000 euros »",
+     "difficulte": "moyen",
+     "rubrique_num": 4,
+     "rubrique": "Économie française et social",
+     "titre_source": "Livret A : le gouvernement envisage une hausse du plafond à 30 000 euros",
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/economie/livret-a-le-gouvernement-envisage-une-hausse-du-plafond-a-30-000-euros_8266541.html#xtor=RSS-3-%5Bgeneral%5D",
+     "date": "2026-11-03",
+     "id": "2026-11-03-01"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel chiffre complète ce titre (franceinfo, mardi 3 novembre 2026) ? « DIRECT. Prix Goncourt 2026 : quatre romans en lice pour succéder à \"La Maison vide\" de Laurent Mauvignier, le lauréat désigné à _____ heures »",
+     "choix": [
+      "13",
+      "1",
+      "130",
+      "39"
+     ],
+     "reponse": 0,
+     "explication": "Titre complet : « DIRECT. Prix Goncourt 2026 : quatre romans en lice pour succéder à \"La Maison vide\" de Laurent Mauvignier, le lauréat désigné à 13 heures »",
+     "difficulte": "moyen",
+     "rubrique_num": 21,
+     "rubrique": "Culture",
+     "titre_source": "DIRECT. Prix Goncourt 2026 : quatre romans en lice pour succéder à \"La Maison vide\" de Laurent Mauvignier, le lauréat désigné à 13 heures",
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/culture/livres/prix-litteraires/direct-prix-goncourt-2026-qui-succedera-a-la-maison-vide-de-laurent-mauvignier_8264468.html#xtor=RSS-3-%5Bgeneral%5D",
+     "date": "2026-11-03",
+     "id": "2026-11-03-02"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel chiffre complète ce titre (Café pédagogique (via Google Actualités), mardi 3 novembre 2026) ? « _____ élèves de CE2 sur 10 se déclarent victimes de violences sexuelles »",
+     "choix": [
+      "6",
+      "12",
+      "4",
+      "2"
+     ],
+     "reponse": 2,
+     "explication": "Titre complet : « 4 élèves de CE2 sur 10 se déclarent victimes de violences sexuelles »",
+     "difficulte": "moyen",
+     "rubrique_num": 16,
+     "rubrique": "Éducation et enseignement supérieur",
+     "titre_source": "4 élèves de CE2 sur 10 se déclarent victimes de violences sexuelles",
+     "media": "Café pédagogique (via Google Actualités)",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM2l2M1VvVERSR1R4UWItRV9kR1lqLVFzZkVCNGZRcjVnZU9peThXR3hialp5QktEd1dZekN0OWl5SjBYOXRhOGJZYmo4LTBoaGNiTkpzSTRLaWZ5VTc3OC1ZWVdybEtCZnF0WWk4TVVPRHRmNi1fOG5OUnVXRUJhRmk2bWF6b0d3alM0dEtjWlU4cE45UHo3LXNkckhQaHRpdUl0Zk8wUVRhU2RYS0dOMQ?oc=5",
+     "date": "2026-11-03",
+     "id": "2026-11-03-03"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel chiffre complète ce titre (Next, mardi 3 novembre 2026) ? « Ça devient ridicule : le Raspberry Pi 5 avec 16 Go de mémoire passe à _____ »",
+     "choix": [
+      "250 euros",
+      "5 000 euros",
+      "1 000 euros",
+      "500 euros"
+     ],
+     "reponse": 3,
+     "explication": "Titre complet : « Ça devient ridicule : le Raspberry Pi 5 avec 16 Go de mémoire passe à 500 euros »",
+     "difficulte": "moyen",
+     "rubrique_num": 12,
+     "rubrique": "Sciences, technologies et numérique",
+     "titre_source": "Ça devient ridicule : le Raspberry Pi 5 avec 16 Go de mémoire passe à 500 euros",
+     "media": "Next",
+     "url": "https://next.ink/265399/ca-devient-ridicule-le-raspberry-pi-5-avec-16-go-de-memoire-passe-a-500-euros",
+     "date": "2026-11-03",
+     "id": "2026-11-03-04"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Qui ou quoi complète ce titre (Daily Maverick, mardi 3 novembre 2026) ? « _____ says US allegations linking it to Binance heist are ‘absurd rhetoric’ »",
+     "choix": [
+      "Xi Jinping",
+      "North Korea",
+      "Paul Magnier",
+      "Announcement FT"
+     ],
+     "reponse": 1,
+     "explication": "Titre complet : « North Korea says US allegations linking it to Binance heist are ‘absurd rhetoric’ »",
+     "difficulte": "moyen",
+     "rubrique_num": 10,
+     "rubrique": "Afrique et Maghreb",
+     "titre_source": "North Korea says US allegations linking it to Binance heist are ‘absurd rhetoric’",
+     "media": "Daily Maverick",
+     "url": "https://www.dailymaverick.co.za/article/2026-11-03-north-korea-says-us-allegations-linking-it-to-binance-heist-are-absurd-rhetoric",
+     "date": "2026-11-03",
+     "id": "2026-11-03-05"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Qui ou quoi complète ce titre (Le Monde.fr (via Google Actualités), mardi 3 novembre 2026) ? « Iran : l’armée américaine a effectué des frappes sur l’île de Qechm, selon le « _____ Journal » »",
+     "choix": [
+      "Harry Kane",
+      "Bruno Retailleau",
+      "Wall Street",
+      "Announcement FT"
+     ],
+     "reponse": 2,
+     "explication": "Titre complet : « Iran : l’armée américaine a effectué des frappes sur l’île de Qechm, selon le « Wall Street Journal » »",
+     "difficulte": "moyen",
+     "rubrique_num": 11,
+     "rubrique": "Économie mondiale, marchés et énergie",
+     "titre_source": "Iran : l’armée américaine a effectué des frappes sur l’île de Qechm, selon le « Wall Street Journal »",
+     "media": "Le Monde.fr (via Google Actualités)",
+     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNaHFUdzJlN2N5QnZEbHRySGE5TnB1NURmWDduY3JSNENDb2xlWVV4OUIzdG1WdmlHblJTX1Nqd01LcER4TXRyOTdvYkgwMENKLXlGN2lmcURzaFVuaFRKby1hYWV1LWI2ZV9iVlBfZ05kSkU2MnFSOGlKT09HLXI4VEl4QXRGOENMTkg4X29Ra004d3JKc1pMUlBRUWpfR2liZDEwZWh3anpwcldkN0RBaVJfR0dQSm5hWnJKSUhwVG43cmJBMTBUcUQtdmNqemYwbTJEMzRoMGI4bFBSTVlGc0xLQjdkN3Brd3NtNXdrdUxTVVN2SEwwZFVXaDg?oc=5",
+     "date": "2026-11-03",
+     "id": "2026-11-03-06"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Qui ou quoi complète ce titre (franceinfo, mardi 3 novembre 2026) ? « \"Le Palais\", prix Renaudot 2026 : une épopée du vin dans une fable gouleyante signée _____ »",
+     "choix": [
+      "Emmanuel Marre",
+      "Sandrine Kiberlain",
+      "GTA VI",
+      "François-Henri Désérable"
+     ],
+     "reponse": 3,
+     "explication": "Titre complet : « \"Le Palais\", prix Renaudot 2026 : une épopée du vin dans une fable gouleyante signée François-Henri Désérable »",
+     "difficulte": "moyen",
+     "rubrique_num": 21,
+     "rubrique": "Culture",
+     "titre_source": "\"Le Palais\", prix Renaudot 2026 : une épopée du vin dans une fable gouleyante signée François-Henri Désérable",
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/culture/livres/prix-litteraires/le-palais-prix-renaudot-2026-une-epopee-du-vin-dans-une-fable-gouleyante-signee-francois-henri-deserable_8265854.html#xtor=RSS-3-%5Bgeneral%5D",
+     "date": "2026-11-03",
+     "id": "2026-11-03-07"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Qui ou quoi complète ce titre (Le Monde, mardi 3 novembre 2026) ? « « Le bilan de la journée du 17 octobre est un échec » : _____ auditionné par la commission d’enquête sur les violences des manifestations »",
+     "choix": [
+      "Laurent Nuñez",
+      "Ségolène Royal",
+      "Emmanuel Macron",
+      "Jordan Bardella"
+     ],
+     "reponse": 0,
+     "explication": "Titre complet : « « Le bilan de la journée du 17 octobre est un échec » : Laurent Nuñez auditionné par la commission d’enquête sur les violences des manifestations »",
+     "difficulte": "moyen",
+     "rubrique_num": 1,
+     "rubrique": "Politique française",
+     "titre_source": "« Le bilan de la journée du 17 octobre est un échec » : Laurent Nuñez auditionné par la commission d’enquête sur les violences des manifestations",
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/videos/video/2026/11/03/le-bilan-de-la-journee-du-17-octobre-est-un-echec-laurent-nunez-auditionne-par-la-commission-d-enquete-sur-les-violences-des-manifestations_6805659_1669088.html",
+     "date": "2026-11-03",
+     "id": "2026-11-03-08"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Qui ou quoi complète ce titre (franceinfo, mardi 3 novembre 2026) ? « \"Le père de _____ n'a toujours pas reçu de condoléances du président de la République\" : Zineb Alami, avocate de Bolema Bossio Wangi »",
+     "choix": [
+      "Pengo Bossio Wangi",
+      "Benyamin Nétanyahou",
+      "Federico Martin Aramburu",
+      "Inass Touloub"
+     ],
+     "reponse": 0,
+     "explication": "Titre complet : « \"Le père de Pengo Bossio Wangi n'a toujours pas reçu de condoléances du président de la République\" : Zineb Alami, avocate de Bolema Bossio Wangi »",
+     "difficulte": "moyen",
+     "rubrique_num": 2,
+     "rubrique": "Justice, police et sécurité intérieure",
+     "titre_source": "\"Le père de Pengo Bossio Wangi n'a toujours pas reçu de condoléances du président de la République\" : Zineb Alami, avocate de Bolema Bossio Wangi",
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/le-pere-de-pengo-bossio-wangi-n-a-toujours-pas-recu-de-condoleances-du-president-de-la-republique-zineb-alami-avocate-de-bolema-bossio-wangi_8266439.html#xtor=RSS-3-%5Bgeneral%5D",
+     "date": "2026-11-03",
+     "id": "2026-11-03-09"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel pays complète ce titre (Reporterre, mardi 3 novembre 2026) ? « Incendies en _____ : les étudiants mènent la révolte contre la gestion du gouvernement »",
+     "choix": [
+      "Cisjordanie",
+      "Gaza",
+      "Espagne",
+      "Indonésie"
+     ],
+     "reponse": 3,
+     "explication": "Titre complet : « Incendies en Indonésie : les étudiants mènent la révolte contre la gestion du gouvernement »",
+     "difficulte": "moyen",
+     "rubrique_num": 13,
+     "rubrique": "Environnement et climat",
+     "titre_source": "Incendies en Indonésie : les étudiants mènent la révolte contre la gestion du gouvernement",
+     "media": "Reporterre",
+     "url": "https://reporterre.net/Incendies-en-Indonesie-les-etudiants-menent-la-revolte-contre-la-gestion-du-gouvernement",
+     "date": "2026-11-03",
+     "id": "2026-11-03-10"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel pays complète ce titre (Courrier international (via Google Actualités), mardi 3 novembre 2026) ? « En _____, des travailleurs nord-coréens qui “ne s’enfuiront pas” soumis au travail forcé »",
+     "choix": [
+      "Sénégal",
+      "États-Unis",
+      "Russie",
+      "Arabie"
+     ],
+     "reponse": 2,
+     "explication": "Titre complet : « En Russie, des travailleurs nord-coréens qui “ne s’enfuiront pas” soumis au travail forcé »",
+     "difficulte": "moyen",
+     "rubrique_num": 9,
+     "rubrique": "Asie et Océanie",
+     "titre_source": "En Russie, des travailleurs nord-coréens qui “ne s’enfuiront pas” soumis au travail forcé",
+     "media": "Courrier international (via Google Actualités)",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNV1hsWllydGVmWnNzYWN6b2VwNndfRFZNcG9paFhoNGlSd3ROalpwNXU4dm1IM3JJTm0ycGNyeDZMV0ZtM2sycURENEFHUVJNNTg2WjZnQU9uYTNfMldnODIyclNXN2VLX1FqbFYyV05rZ0F2Y0JDZnBCMDQ4N0E3WDQwRTVKTm5McjZsYWRCa0R4dVJuNVRfOS1QcmV3a0FOZ0FJTGZ3OE9Dcnk3OGExYlpDaTFxdEhPdlByNnpVUVhkNWJsRzcwVi1WY2tDYnhXT25ZU0huQklzMzJ6N3FERg?oc=5",
+     "date": "2026-11-03",
+     "id": "2026-11-03-11"
+    }
+   ]
+  },
+  "2026-11-02": {
+   "mode": "auto",
+   "genere_le": "2026-11-10T12:50:05+00:00",
+   "questions": [
+    {
+     "type": "texte_a_trous",
+     "question": "Quel chiffre complète ce titre (BBC (via Google Actualités), lundi 2 novembre 2026) ? « _____ questions pour comprendre ce qui est en jeu lors des élections de mi-mandat aux États-Unis et ce qu'elles signifient pour Trump »",
+     "choix": [
+      "60",
+      "6",
+      "3",
+      "9"
+     ],
+     "reponse": 1,
+     "explication": "Titre complet : « 6 questions pour comprendre ce qui est en jeu lors des élections de mi-mandat aux États-Unis et ce qu'elles signifient pour Trump »",
+     "difficulte": "moyen",
+     "rubrique_num": 8,
+     "rubrique": "Amériques",
+     "titre_source": "6 questions pour comprendre ce qui est en jeu lors des élections de mi-mandat aux États-Unis et ce qu'elles signifient pour Trump",
+     "media": "BBC (via Google Actualités)",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVbjBZam9jWFNUM3k1MW1tNTk0cDJQT1F5MUN1T0ZWeFhTUkhJb0pfXy1xUlo1OGVpd3ItbDdVSDJhYWtHMGw0V0ZNODl0RVN6d19ISmlkQl92WUhDbzk00gFkQVVfeXFMTl9rWmVhZVhRbkVGR3FkazBOb1djWWx0YXFNMDZjRnFGRzQ0Y2NieTI1UUp6ZzMxaUJXQXBmREVNWHhKWWs2bldCdWxvM044X0tUVXdrNjFpNkw2Q0RkcFlYb09TdQ?oc=5",
+     "date": "2026-11-02",
+     "id": "2026-11-02-00"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel chiffre complète ce titre (Next, lundi 2 novembre 2026) ? « _____ articles scientifiques rétractés en 24h : un record, 6 mois après le signalement »",
+     "choix": [
+      "2 100",
+      "4 200",
+      "700",
+      "1 400"
+     ],
+     "reponse": 3,
+     "explication": "Titre complet : « 1 400 articles scientifiques rétractés en 24h : un record, 6 mois après le signalement »",
+     "difficulte": "moyen",
+     "rubrique_num": 12,
+     "rubrique": "Sciences, technologies et numérique",
+     "titre_source": "1 400 articles scientifiques rétractés en 24h : un record, 6 mois après le signalement",
+     "media": "Next",
+     "url": "https://next.ink/265139/1-400-articles-scientifiques-retractes-en-24h-un-record-6-mois-apres-le-signalement",
+     "date": "2026-11-02",
+     "id": "2026-11-02-01"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel chiffre complète ce titre (AllAfrica, lundi 2 novembre 2026) ? « Kenya: Ebola Update - _____ Contacts Set for Release Tuesday, Five Patients Await Second Tests »",
+     "choix": [
+      "23",
+      "138",
+      "46",
+      "92"
+     ],
+     "reponse": 2,
+     "explication": "Titre complet : « Kenya: Ebola Update - 46 Contacts Set for Release Tuesday, Five Patients Await Second Tests »",
+     "difficulte": "moyen",
+     "rubrique_num": 10,
+     "rubrique": "Afrique et Maghreb",
+     "titre_source": "Kenya: Ebola Update - 46 Contacts Set for Release Tuesday, Five Patients Await Second Tests",
+     "media": "AllAfrica",
+     "url": "https://allafrica.com/stories/202611020027.html",
+     "date": "2026-11-02",
+     "id": "2026-11-02-02"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel chiffre complète ce titre (Courrier international (via Google Actualités), lundi 2 novembre 2026) ? « Un aventurier britannique accueilli en héros après _____ de marche autour du monde »",
+     "choix": [
+      "14 ans",
+      "28 ans",
+      "42 ans",
+      "84 ans"
+     ],
+     "reponse": 1,
+     "explication": "Titre complet : « Un aventurier britannique accueilli en héros après 28 ans de marche autour du monde »",
+     "difficulte": "moyen",
+     "rubrique_num": 6,
+     "rubrique": "Europe (pays)",
+     "titre_source": "Un aventurier britannique accueilli en héros après 28 ans de marche autour du monde",
+     "media": "Courrier international (via Google Actualités)",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZVFmRHlBb2NnMTJoMmtMczBlU1NCTzVNRzlybWtSWG1NbF9OeEEyQUt3SDVPOFNWalBYbEkxdnhSV1pEeWNYSUJRcE5hNWs4MDlrWXZ4RkUwYnN2Q0NyRGRKSTVkWm1GZlZaUG13eEdmcl9FTkdTSGwtRFpUTVQyTzF1NUl1YTA5U2stX05Hd2thWm00NlZMb0lKNUFiMnJ4SldTZmJRcmdnZG5lXzNOeW8wSGZWb0xLSHVWZi1fZV9sTFhsWjJ5bldVOXg4NGRrN1E2MnBOYmZtZm83a3RsY3ZGaDRJN3g3c1JaWm56a1lLaC1S?oc=5",
+     "date": "2026-11-02",
+     "id": "2026-11-02-03"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel chiffre complète ce titre (franceinfo, lundi 2 novembre 2026) ? « Manifestations du 31 octobre : _____ ont été interpellées dans toute la France selon un bilan définitif du ministère de l'Intérieur »",
+     "choix": [
+      "390 personnes",
+      "2 337 personnes",
+      "1 558 personnes",
+      "779 personnes"
+     ],
+     "reponse": 3,
+     "explication": "Titre complet : « Manifestations du 31 octobre : 779 personnes ont été interpellées dans toute la France selon un bilan définitif du ministère de l'Intérieur »",
+     "difficulte": "moyen",
+     "rubrique_num": 4,
+     "rubrique": "Économie française et social",
+     "titre_source": "Manifestations du 31 octobre : 779 personnes ont été interpellées dans toute la France selon un bilan définitif du ministère de l'Intérieur",
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-sociale-la-jeunesse-ne-lache-pas-declare-la-porte-parole-de-l-union-etudiante-au-lendemain-des-manifestations-du-31-octobre_8262449.html#xtor=RSS-3-%5Bgeneral%5D",
+     "date": "2026-11-02",
+     "id": "2026-11-02-04"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Qui ou quoi complète ce titre (Le Monde.fr (via Google Actualités), lundi 2 novembre 2026) ? « Derrière les avantages de _____ à la FIFA, Bruno Chiomento, le président de commission dont l’« indépendance » pose question »",
+     "choix": [
+      "Céline Dion",
+      "Gianni Infantino",
+      "Gabriel Attal",
+      "Raphaël Glucksmann"
+     ],
+     "reponse": 1,
+     "explication": "Titre complet : « Derrière les avantages de Gianni Infantino à la FIFA, Bruno Chiomento, le président de commission dont l’« indépendance » pose question »",
+     "difficulte": "moyen",
+     "rubrique_num": 12,
+     "rubrique": "Sciences, technologies et numérique",
+     "titre_source": "Derrière les avantages de Gianni Infantino à la FIFA, Bruno Chiomento, le président de commission dont l’« indépendance » pose question",
+     "media": "Le Monde.fr (via Google Actualités)",
+     "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOSkoxdTBNQlVyU2oxQVRxbHl0SFdPbHJwNUtGR3NZS2hoTS01SXJtelc2SHROZFlqTTBtWUl4R3UxZ21rY0N0RHFkLVFhZE41ZTZoRlFkREZ4N3U2SVhUX3Z0d2JuMEZfSFkxUHF5S09kSVhmYlpZV29kM09ncXRZQlpfRk1KTlpOVlpBTEp6RTV2VFlRZDhYLUs0RVJCZWk1d0E0WmlDLWlrTVVnV0VIQlI0WGM2NXZaVjVSQ1FwNTVJMV9JRlVhdkI2RjJhZ2tWcFdKZUdJNmVJc2U4bnlEdU0zMmdiNWZ6NWQ2Q0tPeHZnVkFqNEJDLWUwQWJScjNCbGRIYUFCVGtLejlYOVd1ZVphcU9ubk5CR2tMM2w5eEw?oc=5",
+     "date": "2026-11-02",
+     "id": "2026-11-02-05"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Qui ou quoi complète ce titre (Investir Les Echos (via Google Actualités), lundi 2 novembre 2026) ? « _____ termine en ordre dispersé, le Nasdaq à nouveau malmené »",
+     "choix": [
+      "Emmanuel Macron",
+      "Remco Evenepoel",
+      "Christa Pike",
+      "Wall Street"
+     ],
+     "reponse": 3,
+     "explication": "Titre complet : « Wall Street termine en ordre dispersé, le Nasdaq à nouveau malmené »",
+     "difficulte": "moyen",
+     "rubrique_num": 11,
+     "rubrique": "Économie mondiale, marchés et énergie",
+     "titre_source": "Wall Street termine en ordre dispersé, le Nasdaq à nouveau malmené",
+     "media": "Investir Les Echos (via Google Actualités)",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONC00X1lfUUYtQldJU3AwQlVQTERHRWkxelBJMTBJdjVxRHVGb2xhMVJzYWpGaHFGdnQwOTdWaTJNTGdoYi1LNW0xVUNGWEEycEx5bzBKV0ZTTnNoZXhBcDE1bDFOQkNYdG5yZHhkT3BUaDdoUnY4MjBjVHItNU1tZUsxTG4xU1d2aE1KaWF1bGljYU9wRHBIQ3B1RjUyaW9BRms3WjJkZjRPa3NXU2JrMzcycDduWnMzeVZCMTRidXVRYUdwUDE3Nm05N2NWT00xejRucQ?oc=5",
+     "date": "2026-11-02",
+     "id": "2026-11-02-06"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Qui ou quoi complète ce titre (Le Monde, lundi 2 novembre 2026) ? « Midterms 2026 : l’ultime discours de _____, la décision de la Cour suprême sur la Californie… Retrouvez les informations de la campagne à la veille du scrutin. »",
+     "choix": [
+      "Volodymyr Zelensky",
+      "Wall Street",
+      "Donald Trump",
+      "Sébastien Lecornu"
+     ],
+     "reponse": 2,
+     "explication": "Titre complet : « Midterms 2026 : l’ultime discours de Donald Trump, la décision de la Cour suprême sur la Californie… Retrouvez les informations de la campagne à la veille du scrutin. »",
+     "difficulte": "moyen",
+     "rubrique_num": 7,
+     "rubrique": "Guerres et conflits",
+     "titre_source": "Midterms 2026 : l’ultime discours de Donald Trump, la décision de la Cour suprême sur la Californie… Retrouvez les informations de la campagne à la veille du scrutin.",
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/live/2026/11/02/en-direct-midterms-2026-l-iran-veut-un-accord-aussi-rapidement-que-possible-assure-donald-trump_6801590_3210.html",
+     "date": "2026-11-02",
+     "id": "2026-11-02-07"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Qui ou quoi complète ce titre (Le Monde, lundi 2 novembre 2026) ? « Attentat raciste à Trappes : le père de _____ appelle à « une prise de conscience et à un engagement contre le racisme » »",
+     "choix": [
+      "Loïk Le Priol",
+      "Pengo Bossio Wangi",
+      "Laurent Nuñez",
+      "Rohan Rane"
+     ],
+     "reponse": 1,
+     "explication": "Titre complet : « Attentat raciste à Trappes : le père de Pengo Bossio Wangi appelle à « une prise de conscience et à un engagement contre le racisme » »",
+     "difficulte": "moyen",
+     "rubrique_num": 17,
+     "rubrique": "Société et migrations",
+     "titre_source": "Attentat raciste à Trappes : le père de Pengo Bossio Wangi appelle à « une prise de conscience et à un engagement contre le racisme »",
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/societe/article/2026/11/02/attentat-raciste-a-trappes-le-pere-de-pengo-bossio-wangi-appelle-a-une-prise-de-conscience-et-un-engagement-contre-le-racisme_6805250_3224.html",
+     "date": "2026-11-02",
+     "id": "2026-11-02-08"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Qui ou quoi complète ce titre (Le Monde, lundi 2 novembre 2026) ? « « On nous a enlevé un ange » : le père de _____ prend la parole lors d’une conférence de presse »",
+     "choix": [
+      "Romain Bouvier",
+      "Loïk Le Priol",
+      "Pengo Bossio Wangi",
+      "Cheat Sheet"
+     ],
+     "reponse": 2,
+     "explication": "Titre complet : « « On nous a enlevé un ange » : le père de Pengo Bossio Wangi prend la parole lors d’une conférence de presse »",
+     "difficulte": "moyen",
+     "rubrique_num": 17,
+     "rubrique": "Société et migrations",
+     "titre_source": "« On nous a enlevé un ange » : le père de Pengo Bossio Wangi prend la parole lors d’une conférence de presse",
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/societe/video/2026/11/02/on-nous-a-enleve-un-ange-le-pere-de-pengo-bossio-wangi-prend-la-parole-lors-d-une-conference-de-presse_6805271_3224.html",
+     "date": "2026-11-02",
+     "id": "2026-11-02-09"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel pays complète ce titre (franceinfo, lundi 2 novembre 2026) ? « \"Singapura\" : cette nouvelle série française plonge dans le huis clos doré des expatriés à _____ »",
+     "choix": [
+      "Allemagne",
+      "Espagne",
+      "Ukraine",
+      "Singapour"
+     ],
+     "reponse": 3,
+     "explication": "Titre complet : « \"Singapura\" : cette nouvelle série française plonge dans le huis clos doré des expatriés à Singapour »",
+     "difficulte": "moyen",
+     "rubrique_num": 21,
+     "rubrique": "Culture",
+     "titre_source": "\"Singapura\" : cette nouvelle série française plonge dans le huis clos doré des expatriés à Singapour",
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/culture/series/singapura-cette-nouvelle-serie-francaise-plonge-dans-le-huis-clos-dore-des-expatries-a-singapour_8235862.html#xtor=RSS-3-%5Bgeneral%5D",
+     "date": "2026-11-02",
+     "id": "2026-11-02-10"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel pays complète ce titre (NHK World (via Google Actualités), lundi 2 novembre 2026) ? « Une délégation iranienne négocie au _____ pour tenter d'éviter des frappes américaines »",
+     "choix": [
+      "Qatar",
+      "Russie",
+      "Turquie",
+      "Cameroun"
+     ],
+     "reponse": 0,
+     "explication": "Titre complet : « Une délégation iranienne négocie au Qatar pour tenter d'éviter des frappes américaines »",
+     "difficulte": "moyen",
+     "rubrique_num": 9,
+     "rubrique": "Asie et Océanie",
+     "titre_source": "Une délégation iranienne négocie au Qatar pour tenter d'éviter des frappes américaines",
+     "media": "NHK World (via Google Actualités)",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLaEZaNW4wdkY5eXM1YmRxRmhNVGFiMm1UZHAyd1lQUDBWdkVJOWYwZkNXNFhaNWttbG43VGR5WGRKdDA5YTF2SGcxbjhTMUxwaFJfbERTbmNTdnFNR3VMVzdIY0w?oc=5",
+     "date": "2026-11-02",
+     "id": "2026-11-02-11"
+    }
+   ]
+  },
+  "2026-11-01": {
+   "mode": "auto",
+   "genere_le": "2026-11-10T12:50:05+00:00",
+   "questions": [
+    {
+     "type": "texte_a_trous",
+     "question": "Quel chiffre complète ce titre (Le Figaro, dimanche 1 novembre 2026) ? « Il y a _____, la famille de Jean-Marie Le Pen échappait «par miracle» à l’attentat de la villa Poirier, «élément majeur» de la construction de sa fille Marine »",
+     "choix": [
+      "50 ans",
+      "500 ans",
+      "150 ans",
+      "25 ans"
+     ],
+     "reponse": 0,
+     "explication": "Titre complet : « Il y a 50 ans, la famille de Jean-Marie Le Pen échappait «par miracle» à l’attentat de la villa Poirier, «élément majeur» de la construction de sa fille Marine »",
+     "difficulte": "moyen",
+     "rubrique_num": 1,
+     "rubrique": "Politique française",
+     "titre_source": "Il y a 50 ans, la famille de Jean-Marie Le Pen échappait «par miracle» à l’attentat de la villa Poirier, «élément majeur» de la construction de sa fille Marine",
+     "media": "Le Figaro",
+     "url": "https://www.lefigaro.fr/politique/il-y-a-50-ans-la-famille-de-jean-marie-le-pen-echappait-par-miracle-a-l-attentat-de-la-villa-poirier-element-majeur-de-la-construction-de-sa-fille-marine-20261101",
+     "date": "2026-11-01",
+     "id": "2026-11-01-00"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel chiffre complète ce titre (The Conversation France, dimanche 1 novembre 2026) ? « Qui se cache derrière le champignon introduit illégalement il y a _____ pour combattre les ronces australiennes ? »",
+     "choix": [
+      "40 ans",
+      "4 ans",
+      "120 ans",
+      "60 ans"
+     ],
+     "reponse": 0,
+     "explication": "Titre complet : « Qui se cache derrière le champignon introduit illégalement il y a 40 ans pour combattre les ronces australiennes ? »",
+     "difficulte": "moyen",
+     "rubrique_num": 23,
+     "rubrique": "Analyse de fond et investigation",
+     "titre_source": "Qui se cache derrière le champignon introduit illégalement il y a 40 ans pour combattre les ronces australiennes ?",
+     "media": "The Conversation France",
+     "url": "https://theconversation.com/qui-se-cache-derriere-le-champignon-introduit-illegalement-il-y-a-40-ans-pour-combattre-les-ronces-australiennes-294254",
+     "date": "2026-11-01",
+     "id": "2026-11-01-01"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Qui ou quoi complète ce titre (Le Monde, dimanche 1 novembre 2026) ? « La justice rejette la plainte en diffamation de _____ contre le « Wall Street Journal » au sujet d’une lettre à Jeffrey Epstein »",
+     "choix": [
+      "Raphaël Glucksmann",
+      "Côte Ivoire",
+      "Edouard Philippe",
+      "Donald Trump"
+     ],
+     "reponse": 3,
+     "explication": "Titre complet : « La justice rejette la plainte en diffamation de Donald Trump contre le « Wall Street Journal » au sujet d’une lettre à Jeffrey Epstein »",
+     "difficulte": "moyen",
+     "rubrique_num": 7,
+     "rubrique": "Guerres et conflits",
+     "titre_source": "La justice rejette la plainte en diffamation de Donald Trump contre le « Wall Street Journal » au sujet d’une lettre à Jeffrey Epstein",
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/11/01/lettre-a-jeffrey-epstein-la-justice-rejette-la-plainte-en-diffamation-de-donald-trump-contre-le-wall-street-journal_6803834_3210.html",
+     "date": "2026-11-01",
+     "id": "2026-11-01-02"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Qui ou quoi complète ce titre (Le Figaro, dimanche 1 novembre 2026) ? « « Ça a tourné au vinaigre très tôt » : deux semaines après, _____ raconte son 17 octobre »",
+     "choix": [
+      "Léon XIV",
+      "Jordan Bardella",
+      "Emmanuel Grégoire",
+      "Rima Hassan"
+     ],
+     "reponse": 2,
+     "explication": "Titre complet : « « Ça a tourné au vinaigre très tôt » : deux semaines après, Emmanuel Grégoire raconte son 17 octobre »",
+     "difficulte": "moyen",
+     "rubrique_num": 1,
+     "rubrique": "Politique française",
+     "titre_source": "« Ça a tourné au vinaigre très tôt » : deux semaines après, Emmanuel Grégoire raconte son 17 octobre",
+     "media": "Le Figaro",
+     "url": "https://www.lefigaro.fr/politique/ca-a-tourne-au-vinaigre-tres-tot-deux-semaines-apres-emmanuel-gregoire-raconte-son-17-octobre-20261101",
+     "date": "2026-11-01",
+     "id": "2026-11-01-03"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Qui ou quoi complète ce titre (Le Monde.fr (via Google Actualités), dimanche 1 novembre 2026) ? « _____ menace l’Iran de nouvelles frappes sur « un ou deux sites », dont le Kuh-e Kolang, près du complexe nucléaire de Natanz »",
+     "choix": [
+      "Xi Jinping",
+      "HBO Max",
+      "Donald Trump",
+      "Jordan Bardella"
+     ],
+     "reponse": 2,
+     "explication": "Titre complet : « Donald Trump menace l’Iran de nouvelles frappes sur « un ou deux sites », dont le Kuh-e Kolang, près du complexe nucléaire de Natanz »",
+     "difficulte": "moyen",
+     "rubrique_num": 12,
+     "rubrique": "Sciences, technologies et numérique",
+     "titre_source": "Donald Trump menace l’Iran de nouvelles frappes sur « un ou deux sites », dont le Kuh-e Kolang, près du complexe nucléaire de Natanz",
+     "media": "Le Monde.fr (via Google Actualités)",
+     "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQeDJtMTVQcG1vMGswbjlBZDN0bU5XR2xraDBPMUh0OTNCQTJvY2pibk1pSldoaWZQN083SUs0WlYxZExFZV9pQThxdW9SbE5JN0RBVzZjMU5lUEZCRXJvWnNqX19JeGdsdVVRRjFxYVBjZU9fcXp0NDZkdDlwZ0pmUDlnTlJ5dkx3T0dJN0VaLS1Yd2lCM0F2clhHQXZCX2xXUGVtT2lnMVlVWnlQeVFKa2hacklUZkk1Ym5TRlZYbDAwLW1yQzBubV9sc1RPR21Hc3BON0tsMERLNlFOUkVvSGFvTkYybWtCakNQb1hxWmhHd1A4dV9KcHNGNFZOWGhRSktZbXZwZVpVSFJXNk1rZV9aSS1kTGFOSzkzbkNySzRLZkE3WVE?oc=5",
+     "date": "2026-11-01",
+     "id": "2026-11-01-04"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel chiffre complète ce titre (Le Figaro, dimanche 1 novembre 2026) ? « Manifestations du 31 octobre : Nuñez fustige des «centaines» de «casseurs et pilleurs» animés par la «mouvance d’ultragauche», _____ interpellations en France »",
+     "choix": [
+      "848",
+      "1 130",
+      "565",
+      "1 695"
+     ],
+     "reponse": 2,
+     "explication": "Titre complet : « Manifestations du 31 octobre : Nuñez fustige des «centaines» de «casseurs et pilleurs» animés par la «mouvance d’ultragauche», 565 interpellations en France »",
+     "difficulte": "moyen",
+     "rubrique_num": 0,
+     "rubrique": "Une (recoupement presse nationale et régionale)",
+     "titre_source": "Manifestations du 31 octobre : Nuñez fustige des «centaines» de «casseurs et pilleurs» animés par la «mouvance d’ultragauche», 565 interpellations en France",
+     "media": "Le Figaro",
+     "url": "https://www.lefigaro.fr/actualite-france/en-direct-manifestation-du-31-octobre-le-parcours-bastille-nation-a-paris-finalement-interdit-par-le-conseil-d-etat-20261031",
+     "date": "2026-11-01",
+     "id": "2026-11-01-05"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Qui ou quoi complète ce titre (Le Monde, dimanche 1 novembre 2026) ? « Un prix _____ pour saluer les reportages de Bruno Meyerfeld sur les peuples autochtones d’Amazonie »",
+     "choix": [
+      "Pengo Bossio Wangi",
+      "Flavio Bolsonaro",
+      "Albert Londres",
+      "Céline Dion"
+     ],
+     "reponse": 2,
+     "explication": "Titre complet : « Un prix Albert Londres pour saluer les reportages de Bruno Meyerfeld sur les peuples autochtones d’Amazonie »",
+     "difficulte": "moyen",
+     "rubrique_num": 7,
+     "rubrique": "Guerres et conflits",
+     "titre_source": "Un prix Albert Londres pour saluer les reportages de Bruno Meyerfeld sur les peuples autochtones d’Amazonie",
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/podcasts/article/2026/11/01/un-prix-albert-londres-pour-saluer-les-reportages-de-bruno-meyerfeld-sur-les-peuples-autochtones-d-amazonie_6803968_5463015.html",
+     "date": "2026-11-01",
+     "id": "2026-11-01-06"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Qui ou quoi complète ce titre (NHK World (via Google Actualités), dimanche 1 novembre 2026) ? « _____ doit relayer les préoccupations de l'Asie concernant le dispositif européen « Fabriqué en Europe » pour les véhicules électriques »",
+     "choix": [
+      "Friedrich Merz",
+      "El Niño",
+      "Wall Street",
+      "Tadej Pogacar"
+     ],
+     "reponse": 0,
+     "explication": "Titre complet : « Friedrich Merz doit relayer les préoccupations de l'Asie concernant le dispositif européen « Fabriqué en Europe » pour les véhicules électriques »",
+     "difficulte": "moyen",
+     "rubrique_num": 9,
+     "rubrique": "Asie et Océanie",
+     "titre_source": "Friedrich Merz doit relayer les préoccupations de l'Asie concernant le dispositif européen « Fabriqué en Europe » pour les véhicules électriques",
+     "media": "NHK World (via Google Actualités)",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ca3BGdVpnLTZwRmp6c1JyX1czem03OW4wYnNBS0FLSHVmVVMtd0cxYVNCSFBhVDlxRDRKblllV2RLTjFORXdlNW8tYUpWNlI5Vm5IT2NSOWRad2hPX3c0bGNUeEk?oc=5",
+     "date": "2026-11-01",
+     "id": "2026-11-01-07"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel pays complète ce titre (RFI, dimanche 1 novembre 2026) ? « La météorite retrouvée en 2022 au _____ livre ses premiers secrets »",
+     "choix": [
+      "Iran",
+      "Israël",
+      "Mali",
+      "Sénégal"
+     ],
+     "reponse": 2,
+     "explication": "Titre complet : « La météorite retrouvée en 2022 au Mali livre ses premiers secrets »",
+     "difficulte": "moyen",
+     "rubrique_num": 10,
+     "rubrique": "Afrique et Maghreb",
+     "titre_source": "La météorite retrouvée en 2022 au Mali livre ses premiers secrets",
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/afrique/20261101-la-m%C3%A9t%C3%A9orite-retrouv%C3%A9e-en-2022-au-mali-livre-ses-premiers-secrets",
+     "date": "2026-11-01",
+     "id": "2026-11-01-08"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel pays complète ce titre (MercoPress, dimanche 1 novembre 2026) ? « _____ intellectuals reject the Falklands “national cause” amid escalating tensions with London »",
+     "choix": [
+      "Corée",
+      "Pologne",
+      "Israël",
+      "Argentine"
+     ],
+     "reponse": 3,
+     "explication": "Titre complet : « Argentine intellectuals reject the Falklands “national cause” amid escalating tensions with London »",
+     "difficulte": "moyen",
+     "rubrique_num": 8,
+     "rubrique": "Amériques",
+     "titre_source": "Argentine intellectuals reject the Falklands “national cause” amid escalating tensions with London",
+     "media": "MercoPress",
+     "url": "https://en.mercopress.com/2026/11/01/argentine-intellectuals-reject-the-falklands-national-cause-amid-escalating-tensions-with-london?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+     "date": "2026-11-01",
+     "id": "2026-11-01-09"
+    },
+    {
+     "type": "texte_a_trous",
+     "question": "Quel pays complète ce titre (Le Monde, dimanche 1 novembre 2026) ? « Au _____, les chaussettes Uniqlo, symboles des inquiétudes face à l’augmentation des prix »",
+     "choix": [
+      "Algérie",
+      "Arabie",
+      "Japon",
+      "Allemagne"
+     ],
+     "reponse": 2,
+     "explication": "Titre complet : « Au Japon, les chaussettes Uniqlo, symboles des inquiétudes face à l’augmentation des prix »",
+     "difficulte": "moyen",
+     "rubrique_num": 4,
+     "rubrique": "Économie française et social",
+     "titre_source": "Au Japon, les chaussettes Uniqlo, symboles des inquiétudes face à l’augmentation des prix",
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/economie/article/2026/11/01/au-japon-les-chaussettes-uniqlo-symboles-des-inquietudes-face-a-l-augmentation-des-prix_6804306_3234.html",
+     "date": "2026-11-01",
+     "id": "2026-11-01-10"
+    }
+   ]
+  }
+ }
+}

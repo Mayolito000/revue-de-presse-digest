@@ -1,4 +1,4 @@
-# Digest RSS mensuel — généré le 2026-11-11 06:29 UTC
+# Digest RSS mensuel — généré le 2026-11-12 07:15 UTC
 
 Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se situe entre le 2026-10-01 et le 2026-10-31 (mois civil écoulé le plus récent). Aucun tri éditorial n'a été fait.
 
@@ -993,7 +993,6 @@ Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se s
 - **Colère lycéenne : en Île-de-France, les chiffres qui accusent** — Café pédagogique (via Google Actualités) (2026-10-12 03:52 UTC) — https://news.google.com/rss/articles/CBMipAFBVV95cUxQSTNXQnI3Y2kwMlZYSlJUdHZIcEROVmkzZEpBNmYwSTVqekpkXzZ0WkNYeTVQRFlyRzk0SEJ5YkYxb3VWZUgzYV9uc0E3d3MxUjlDcDg0NVgwekZscGdnTmpPVXVTVXdzcGpWcXktaVF3UWpJQlNadXdBdFNMRWV0N2pETXoyWmpURGVkWGJFNVpFVlNtZEJBV2h4MkV0TmY4UFVyZA?oc=5
 - **Jennifer Tamas : Barbe bleue, d’hier à aujourd’hui** — Café pédagogique (via Google Actualités) (2026-10-12 03:39 UTC) — https://news.google.com/rss/articles/CBMikwFBVV95cUxNS2NRbUxRb19WWVVySXJlc3hlT1FoeXM4eHRQY1BHYm8zUjJIbG9pTS1ERExZV0RPYlM1QTN4OC1aeTgtcmVtaEtiX1dVbmc2SDZFaTNtaEVFUEZOVmI5cExrME1LWlUxOHhiYUdVdVNPZ0Z3REdwdFpsTmNqWFNyUnNKUFh2YVlUMERsbmFUT252Sms?oc=5
 - **Travailler le français dans toutes les disciplines** — Café pédagogique (via Google Actualités) (2026-10-12 03:32 UTC) — https://news.google.com/rss/articles/CBMimgFBVV95cUxOcThoa2xocWxNZ1VhLTVPdXZPVmk1cGtORUtJVy1qNXlHMEZZUG9SQUZ6SkpFWlZMNElpcTJvS0VlUzQwSExIc0RzNHhEYkNsc0VDRDNBa3hZbm1ZWlZwU2ttZzJKZXBQRGRpUzBJenRuQmEtanhidzc2M0VrRm1INEJjTkkzYjN3aXdHSndqcmpjNUZxMk1wWW93?oc=5
-- **Colère lycéenne : la réforme Blanquer et Parcoursup dans le viseur** — Café pédagogique (via Google Actualités) (2026-10-09 07:49 UTC) — https://news.google.com/rss/articles/CBMirAFBVV95cUxOMTRMeU15QnJya19ZMG05b0NHeEt3X3ZvVmtzTFJEaWZPWGVYMmZOb1Y4Z2Q0a0ZwaHp6VFdmUV9yUTM0QVRfOWMza1RyQ0dTWE13SG9jZ05GWkhDYWFDWHlKVE1yUnpERF9nN2IzanBodWRhejZfZkZsWXlaYUZTd1RpeGs5VEdhN0VPM3NLY0J6a05XeExvWlJGRjNRYUpSaTdIUHpfSEFzMHhP?oc=5
 
 ## 17. Société et migrations
 - **Le cercueil, cette boîte presque banale dont l’obligation légale est aujourd’hui contestée** — Le Monde (2026-10-31 18:00 UTC) — https://www.lemonde.fr/idees/article/2026/10/31/le-cercueil-cette-boite-presque-banale-dont-l-obligation-legale-est-aujourd-hui-contestee_6803726_3232.html
@@ -1246,4 +1245,4 @@ _Rien de retenu par les flux pour cette rubrique sur la période._
 
 ---
 
-Total d'entrées sur la période : 1192.
+Total d'entrées sur la période : 1191.

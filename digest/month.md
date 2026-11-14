@@ -1,4 +1,4 @@
-# Digest RSS mensuel — généré le 2026-11-13 06:50 UTC
+# Digest RSS mensuel — généré le 2026-11-14 06:29 UTC
 
 Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se situe entre le 2026-10-01 et le 2026-10-31 (mois civil écoulé le plus récent). Aucun tri éditorial n'a été fait.
 
@@ -987,12 +987,6 @@ Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se s
 - **Plan Geffray : une professeure de maths envoyée enseigner le français à 120 km de chez elle** — Café pédagogique (via Google Actualités) (2026-10-13 03:32 UTC) — https://news.google.com/rss/articles/CBMizgFBVV95cUxQMWdZVy1KakpaRzNuX1NNT0NFaHdVQVgwMXNJNERpaWxrbHFWT1hjcWNpak85em9Kc2tNRzBYekR6a2gyX3NQdW1HUkFkaHZGMWJONEI1OGx0MjY3SUI3NnFseDZIbHltR1J4YXFJNVhDNHVCMUVIX0VPa3o2dWpjMGpCd1M4c0d4SzVVYlhYQXR6NnRDd0lhYjdTa0FWM1g5ZE96QXFfelZZdDNOQWZ0aXNGTzVieUJ6MVhtT19Vd2tNckFlMnN0elVPMFBQUQ?oc=5
 - **Ecrire des calligrammes numériques** — Café pédagogique (via Google Actualités) (2026-10-12 08:45 UTC) — https://news.google.com/rss/articles/CBMihAFBVV95cUxPSDdDRlFta2VPRm9HRTZ2MEhYN1BXS2JfdjB4cU9rYmNDT3F1QmhPX0tNdHRNbER2V3JuSmRlWFlqUWxxWUdZR2VjREkzczhrZ1ZKcWMyOWM2ZzFsM2I2N05wSEtXVVgyQjR4bjhqUkhVYklKT2RhSEV6RmhQVWNSUnFvZFM?oc=5
 - **Mobilisations lycéennes : les élections scolaires pourront être reportées** — Café pédagogique (via Google Actualités) (2026-10-12 07:23 UTC) — https://news.google.com/rss/articles/CBMitgFBVV95cUxOMS1tVkl5U2k2ZWJGT2QtVldvbFNsZHdsOGRGLVBIb25UV2YtODJiNi03LVBGWmdEWFpHSzlwTFdUV2NacXJTaUpLbHY2NXNhWmx3LWhSckdwVldHTTFZakV5Vi1SWHNVZjBzdEJtdW5nNnUwZkc0QlFUQktacmpfZWtzWUJYV2lxSHRhY2s5NEZCVktBYVA0LTFFcm9YOUU4OVo3V3hnYXRzeGo1TWRiMEl6WjRkUQ?oc=5
-- **Colère lycéenne : ces six syndicats appellent à la grève le 13 octobre** — Café pédagogique (via Google Actualités) (2026-10-12 06:12 UTC) — https://news.google.com/rss/articles/CBMisgFBVV95cUxObThvZVpwMHNRX3diZkJMcXlxdUdEOXJVZVprT24yWHJaRnJSd3pFc09CNmFHa0F2Z1l0RlpzVFU2T3VaNmduOWF1WnRXN0w4QTMtNVFRX1J4MnJvRlpqUHZwRjh0N000RTZyaW5IX3JldGlQbnhxQ0VYZzJHTV9EbVZjTzZkNDhwVFhmaU14MUh2ZzIwc3FFdTVMbmdkeEZVb2RkTE0yUEh1SU1FSm5xeWxn?oc=5
-- **« Ce qu’on veut, c’est une école républicaine qui tienne ses promesses » : un front commun pour l’École** — Café pédagogique (via Google Actualités) (2026-10-12 04:47 UTC) — https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTFQxVmdvRUJra1RTdjJvRk9YcjczY1lLN3NGN2Y1S3FBZ2x1VG53RFAxd3pScWc1WnJ2ZEIyWnRlWkk3WEZ0LXFuclRFZnNwVzJQQi1lRmM5S2xEY2tCdjZWNkhVQ1VpaTZhSzdIMTBHNjZSMW9iOTFyMGhXOVYzRFFOdHk1N01rdHBjYm5fZG5SWVo3UTIxTmVQakpycmxSN3BKWDJvQmdaYmV4ck4wdE9RbmRfT1VrdVYwSWpqQVlvaEFYN2NFQVJHaUFRUDJJZ0tR?oc=5
-- **9 résolutions issues du Manifeste du Café pédagogique** — Café pédagogique (via Google Actualités) (2026-10-12 03:57 UTC) — https://news.google.com/rss/articles/CBMingFBVV95cUxNd25OZWlYemRPcEpNWkt6bVo4ejFPQzFiVmVKaTJVZlJ4VW16WnFzUnZNcC1ORUlTem8xM2JhSHNzSlBDT0xhMW1YQWRMNkZIbVoxdGxjMGtoaXRZUlB3elUxOTV6eVhPa3FIUkoyYzhsWnJidUQ4ZmlFQ0p5emRmalN1YmdyUnVKaGMtX2RfMGRNcXkwNmdmQ1JEcEFwUQ?oc=5
-- **Colère lycéenne : en Île-de-France, les chiffres qui accusent** — Café pédagogique (via Google Actualités) (2026-10-12 03:52 UTC) — https://news.google.com/rss/articles/CBMipAFBVV95cUxQSTNXQnI3Y2kwMlZYSlJUdHZIcEROVmkzZEpBNmYwSTVqekpkXzZ0WkNYeTVQRFlyRzk0SEJ5YkYxb3VWZUgzYV9uc0E3d3MxUjlDcDg0NVgwekZscGdnTmpPVXVTVXdzcGpWcXktaVF3UWpJQlNadXdBdFNMRWV0N2pETXoyWmpURGVkWGJFNVpFVlNtZEJBV2h4MkV0TmY4UFVyZA?oc=5
-- **Jennifer Tamas : Barbe bleue, d’hier à aujourd’hui** — Café pédagogique (via Google Actualités) (2026-10-12 03:39 UTC) — https://news.google.com/rss/articles/CBMikwFBVV95cUxNS2NRbUxRb19WWVVySXJlc3hlT1FoeXM4eHRQY1BHYm8zUjJIbG9pTS1ERExZV0RPYlM1QTN4OC1aeTgtcmVtaEtiX1dVbmc2SDZFaTNtaEVFUEZOVmI5cExrME1LWlUxOHhiYUdVdVNPZ0Z3REdwdFpsTmNqWFNyUnNKUFh2YVlUMERsbmFUT252Sms?oc=5
-- **Travailler le français dans toutes les disciplines** — Café pédagogique (via Google Actualités) (2026-10-12 03:32 UTC) — https://news.google.com/rss/articles/CBMimgFBVV95cUxOcThoa2xocWxNZ1VhLTVPdXZPVmk1cGtORUtJVy1qNXlHMEZZUG9SQUZ6SkpFWlZMNElpcTJvS0VlUzQwSExIc0RzNHhEYkNsc0VDRDNBa3hZbm1ZWlZwU2ttZzJKZXBQRGRpUzBJenRuQmEtanhidzc2M0VrRm1INEJjTkkzYjN3aXdHSndqcmpjNUZxMk1wWW93?oc=5
 
 ## 17. Société et migrations
 - **Le cercueil, cette boîte presque banale dont l’obligation légale est aujourd’hui contestée** — Le Monde (2026-10-31 18:00 UTC) — https://www.lemonde.fr/idees/article/2026/10/31/le-cercueil-cette-boite-presque-banale-dont-l-obligation-legale-est-aujourd-hui-contestee_6803726_3232.html
@@ -1070,7 +1064,6 @@ _Rien de retenu par les flux pour cette rubrique sur la période._
 - **Satellite Images Show Extent of Trump Admin’s Tree-Felling at DC Golf Course** — Bellingcat (2026-10-15 10:33 UTC) — https://www.bellingcat.com/news/us-canada/2026/10/15/satellite-images-show-extent-of-trump-admins-tree-felling-at-dc-golf-course
 - **Dans la bande de Gaza, l’information survit grâce à WhatsApp** — La Revue des médias (INA) (via Google Actualités) (2026-10-15 05:00 UTC) — https://news.google.com/rss/articles/CBMikAFBVV95cUxQTE1ZZWNZc2Z0bk1CLUU1emN6dWlKZzIwdnJ6WUktNEUxa3pUUHJwUjF6V3owdlRLYmlqUUFrMFI4MzVvZ05MUHFyTGdHZFAyQ25tUjM0c2dLVmJjMkc1SHVDY2tSNlUxLVlDZnQ3TzdaUFZwTVN5bC1XM3ZoWDhFVHBWQWJpOVQyY3hTbjVYMTM?oc=5
 - **Zahra Nader, journaliste afghane : continuer à informer à tout prix** — La Revue des médias (INA) (via Google Actualités) (2026-10-13 05:00 UTC) — https://news.google.com/rss/articles/CBMimAFBVV95cUxQN3N1eUsxNzlFd1hibEpUbDBQUkh1a3Fvc3JlY2pKbWNOcnVuaDlna0I2WmdqcXlDbXJ5VFlTVlREbHVTTWJOWWQwdm56TWhNdThEcEh4QkhheUdjMzhUa24zYnpRRmNNQnFsRGlPM2pPNG1YNmRnX0t2Y0VaOUc1UWI5QlhyUUJIVmM1RXl0eUlEUWhuN0g3OA?oc=5
-- **Ces journalistes qui changent leur écriture pour se distinguer de l’IA** — La Revue des médias (INA) (via Google Actualités) (2026-10-12 05:30 UTC) — https://news.google.com/rss/articles/CBMipwFBVV95cUxNMkItSGZhTnBHUExzMVVTbUZDN0xQOElXdTU0RWFlX2pHcWVCMHpHTlM3NXZwTGowd2dfRkFnclR6dkpKZ19uaUprNlBPZUtnMThGeWxZbjBQT2xocFVmaFEtTlNPX0w2Y0Nrd1FoV1VGUHZFQmlWb2xGM0ZqakowOXZ5aUhKNnB6V0UyNTFnQ2FQOC0zcHhKYlNUcHBkaXBxU0NzVk1xQQ?oc=5
 
 ## 21. Culture
 - **“Pour Le Grand bleu, la colline était plus haute que ce que je pensais”** — franceinfo (2026-10-31 19:00 UTC) — https://www.franceinfo.fr/culture/cinema/pour-le-grand-bleu-la-colline-etait-plus-haute-que-ce-que-je-pensais_8260448.html#xtor=RSS-3-%5Bgeneral%5D
@@ -1245,4 +1238,4 @@ _Rien de retenu par les flux pour cette rubrique sur la période._
 
 ---
 
-Total d'entrées sur la période : 1191.
+Total d'entrées sur la période : 1184.

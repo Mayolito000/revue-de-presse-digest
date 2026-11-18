@@ -2,10 +2,19 @@ name: Digest RSS (quotidien, hebdomadaire, mensuel)
 
 on:
   schedule:
-    # 00:17 UTC = 01:17 ou 02:17 heure de Paris selon l'heure d'hiver/d'été.
-    # Minute décalée (pas :00) et large avance sur la revue quotidienne
-    # (06:00 UTC), car GitHub retarde souvent les tâches planifiées.
+    # GitHub lance ces tâches avec beaucoup de retard (4 h 30 à 7 h 45
+    # observés entre octobre et novembre 2026 pour le créneau de 00:17 UTC),
+    # alors que la revue quotidienne démarre à 07:00 UTC (08:00 à Paris
+    # l'hiver). Trois créneaux, pour qu'au moins un passage tombe avant :
+    # - 21:43 UTC la veille : arrive avant 07:00 même avec 9 h de retard ;
+    # - 00:17 et 03:47 UTC : rafraîchissent le digest s'ils arrivent à temps.
+    # Le script est idempotent (archive dédoublonnée par URL) : plusieurs
+    # passages par jour ne créent pas de doublons. La revue sait aussi
+    # déclencher elle-même un passage (workflow_dispatch) si le digest
+    # a plus de 12 h.
+    - cron: "43 21 * * *"
     - cron: "17 0 * * *"
+    - cron: "47 3 * * *"
   workflow_dispatch: {}
 
 permissions:

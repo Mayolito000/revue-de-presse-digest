@@ -1,4 +1,4 @@
-# Digest RSS mensuel — généré le 2026-11-18 07:57 UTC
+# Digest RSS mensuel — généré le 2026-11-19 02:49 UTC
 
 Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se situe entre le 2026-10-01 et le 2026-10-31 (mois civil écoulé le plus récent). Aucun tri éditorial n'a été fait.
 
@@ -252,8 +252,6 @@ Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se s
 - **Avec VULTRA, l’armée de l’Air & de l’Espace va faciliter les liaisons entre un aéronef et des drones** — Opex360 / Zone Militaire (2026-10-17 14:08 UTC) — https://www.opex360.com/2026/10/17/avec-vultra-larmee-de-lair-de-lespace-va-faciliter-les-liaisons-entre-un-aeronef-et-des-drones
 - **L’intérêt de Chypre pour l’Engin blindé de reconnaissance et de combat Jaguar se confirme** — Opex360 / Zone Militaire (2026-10-17 12:56 UTC) — https://www.opex360.com/2026/10/17/linteret-de-chypre-pour-lengin-blinde-de-reconnaissance-et-de-combat-jaguar-se-confirme
 - **Le premier équipage de la frégate de défense et d’intervention «Amiral Louzeau» a été officiellement constitué** — Opex360 / Zone Militaire (2026-10-17 10:37 UTC) — https://www.opex360.com/2026/10/17/le-premier-equipage-de-la-fregate-de-defense-et-dintervention-amiral-louzeau-a-ete-officiellement-constitue
-- **Le nouveau sous-marin nucléaire d’attaque Rubis rejoint le dispositif de mise à l’eau en vue de son lancement** — Opex360 / Zone Militaire (2026-10-16 17:37 UTC) — https://www.opex360.com/2026/10/16/le-nouveau-sous-marin-nucleaire-dattaque-rubis-rejoint-le-dispositif-de-mise-a-leau-en-vue-de-son-lancement
-- **En attendant le Thundart, le 1er Régiment d’Artillerie va créer une batterie dotée de munitions téléopérées à longue portée** — Opex360 / Zone Militaire (2026-10-16 16:38 UTC) — https://www.opex360.com/2026/10/16/en-attendant-le-thundart-le-1er-regiment-dartillerie-va-creer-une-batterie-dotee-de-munitions-teleoperees-a-longue-portee
 
 ## 4. Économie française et social
 - **Un espoir pour l'adoption de la loi nécessaire à la pérennisation de TZCLD** — Alternatives Économiques (via Google Actualités) (2026-10-31 23:19 UTC) — https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT3AtV3ZxWjZ5clp3LS1VU29uVjNvX0s4a3VWU2FMREpYb1k0VU9lYWhyU2ktcnMtSmdrZkJ6T25Yemg2T2JxOWZsQmUwRUlOWUUwSkE1WHJEMmlfSVFsX05QNlN1VEZKczJWdWZub3hIVmF0ZWxUZUJncFN2S1FBQkx4SWRqS0dDOXV0TXBjWmZRUWZvdW56eUM4ZXJUSDFCZWY3NVBXVEFVZ0lzcEd4NzFTX1dCaEFyVC1mQk5kYzZxaVF3cEo1R092bHNPbnc5?oc=5
@@ -944,9 +942,6 @@ Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se s
 - **Les 5 films à voir durant ces vacances** — Café pédagogique (via Google Actualités) (2026-10-19 07:25 UTC) — https://news.google.com/rss/articles/CBMijAFBVV95cUxNNTRyOUVOaUFNR1kwRmNyTWMzcmdMMnhIdXR6cVFmVllCRlVDa3B3V1NqNXQyZGc4VEg4OGttYzNkaUp6XzA3RFRzb0dnMEpxUUs2S3JyUUZvZ1Q2S2lVdElocHZaQjBua0Z1U1R5RW5aM1cyVWhhZXBSUE1jdHZnTEN4QTdRd2NCLW5Ldg?oc=5
 - **Actualité de l’éducation du 12 au 16 octobre 2026** — Café pédagogique (via Google Actualités) (2026-10-18 09:47 UTC) — https://news.google.com/rss/articles/CBMilwFBVV95cUxPekhQTGhOUThkRndoSEJObmR5WEhKRExIOFpMVEFpdHlnMFVsS3ZaNUhnUzFjOWFKaGRCZHVFOTdzV0Flb2ktZzctaEI1RHFzQ1ZsUEJMV3RfME5mQXdIU1Z1QU1DZ2cwTzBmMUx2amw3OTlzYjJfN1ppNUNTcExiM1JzdFVhSzBFU0NFZzctTWRMY2VxMnEw?oc=5
 - **16 ressources mises en avant par le Café pédagogique** — Café pédagogique (via Google Actualités) (2026-10-18 09:24 UTC) — https://news.google.com/rss/articles/CBMinAFBVV95cUxONHRwdW54WlBDdXhEZEpSX1JYQ19JbEpLZmY5REF6LUZtSkF5a3JobVdyQVhvdG02dUx5MEFaOVhydFBhejVqWktlOE5HTko1Tnl1YkVYbS1hNktuN09LOWQwOEdwbWx6aUQzeVgzb1NoVVE0VzR2b3hwZ0JTbDIwYi1UelN0VHRYREJfbklPbzd4YzVmWG03ZldQV3Y?oc=5
-- **Marseille : encore une fois, un usage disproportionné de la force.** — Café pédagogique (via Google Actualités) (2026-10-16 16:52 UTC) — https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV3U3Y2J1M1FYUGJBNndXQzl6VlpQSWlmcjhfZGRBUzc4TVpsdzJ6V24xTmtWMjhIR1RlZmNWZUlId0treWNfTHNOaTIyVExYUkRzdE5IVklrWmk5SlhCQzM5OGVabEZ6VjMxV2xsZTJrQXRhVmctWEc0LS0xdHBpUUhVLVBvVFJxbzdVME5qdVZyMFRLc1RkNkZnaTBYczFYMmRjbUtPMENkUQ?oc=5
-- **« La Rumeur », le téléfilm sur Samuel Paty que vous ne verrez pas (tout de suite)** — Café pédagogique (via Google Actualités) (2026-10-16 10:54 UTC) — https://news.google.com/rss/articles/CBMiugFBVV95cUxOck9EVndRRUFiX0RSOEhrWGhWV1Fwd3doNERzSWpEZXFWLUdoeFRXdUg4WnJKNTlVVEo2cFJkaGVRQ29INUt1aFNuRV9Wd1ZrTnRHcUZ0V2Rva0RiWWxTakFMdkpMMXJUandIV3hyQm9Odmd6a2VFNXhNdjMtdWgtbEcyZ1BkRVBMeGljaHAzdHZoa0otUzhiQzB5SVB1YTU4bFdaRjFXY2JUd0xwRGpiSFRidG0waWlNTXc?oc=5
-- **Inventions pédagogiques, le dernier numéro de TRACeS est sorti !** — Café pédagogique (via Google Actualités) (2026-10-16 08:04 UTC) — https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb0g3OFczOTlVSTNoYjAxZzNlNUdKLXQtcDJCckhZUWpwZ2M0cG1qcjdRRnc5cEtGQXQ4c19QazVmSGxnU21ZdzlTdURpOXRzRW8zUVE3cGpuZ010YW5WMlhWLS1PV2FIMUttQU1MajJrcnpjZzB2OXJSdlBVdEl6b3VTXzFzTGdLendSb0pDcXdMNUVaMlEzekJreW41UnRxLVZfUUMwWU4?oc=5
 
 ## 17. Société et migrations
 - **Le cercueil, cette boîte presque banale dont l’obligation légale est aujourd’hui contestée** — Le Monde (2026-10-31 18:00 UTC) — https://www.lemonde.fr/idees/article/2026/10/31/le-cercueil-cette-boite-presque-banale-dont-l-obligation-legale-est-aujourd-hui-contestee_6803726_3232.html
@@ -1020,7 +1015,6 @@ _Rien de retenu par les flux pour cette rubrique sur la période._
 - **Au Brésil, les deepfakes s’immiscent dans la campagne présidentielle** — La Revue des médias (INA) (via Google Actualités) (2026-10-22 12:44 UTC) — https://news.google.com/rss/articles/CBMirAFBVV95cUxPTDVxTXZqNnNoNy1kT1lqS0dsQjltRW1IRFRVYk1VckJranJhMW1pdmw2ZWVzSHplRXk5LUU0clF5bXNIM093akhMZGRuNU9QWUtPaVdFTXktWWlyNWZMVWdxTmVUa200clBXa25xdnV6WDNrT1VxS0hCWGxTMTFwVE83MlZ0ZENrR05WRkJWQmNKYjdCVVJGZDEyQkhZWTl3WkxRTG1YckRITVBI?oc=5
 - **Can LLMs Supercharge Geolocations? Our Tests Show Big Improvements But Humans Remain Key** — Bellingcat (2026-10-22 11:06 UTC) — https://www.bellingcat.com/resources/2026/10/22/can-llms-supercharge-geolocations-our-tests-show-big-improvements-but-humans-remain-key
 - **Françoise Berger, l’œil qui a changé le journalisme politique** — La Revue des médias (INA) (via Google Actualités) (2026-10-20 05:30 UTC) — https://news.google.com/rss/articles/CBMimgFBVV95cUxOTjNnenE4N051Nm1XWkxlTWV5dW5FVTRXbkxnMzBrWk45ZG1GMXBPblNjT0tJZzVoNjBub3NzWUVaa2RSM2ZwOHNNN1VJS2xCXzFxQU5VMldNVlBsbHBiRzlkRGFwZ1pIcHNjNWI4Z1lDRGE0dXJFczVjZ1c5akQwSW42WXA3alI1NHVfYkU5YnNYaXVlLTRXYXRR?oc=5
-- **Mouvement lycéen : faut-il flouter les visages des manifestants ?** — La Revue des médias (INA) (via Google Actualités) (2026-10-16 08:37 UTC) — https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMTVoUHR4MG0ycTU3b2NMbTdXV0RsTFVJbzMtVmlqNjU0Slppa2JCQXduZlJKYmhEMXJacGJjQlgxU2xOMU1RTXNyc1RfU1lXYm8taDE3V0hjQ3I5V3dTOF8ybHluc0wzYzV2U1RyT282c1BfZTk2enFCY1RRc0c5WDJ3S2dBbnEyblNibThUcUxtUll2RFNvbXlNMFFtcm5TRFJNU0xOeThDRm8?oc=5
 
 ## 21. Culture
 - **“Pour Le Grand bleu, la colline était plus haute que ce que je pensais”** — franceinfo (2026-10-31 19:00 UTC) — https://www.franceinfo.fr/culture/cinema/pour-le-grand-bleu-la-colline-etait-plus-haute-que-ce-que-je-pensais_8260448.html#xtor=RSS-3-%5Bgeneral%5D
@@ -1195,4 +1189,4 @@ _Rien de retenu par les flux pour cette rubrique sur la période._
 
 ---
 
-Total d'entrées sur la période : 1141.
+Total d'entrées sur la période : 1135.

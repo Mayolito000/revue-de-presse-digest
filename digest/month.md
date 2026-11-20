@@ -1,4 +1,4 @@
-# Digest RSS mensuel — généré le 2026-11-19 12:12 UTC
+# Digest RSS mensuel — généré le 2026-11-20 02:36 UTC
 
 Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se situe entre le 2026-10-01 et le 2026-10-31 (mois civil écoulé le plus récent). Aucun tri éditorial n'a été fait.
 
@@ -249,8 +249,6 @@ Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se s
 - **Pour remplacer ses Alphajet, le Maroc s’intéresse au chasseur léger sud-coréen F/A-50 Golden Eagle** — Opex360 / Zone Militaire (2026-10-19 10:52 UTC) — https://www.opex360.com/2026/10/19/pour-remplacer-ses-alphajet-le-maroc-sinteresse-au-chasseur-leger-sud-coreen-f-a-50-golden-eagle
 - **La nacelle de renseignement électromagnétique va (enfin) être opérationnelle sur les drones Reaper de l’armée de l’Air** — Opex360 / Zone Militaire (2026-10-18 11:05 UTC) — https://www.opex360.com/2026/10/18/la-nacelle-de-renseignement-electromagnetique-va-enfin-etre-operationnelle-sur-les-drones-reaper-de-larmee-de-lair
 - **Canada : Un «incident grave» a fait plusieurs tués et de nombreux blessés sur la base militaire de Wainwright** — Opex360 / Zone Militaire (2026-10-18 10:03 UTC) — https://www.opex360.com/2026/10/18/canada-un-incident-grave-a-fait-plusieurs-tues-et-de-nombreux-blesses-sur-la-base-militaire-de-wainwright
-- **Avec VULTRA, l’armée de l’Air & de l’Espace va faciliter les liaisons entre un aéronef et des drones** — Opex360 / Zone Militaire (2026-10-17 14:08 UTC) — https://www.opex360.com/2026/10/17/avec-vultra-larmee-de-lair-de-lespace-va-faciliter-les-liaisons-entre-un-aeronef-et-des-drones
-- **L’intérêt de Chypre pour l’Engin blindé de reconnaissance et de combat Jaguar se confirme** — Opex360 / Zone Militaire (2026-10-17 12:56 UTC) — https://www.opex360.com/2026/10/17/linteret-de-chypre-pour-lengin-blinde-de-reconnaissance-et-de-combat-jaguar-se-confirme
 
 ## 4. Économie française et social
 - **Un espoir pour l'adoption de la loi nécessaire à la pérennisation de TZCLD** — Alternatives Économiques (via Google Actualités) (2026-10-31 23:19 UTC) — https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT3AtV3ZxWjZ5clp3LS1VU29uVjNvX0s4a3VWU2FMREpYb1k0VU9lYWhyU2ktcnMtSmdrZkJ6T25Yemg2T2JxOWZsQmUwRUlOWUUwSkE1WHJEMmlfSVFsX05QNlN1VEZKczJWdWZub3hIVmF0ZWxUZUJncFN2S1FBQkx4SWRqS0dDOXV0TXBjWmZRUWZvdW56eUM4ZXJUSDFCZWY3NVBXVEFVZ0lzcEd4NzFTX1dCaEFyVC1mQk5kYzZxaVF3cEo1R092bHNPbnc5?oc=5
@@ -1188,4 +1186,4 @@ _Rien de retenu par les flux pour cette rubrique sur la période._
 
 ---
 
-Total d'entrées sur la période : 1134.
+Total d'entrées sur la période : 1132.

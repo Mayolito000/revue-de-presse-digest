@@ -1,4 +1,4 @@
-# Digest RSS mensuel — généré le 2026-11-20 07:21 UTC
+# Digest RSS mensuel — généré le 2026-11-20 12:14 UTC
 
 Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se situe entre le 2026-10-01 et le 2026-10-31 (mois civil écoulé le plus récent). Aucun tri éditorial n'a été fait.
 
@@ -247,8 +247,6 @@ Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se s
 - **La Nouvelle-Zélande confirme l’achat de cinq hélicoptères américains MH-60R SeaHawk pour plus de 930 millions de dollars** — Opex360 / Zone Militaire (2026-10-19 16:54 UTC) — https://www.opex360.com/2026/10/19/la-nouvelle-zelande-confirme-lachat-de-cinq-helicopteres-americains-mh-60r-seahawk-pour-plus-de-930-millions-de-dollars
 - **Un engin spatial russe s’est approché à quelques mètres d’un satellite d’observation ICEYE au terme de manœuvres inédites** — Opex360 / Zone Militaire (2026-10-19 15:35 UTC) — https://www.opex360.com/2026/10/19/un-engin-spatial-russe-sest-approche-a-quelques-metres-dun-satellite-dobservation-iceye-au-terme-de-manoeuvres-inedites
 - **Pour remplacer ses Alphajet, le Maroc s’intéresse au chasseur léger sud-coréen F/A-50 Golden Eagle** — Opex360 / Zone Militaire (2026-10-19 10:52 UTC) — https://www.opex360.com/2026/10/19/pour-remplacer-ses-alphajet-le-maroc-sinteresse-au-chasseur-leger-sud-coreen-f-a-50-golden-eagle
-- **La nacelle de renseignement électromagnétique va (enfin) être opérationnelle sur les drones Reaper de l’armée de l’Air** — Opex360 / Zone Militaire (2026-10-18 11:05 UTC) — https://www.opex360.com/2026/10/18/la-nacelle-de-renseignement-electromagnetique-va-enfin-etre-operationnelle-sur-les-drones-reaper-de-larmee-de-lair
-- **Canada : Un «incident grave» a fait plusieurs tués et de nombreux blessés sur la base militaire de Wainwright** — Opex360 / Zone Militaire (2026-10-18 10:03 UTC) — https://www.opex360.com/2026/10/18/canada-un-incident-grave-a-fait-plusieurs-tues-et-de-nombreux-blesses-sur-la-base-militaire-de-wainwright
 
 ## 4. Économie française et social
 - **Un espoir pour l'adoption de la loi nécessaire à la pérennisation de TZCLD** — Alternatives Économiques (via Google Actualités) (2026-10-31 23:19 UTC) — https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT3AtV3ZxWjZ5clp3LS1VU29uVjNvX0s4a3VWU2FMREpYb1k0VU9lYWhyU2ktcnMtSmdrZkJ6T25Yemg2T2JxOWZsQmUwRUlOWUUwSkE1WHJEMmlfSVFsX05QNlN1VEZKczJWdWZub3hIVmF0ZWxUZUJncFN2S1FBQkx4SWRqS0dDOXV0TXBjWmZRUWZvdW56eUM4ZXJUSDFCZWY3NVBXVEFVZ0lzcEd4NzFTX1dCaEFyVC1mQk5kYzZxaVF3cEo1R092bHNPbnc5?oc=5
@@ -937,8 +935,6 @@ Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se s
 ## 16. Éducation et enseignement supérieur
 - **Mobilisation lycéenne : le dossier du Café pédagogique** — Café pédagogique (via Google Actualités) (2026-10-19 09:26 UTC) — https://news.google.com/rss/articles/CBMinAFBVV95cUxNVEx1cnROZGlhTnlYRWtabmdaeVNVNmkwY3JsMkh0QmtBWlhHZGhxX2c1VUFZYWhkQVZTMzRzMzZVVTVSYTFHM1dEWFlyamY4U0phZFo4eGRlSTJBV0VJdUdSVFFpeWc2a3lBbVh3Tm5vVUlMaERxbTI3cV9XNmwyUzJ3TzF1VDRkTGFmenFEWUc5YXFNS2dmeldEcmU?oc=5
 - **Les 5 films à voir durant ces vacances** — Café pédagogique (via Google Actualités) (2026-10-19 07:25 UTC) — https://news.google.com/rss/articles/CBMijAFBVV95cUxNNTRyOUVOaUFNR1kwRmNyTWMzcmdMMnhIdXR6cVFmVllCRlVDa3B3V1NqNXQyZGc4VEg4OGttYzNkaUp6XzA3RFRzb0dnMEpxUUs2S3JyUUZvZ1Q2S2lVdElocHZaQjBua0Z1U1R5RW5aM1cyVWhhZXBSUE1jdHZnTEN4QTdRd2NCLW5Ldg?oc=5
-- **Actualité de l’éducation du 12 au 16 octobre 2026** — Café pédagogique (via Google Actualités) (2026-10-18 09:47 UTC) — https://news.google.com/rss/articles/CBMilwFBVV95cUxPekhQTGhOUThkRndoSEJObmR5WEhKRExIOFpMVEFpdHlnMFVsS3ZaNUhnUzFjOWFKaGRCZHVFOTdzV0Flb2ktZzctaEI1RHFzQ1ZsUEJMV3RfME5mQXdIU1Z1QU1DZ2cwTzBmMUx2amw3OTlzYjJfN1ppNUNTcExiM1JzdFVhSzBFU0NFZzctTWRMY2VxMnEw?oc=5
-- **16 ressources mises en avant par le Café pédagogique** — Café pédagogique (via Google Actualités) (2026-10-18 09:24 UTC) — https://news.google.com/rss/articles/CBMinAFBVV95cUxONHRwdW54WlBDdXhEZEpSX1JYQ19JbEpLZmY5REF6LUZtSkF5a3JobVdyQVhvdG02dUx5MEFaOVhydFBhejVqWktlOE5HTko1Tnl1YkVYbS1hNktuN09LOWQwOEdwbWx6aUQzeVgzb1NoVVE0VzR2b3hwZ0JTbDIwYi1UelN0VHRYREJfbklPbzd4YzVmWG03ZldQV3Y?oc=5
 
 ## 17. Société et migrations
 - **Le cercueil, cette boîte presque banale dont l’obligation légale est aujourd’hui contestée** — Le Monde (2026-10-31 18:00 UTC) — https://www.lemonde.fr/idees/article/2026/10/31/le-cercueil-cette-boite-presque-banale-dont-l-obligation-legale-est-aujourd-hui-contestee_6803726_3232.html
@@ -1186,4 +1182,4 @@ _Rien de retenu par les flux pour cette rubrique sur la période._
 
 ---
 
-Total d'entrées sur la période : 1132.
+Total d'entrées sur la période : 1128.

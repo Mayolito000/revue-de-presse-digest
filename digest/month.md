@@ -1,4 +1,4 @@
-# Digest RSS mensuel — généré le 2026-11-22 06:54 UTC
+# Digest RSS mensuel — généré le 2026-11-22 12:00 UTC
 
 Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se situe entre le 2026-10-01 et le 2026-10-31 (mois civil écoulé le plus récent). Aucun tri éditorial n'a été fait.
 
@@ -242,7 +242,6 @@ Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se s
 - **L’évaluation de l’Engin [téléopéré] de bréchage mécanique de zone destiné à l’armée de Terre est en bonne voie** — Opex360 / Zone Militaire (2026-10-20 17:42 UTC) — https://www.opex360.com/2026/10/20/levaluation-de-lengin-teleopere-de-brechage-mecanique-de-zone-destine-a-larmee-de-terre-est-en-bonne-voie
 - **Le drone sous-marin australien Ghost Shark sera doté de munitions rôdeuses Altius 600 et de mines navales** — Opex360 / Zone Militaire (2026-10-20 16:51 UTC) — https://www.opex360.com/2026/10/20/le-drone-sous-marin-australien-ghost-shark-sera-dote-de-munitions-rodeuses-altus-600-et-de-mines-navales
 - **Le Royaume-Uni renforce son soutien à l’Arabie saoudite avec l’envoi d’Eurofighter Typhoon et d’un A400M** — Opex360 / Zone Militaire (2026-10-20 15:16 UTC) — https://www.opex360.com/2026/10/20/le-royaume-uni-renforce-son-soutien-a-larabie-saoudite-avec-lenvoi-deurofighter-typhoon-et-dun-a400m
-- **L’armée ukrainienne revendique la première évacuation d’un soldat blessé par un drone aérien** — Opex360 / Zone Militaire (2026-10-20 11:12 UTC) — https://www.opex360.com/2026/10/20/larmee-ukrainienne-revendique-la-premiere-evacuation-dun-soldat-blesse-par-un-drone-aerien
 
 ## 4. Économie française et social
 - **Un espoir pour l'adoption de la loi nécessaire à la pérennisation de TZCLD** — Alternatives Économiques (via Google Actualités) (2026-10-31 23:19 UTC) — https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT3AtV3ZxWjZ5clp3LS1VU29uVjNvX0s4a3VWU2FMREpYb1k0VU9lYWhyU2ktcnMtSmdrZkJ6T25Yemg2T2JxOWZsQmUwRUlOWUUwSkE1WHJEMmlfSVFsX05QNlN1VEZKczJWdWZub3hIVmF0ZWxUZUJncFN2S1FBQkx4SWRqS0dDOXV0TXBjWmZRUWZvdW56eUM4ZXJUSDFCZWY3NVBXVEFVZ0lzcEd4NzFTX1dCaEFyVC1mQk5kYzZxaVF3cEo1R092bHNPbnc5?oc=5
@@ -1176,4 +1175,4 @@ _Rien de retenu par les flux pour cette rubrique sur la période._
 
 ---
 
-Total d'entrées sur la période : 1121.
+Total d'entrées sur la période : 1120.

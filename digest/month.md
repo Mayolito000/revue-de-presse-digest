@@ -1,4 +1,4 @@
-# Digest RSS mensuel — généré le 2026-11-22 01:35 UTC
+# Digest RSS mensuel — généré le 2026-11-22 06:54 UTC
 
 Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se situe entre le 2026-10-01 et le 2026-10-31 (mois civil écoulé le plus récent). Aucun tri éditorial n'a été fait.
 
@@ -1002,7 +1002,6 @@ _Rien de retenu par les flux pour cette rubrique sur la période._
 - **Carburant : quand les médias s’emparent-ils de la question du prix à la pompe ?** — La Revue des médias (INA) (via Google Actualités) (2026-10-27 10:48 UTC) — https://news.google.com/rss/articles/CBMihAFBVV95cUxNU1hMbHkyV0xzWUJWV2NjQXhadzhXNmRXeTV6TVpmX29yWk9xVUtxLU5XUkZKSTJPQW5sU2I3R2xjTVhEZ3F3Nk9XWnhNTWVZRUVrY3JabmMtTUw5UVZDVzBYdjMyTDh6b1hha2pDdkY0TTdfYUs5b1ZpTDJFMV9GTUwtMms?oc=5
 - **Au Brésil, les deepfakes s’immiscent dans la campagne présidentielle** — La Revue des médias (INA) (via Google Actualités) (2026-10-22 12:44 UTC) — https://news.google.com/rss/articles/CBMirAFBVV95cUxPTDVxTXZqNnNoNy1kT1lqS0dsQjltRW1IRFRVYk1VckJranJhMW1pdmw2ZWVzSHplRXk5LUU0clF5bXNIM093akhMZGRuNU9QWUtPaVdFTXktWWlyNWZMVWdxTmVUa200clBXa25xdnV6WDNrT1VxS0hCWGxTMTFwVE83MlZ0ZENrR05WRkJWQmNKYjdCVVJGZDEyQkhZWTl3WkxRTG1YckRITVBI?oc=5
 - **Can LLMs Supercharge Geolocations? Our Tests Show Big Improvements But Humans Remain Key** — Bellingcat (2026-10-22 11:06 UTC) — https://www.bellingcat.com/resources/2026/10/22/can-llms-supercharge-geolocations-our-tests-show-big-improvements-but-humans-remain-key
-- **Françoise Berger, l’œil qui a changé le journalisme politique** — La Revue des médias (INA) (via Google Actualités) (2026-10-20 05:30 UTC) — https://news.google.com/rss/articles/CBMimgFBVV95cUxOTjNnenE4N051Nm1XWkxlTWV5dW5FVTRXbkxnMzBrWk45ZG1GMXBPblNjT0tJZzVoNjBub3NzWUVaa2RSM2ZwOHNNN1VJS2xCXzFxQU5VMldNVlBsbHBiRzlkRGFwZ1pIcHNjNWI4Z1lDRGE0dXJFczVjZ1c5akQwSW42WXA3alI1NHVfYkU5YnNYaXVlLTRXYXRR?oc=5
 
 ## 21. Culture
 - **“Pour Le Grand bleu, la colline était plus haute que ce que je pensais”** — franceinfo (2026-10-31 19:00 UTC) — https://www.franceinfo.fr/culture/cinema/pour-le-grand-bleu-la-colline-etait-plus-haute-que-ce-que-je-pensais_8260448.html#xtor=RSS-3-%5Bgeneral%5D
@@ -1177,4 +1176,4 @@ _Rien de retenu par les flux pour cette rubrique sur la période._
 
 ---
 
-Total d'entrées sur la période : 1122.
+Total d'entrées sur la période : 1121.

@@ -1,4 +1,4 @@
-# Digest RSS mensuel — généré le 2026-11-22 12:00 UTC
+# Digest RSS mensuel — généré le 2026-11-23 01:58 UTC
 
 Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se situe entre le 2026-10-01 et le 2026-10-31 (mois civil écoulé le plus récent). Aucun tri éditorial n'a été fait.
 
@@ -239,9 +239,6 @@ Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se s
 - **La France et les Émirats arabes unis ont signé un accord intergouvernemental sur le développement du Rafale F5** — Opex360 / Zone Militaire (2026-10-21 15:15 UTC) — https://www.opex360.com/2026/10/21/la-france-et-les-emirats-arabes-unis-ont-signe-un-accord-intergouvernemental-sur-le-developpement-du-rafale-f5
 - **Des drones non autorisés ont été détectés «aux abords et au-dessus» de sites militaires de la région de Toulon** — Opex360 / Zone Militaire (2026-10-21 10:26 UTC) — https://www.opex360.com/2026/10/21/des-drones-non-autorises-ont-ete-detectes-aux-abords-et-au-dessus-de-sites-militaires-de-la-region-de-toulon
 - **Un Mirage 2000D RMV s’est écrasé près de Nancy [MàJ-1]** — Opex360 / Zone Militaire (2026-10-21 07:20 UTC) — https://www.opex360.com/2026/10/21/un-mirage-2000d-rmv-sest-ecrase-pres-de-nancy
-- **L’évaluation de l’Engin [téléopéré] de bréchage mécanique de zone destiné à l’armée de Terre est en bonne voie** — Opex360 / Zone Militaire (2026-10-20 17:42 UTC) — https://www.opex360.com/2026/10/20/levaluation-de-lengin-teleopere-de-brechage-mecanique-de-zone-destine-a-larmee-de-terre-est-en-bonne-voie
-- **Le drone sous-marin australien Ghost Shark sera doté de munitions rôdeuses Altius 600 et de mines navales** — Opex360 / Zone Militaire (2026-10-20 16:51 UTC) — https://www.opex360.com/2026/10/20/le-drone-sous-marin-australien-ghost-shark-sera-dote-de-munitions-rodeuses-altus-600-et-de-mines-navales
-- **Le Royaume-Uni renforce son soutien à l’Arabie saoudite avec l’envoi d’Eurofighter Typhoon et d’un A400M** — Opex360 / Zone Militaire (2026-10-20 15:16 UTC) — https://www.opex360.com/2026/10/20/le-royaume-uni-renforce-son-soutien-a-larabie-saoudite-avec-lenvoi-deurofighter-typhoon-et-dun-a400m
 
 ## 4. Économie française et social
 - **Un espoir pour l'adoption de la loi nécessaire à la pérennisation de TZCLD** — Alternatives Économiques (via Google Actualités) (2026-10-31 23:19 UTC) — https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT3AtV3ZxWjZ5clp3LS1VU29uVjNvX0s4a3VWU2FMREpYb1k0VU9lYWhyU2ktcnMtSmdrZkJ6T25Yemg2T2JxOWZsQmUwRUlOWUUwSkE1WHJEMmlfSVFsX05QNlN1VEZKczJWdWZub3hIVmF0ZWxUZUJncFN2S1FBQkx4SWRqS0dDOXV0TXBjWmZRUWZvdW56eUM4ZXJUSDFCZWY3NVBXVEFVZ0lzcEd4NzFTX1dCaEFyVC1mQk5kYzZxaVF3cEo1R092bHNPbnc5?oc=5
@@ -1175,4 +1172,4 @@ _Rien de retenu par les flux pour cette rubrique sur la période._
 
 ---
 
-Total d'entrées sur la période : 1120.
+Total d'entrées sur la période : 1117.

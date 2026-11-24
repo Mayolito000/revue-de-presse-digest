@@ -1,4 +1,4 @@
-# Digest RSS mensuel — généré le 2026-11-24 09:57 UTC
+# Digest RSS mensuel — généré le 2026-11-24 14:18 UTC
 
 Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se situe entre le 2026-10-01 et le 2026-10-31 (mois civil écoulé le plus récent). Aucun tri éditorial n'a été fait.
 
@@ -234,7 +234,6 @@ Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se s
 - **Le ministère des Armées annonce la mort en service aérien commandé du lieutenant-colonel Sarkissian et du lieutenant Klysz** — Opex360 / Zone Militaire (2026-10-22 17:48 UTC) — https://www.opex360.com/2026/10/22/le-ministere-des-armees-annonce-la-mort-en-service-aerien-commande-du-lieutenant-colonel-sarkissian-et-du-lieutenant-klysz
 - **Le Japon signale une forte hausse de l’activité aérienne des forces chinoises et russes près de son territoire** — Opex360 / Zone Militaire (2026-10-22 17:12 UTC) — https://www.opex360.com/2026/10/22/le-japon-signale-une-forte-hausse-de-lactivite-aerienne-des-forces-chinoises-et-russes-pres-de-son-territoire
 - **Un rapport s’inquiète des déficits capacitaires de la Royal Navy pour contrer les sous-marins russes dans le Grand Nord** — Opex360 / Zone Militaire (2026-10-22 15:35 UTC) — https://www.opex360.com/2026/10/22/un-rapport-sinquiete-des-deficits-capacitaires-de-la-royal-navy-pour-pour-contrer-les-sous-marins-russes-dans-le-grand-nord
-- **La Direction générale de l’armement évalue le drone de surface transocéanique Oryx O-16 d’Exail** — Opex360 / Zone Militaire (2026-10-22 11:01 UTC) — https://www.opex360.com/2026/10/22/la-direction-generale-de-larmement-evalue-le-drone-transoceanique-oryx-o-16-dexail
 
 ## 4. Économie française et social
 - **Un espoir pour l'adoption de la loi nécessaire à la pérennisation de TZCLD** — Alternatives Économiques (via Google Actualités) (2026-10-31 23:19 UTC) — https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT3AtV3ZxWjZ5clp3LS1VU29uVjNvX0s4a3VWU2FMREpYb1k0VU9lYWhyU2ktcnMtSmdrZkJ6T25Yemg2T2JxOWZsQmUwRUlOWUUwSkE1WHJEMmlfSVFsX05QNlN1VEZKczJWdWZub3hIVmF0ZWxUZUJncFN2S1FBQkx4SWRqS0dDOXV0TXBjWmZRUWZvdW56eUM4ZXJUSDFCZWY3NVBXVEFVZ0lzcEd4NzFTX1dCaEFyVC1mQk5kYzZxaVF3cEo1R092bHNPbnc5?oc=5
@@ -913,9 +912,6 @@ Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se s
 - **REPORTAGE. "Seul 43% des parents connaissent le contrôle parental", la 15e Paris Games Week sensibilise sur le sujet** — franceinfo (2026-10-23 12:41 UTC) — https://www.franceinfo.fr/culture/jeux-video/seul-43-des-parents-connaissent-le-controle-parental-la-15e-paris-games-week-sensibilise-sur-le-sujet_8250757.html#xtor=RSS-3-%5Bgeneral%5D
 - **Virus Shamonda, un premier cas mortel en France** — franceinfo (2026-10-23 06:00 UTC) — https://www.franceinfo.fr/sante/virus-shamonda-un-premier-cas-mortel-en-france_8249611.html#xtor=RSS-3-%5Bgeneral%5D
 - **"Pas une préoccupation en termes de santé publique" : que retenir du premier cas de virus Shamonda chez l'être humain ?** — franceinfo (2026-10-22 19:53 UTC) — https://www.franceinfo.fr/sante/pas-une-preoccupation-en-termes-de-sante-publique-que-retenir-du-premier-cas-de-virus-shamonda-chez-l-etre-humain_8249641.html#xtor=RSS-3-%5Bgeneral%5D
-- **L'Afrique fait face à une situation de flambée d'Ebola "plus complexe" après un premier cas au Nigeria** — franceinfo (2026-10-22 13:23 UTC) — https://www.franceinfo.fr/sante/maladie/ebola/l-afrique-fait-face-a-une-situation-de-flambee-d-ebola-plus-complexe-apres-un-premier-cas-au-nigeria_8249044.html#xtor=RSS-3-%5Bgeneral%5D
-- **Ces adolescents sont dans une unité hospitalière pour leur phobie scolaire, ils racontent** — franceinfo (2026-10-22 13:15 UTC) — https://www.franceinfo.fr/l-actu-pour-les-jeunes/ces-adolescents-sont-dans-une-unite-hospitaliere-pour-leur-phobie-scolaire-ils-racontent_8249068.html#xtor=RSS-3-%5Bgeneral%5D
-- **"On fait 10 000 prothèses par an, eux, c'est ce qu'ils vont faire en une semaine" : les prothésistes dentaires français alertent face à la concurrence chinoise** — franceinfo (2026-10-22 13:12 UTC) — https://www.franceinfo.fr/sante/on-fait-10-000-protheses-par-an-environ-eux-c-est-ce-qu-ils-vont-faire-en-une-semaine-les-prothesistes-dentaires-francais-alertent-face-a-la-concurrence-chinoise_8249050.html#xtor=RSS-3-%5Bgeneral%5D
 
 ## 16. Éducation et enseignement supérieur
 _Rien de retenu par les flux pour cette rubrique sur la période._
@@ -989,8 +985,6 @@ _Rien de retenu par les flux pour cette rubrique sur la période._
 - **EU Satellite Imagery Delayed Over Gaza and Parts of West Bank by 24-hours** — Bellingcat (2026-10-29 22:15 UTC) — https://www.bellingcat.com/news/2026/10/29/eu-satellite-imagery-delayed-over-gaza-and-parts-of-west-bank-by-24-hours
 - **Désinformation, censure et non-dits : comment un média local a enquêté sur le potentiel cas de peste en Sibérie** — La Revue des médias (INA) (via Google Actualités) (2026-10-28 13:34 UTC) — https://news.google.com/rss/articles/CBMilwFBVV95cUxQdkVkaGh5YS1DS2QtMnhGRjBLVGh0TDJRXzkwbWNBTkNsNHd4WXpHQk5YSGQwSnNsRmItVFZBNm5vSU5wMXRPaDg5VDB5QXA4bUFHby1PVVlSdVd2WFQzWUxfUnlGdmRSb2JhWHh4TVZFNU1zWDc4aDJ5b0ZZYV8tQjVvRlJXVDc3SzFGRGxHYkhSNzR2RW5J?oc=5
 - **Carburant : quand les médias s’emparent-ils de la question du prix à la pompe ?** — La Revue des médias (INA) (via Google Actualités) (2026-10-27 10:48 UTC) — https://news.google.com/rss/articles/CBMihAFBVV95cUxNU1hMbHkyV0xzWUJWV2NjQXhadzhXNmRXeTV6TVpmX29yWk9xVUtxLU5XUkZKSTJPQW5sU2I3R2xjTVhEZ3F3Nk9XWnhNTWVZRUVrY3JabmMtTUw5UVZDVzBYdjMyTDh6b1hha2pDdkY0TTdfYUs5b1ZpTDJFMV9GTUwtMms?oc=5
-- **Au Brésil, les deepfakes s’immiscent dans la campagne présidentielle** — La Revue des médias (INA) (via Google Actualités) (2026-10-22 12:44 UTC) — https://news.google.com/rss/articles/CBMirAFBVV95cUxPTDVxTXZqNnNoNy1kT1lqS0dsQjltRW1IRFRVYk1VckJranJhMW1pdmw2ZWVzSHplRXk5LUU0clF5bXNIM093akhMZGRuNU9QWUtPaVdFTXktWWlyNWZMVWdxTmVUa200clBXa25xdnV6WDNrT1VxS0hCWGxTMTFwVE83MlZ0ZENrR05WRkJWQmNKYjdCVVJGZDEyQkhZWTl3WkxRTG1YckRITVBI?oc=5
-- **Can LLMs Supercharge Geolocations? Our Tests Show Big Improvements But Humans Remain Key** — Bellingcat (2026-10-22 11:06 UTC) — https://www.bellingcat.com/resources/2026/10/22/can-llms-supercharge-geolocations-our-tests-show-big-improvements-but-humans-remain-key
 
 ## 21. Culture
 - **“Pour Le Grand bleu, la colline était plus haute que ce que je pensais”** — franceinfo (2026-10-31 19:00 UTC) — https://www.franceinfo.fr/culture/cinema/pour-le-grand-bleu-la-colline-etait-plus-haute-que-ce-que-je-pensais_8260448.html#xtor=RSS-3-%5Bgeneral%5D
@@ -1165,4 +1159,4 @@ _Rien de retenu par les flux pour cette rubrique sur la période._
 
 ---
 
-Total d'entrées sur la période : 1110.
+Total d'entrées sur la période : 1104.

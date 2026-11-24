@@ -1,4 +1,4 @@
-# Digest RSS mensuel — généré le 2026-11-23 13:41 UTC
+# Digest RSS mensuel — généré le 2026-11-24 05:32 UTC
 
 Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se situe entre le 2026-10-01 et le 2026-10-31 (mois civil écoulé le plus récent). Aucun tri éditorial n'a été fait.
 
@@ -235,8 +235,6 @@ Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se s
 - **Le Japon signale une forte hausse de l’activité aérienne des forces chinoises et russes près de son territoire** — Opex360 / Zone Militaire (2026-10-22 17:12 UTC) — https://www.opex360.com/2026/10/22/le-japon-signale-une-forte-hausse-de-lactivite-aerienne-des-forces-chinoises-et-russes-pres-de-son-territoire
 - **Un rapport s’inquiète des déficits capacitaires de la Royal Navy pour contrer les sous-marins russes dans le Grand Nord** — Opex360 / Zone Militaire (2026-10-22 15:35 UTC) — https://www.opex360.com/2026/10/22/un-rapport-sinquiete-des-deficits-capacitaires-de-la-royal-navy-pour-pour-contrer-les-sous-marins-russes-dans-le-grand-nord
 - **La Direction générale de l’armement évalue le drone de surface transocéanique Oryx O-16 d’Exail** — Opex360 / Zone Militaire (2026-10-22 11:01 UTC) — https://www.opex360.com/2026/10/22/la-direction-generale-de-larmement-evalue-le-drone-transoceanique-oryx-o-16-dexail
-- **La Direction générale de l’armement a commandé quatre systèmes de défense aérienne SAMP/T NG supplémentaires** — Opex360 / Zone Militaire (2026-10-21 17:03 UTC) — https://www.opex360.com/2026/10/21/la-direction-generale-de-larmement-a-commande-quatre-systemes-de-defense-aerienne-samp-t-ng-supplementaires
-- **La France et les Émirats arabes unis ont signé un accord intergouvernemental sur le développement du Rafale F5** — Opex360 / Zone Militaire (2026-10-21 15:15 UTC) — https://www.opex360.com/2026/10/21/la-france-et-les-emirats-arabes-unis-ont-signe-un-accord-intergouvernemental-sur-le-developpement-du-rafale-f5
 
 ## 4. Économie française et social
 - **Un espoir pour l'adoption de la loi nécessaire à la pérennisation de TZCLD** — Alternatives Économiques (via Google Actualités) (2026-10-31 23:19 UTC) — https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT3AtV3ZxWjZ5clp3LS1VU29uVjNvX0s4a3VWU2FMREpYb1k0VU9lYWhyU2ktcnMtSmdrZkJ6T25Yemg2T2JxOWZsQmUwRUlOWUUwSkE1WHJEMmlfSVFsX05QNlN1VEZKczJWdWZub3hIVmF0ZWxUZUJncFN2S1FBQkx4SWRqS0dDOXV0TXBjWmZRUWZvdW56eUM4ZXJUSDFCZWY3NVBXVEFVZ0lzcEd4NzFTX1dCaEFyVC1mQk5kYzZxaVF3cEo1R092bHNPbnc5?oc=5
@@ -920,7 +918,6 @@ Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se s
 - **"On fait 10 000 prothèses par an, eux, c'est ce qu'ils vont faire en une semaine" : les prothésistes dentaires français alertent face à la concurrence chinoise** — franceinfo (2026-10-22 13:12 UTC) — https://www.franceinfo.fr/sante/on-fait-10-000-protheses-par-an-environ-eux-c-est-ce-qu-ils-vont-faire-en-une-semaine-les-prothesistes-dentaires-francais-alertent-face-a-la-concurrence-chinoise_8249050.html#xtor=RSS-3-%5Bgeneral%5D
 - **Au moins 80 produits sains à prix coûtant dans les supermarchés, une mesure "concrète et à portée de main", selon l'ONG Foodwatch France** — franceinfo (2026-10-22 09:31 UTC) — https://www.franceinfo.fr/economie/pouvoir-achat/au-moins-80-produits-sains-a-prix-coutant-dans-les-supermarches-une-mesure-concrete-et-a-portee-de-main-selon-l-ong-foodwatch-france_8248732.html#xtor=RSS-3-%5Bgeneral%5D
 - **Un premier cas de virus Shamonda chez l'être humain détecté en France** — franceinfo (2026-10-22 08:57 UTC) — https://www.franceinfo.fr/sante/maladie/un-premier-cas-de-virus-shamonda-chez-l-etre-humain-detecte-en-france_8248633.html#xtor=RSS-3-%5Bgeneral%5D
-- **Les additifs dans les goûters de nos enfants** — franceinfo (2026-10-21 18:00 UTC) — https://www.franceinfo.fr/sante/les-additifs-dans-les-gouters-de-nos-enfants_8247661.html#xtor=RSS-3-%5Bgeneral%5D
 
 ## 16. Éducation et enseignement supérieur
 _Rien de retenu par les flux pour cette rubrique sur la période._
@@ -1170,4 +1167,4 @@ _Rien de retenu par les flux pour cette rubrique sur la période._
 
 ---
 
-Total d'entrées sur la période : 1115.
+Total d'entrées sur la période : 1112.

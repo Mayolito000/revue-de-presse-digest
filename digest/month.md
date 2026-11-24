@@ -1,4 +1,4 @@
-# Digest RSS mensuel — généré le 2026-11-24 05:32 UTC
+# Digest RSS mensuel — généré le 2026-11-24 09:57 UTC
 
 Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se situe entre le 2026-10-01 et le 2026-10-31 (mois civil écoulé le plus récent). Aucun tri éditorial n'a été fait.
 
@@ -916,8 +916,6 @@ Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se s
 - **L'Afrique fait face à une situation de flambée d'Ebola "plus complexe" après un premier cas au Nigeria** — franceinfo (2026-10-22 13:23 UTC) — https://www.franceinfo.fr/sante/maladie/ebola/l-afrique-fait-face-a-une-situation-de-flambee-d-ebola-plus-complexe-apres-un-premier-cas-au-nigeria_8249044.html#xtor=RSS-3-%5Bgeneral%5D
 - **Ces adolescents sont dans une unité hospitalière pour leur phobie scolaire, ils racontent** — franceinfo (2026-10-22 13:15 UTC) — https://www.franceinfo.fr/l-actu-pour-les-jeunes/ces-adolescents-sont-dans-une-unite-hospitaliere-pour-leur-phobie-scolaire-ils-racontent_8249068.html#xtor=RSS-3-%5Bgeneral%5D
 - **"On fait 10 000 prothèses par an, eux, c'est ce qu'ils vont faire en une semaine" : les prothésistes dentaires français alertent face à la concurrence chinoise** — franceinfo (2026-10-22 13:12 UTC) — https://www.franceinfo.fr/sante/on-fait-10-000-protheses-par-an-environ-eux-c-est-ce-qu-ils-vont-faire-en-une-semaine-les-prothesistes-dentaires-francais-alertent-face-a-la-concurrence-chinoise_8249050.html#xtor=RSS-3-%5Bgeneral%5D
-- **Au moins 80 produits sains à prix coûtant dans les supermarchés, une mesure "concrète et à portée de main", selon l'ONG Foodwatch France** — franceinfo (2026-10-22 09:31 UTC) — https://www.franceinfo.fr/economie/pouvoir-achat/au-moins-80-produits-sains-a-prix-coutant-dans-les-supermarches-une-mesure-concrete-et-a-portee-de-main-selon-l-ong-foodwatch-france_8248732.html#xtor=RSS-3-%5Bgeneral%5D
-- **Un premier cas de virus Shamonda chez l'être humain détecté en France** — franceinfo (2026-10-22 08:57 UTC) — https://www.franceinfo.fr/sante/maladie/un-premier-cas-de-virus-shamonda-chez-l-etre-humain-detecte-en-france_8248633.html#xtor=RSS-3-%5Bgeneral%5D
 
 ## 16. Éducation et enseignement supérieur
 _Rien de retenu par les flux pour cette rubrique sur la période._
@@ -1167,4 +1165,4 @@ _Rien de retenu par les flux pour cette rubrique sur la période._
 
 ---
 
-Total d'entrées sur la période : 1112.
+Total d'entrées sur la période : 1110.

@@ -1,4 +1,4 @@
-# Digest RSS mensuel — généré le 2026-11-25 04:36 UTC
+# Digest RSS mensuel — généré le 2026-11-25 08:40 UTC
 
 Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se situe entre le 2026-10-01 et le 2026-10-31 (mois civil écoulé le plus récent). Aucun tri éditorial n'a été fait.
 
@@ -907,7 +907,6 @@ Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se s
 - **Faut-il arrêter le sucre ?** — franceinfo (2026-10-24 13:00 UTC) — https://www.franceinfo.fr/sante/alimentation/faut-il-arreter-le-sucre_8252137.html#xtor=RSS-3-%5Bgeneral%5D
 - **Cancer : le premier vaccin thérapeutique à ARN messager donne de très bon résultats contre le mélanome, le cancer de la peau le plus mortel** — franceinfo (2026-10-23 16:05 UTC) — https://www.franceinfo.fr/sante/cancer/cancer-le-premier-vaccin-therapeutique-a-arn-messager-donne-de-tres-bon-resultats-contre-le-melanome-le-cancer-de-la-peau-le-plus-mortel_8251084.html#xtor=RSS-3-%5Bgeneral%5D
 - **REPORTAGE. "Seul 43% des parents connaissent le contrôle parental", la 15e Paris Games Week sensibilise sur le sujet** — franceinfo (2026-10-23 12:41 UTC) — https://www.franceinfo.fr/culture/jeux-video/seul-43-des-parents-connaissent-le-controle-parental-la-15e-paris-games-week-sensibilise-sur-le-sujet_8250757.html#xtor=RSS-3-%5Bgeneral%5D
-- **Virus Shamonda, un premier cas mortel en France** — franceinfo (2026-10-23 06:00 UTC) — https://www.franceinfo.fr/sante/virus-shamonda-un-premier-cas-mortel-en-france_8249611.html#xtor=RSS-3-%5Bgeneral%5D
 
 ## 16. Éducation et enseignement supérieur
 _Rien de retenu par les flux pour cette rubrique sur la période._
@@ -1155,4 +1154,4 @@ _Rien de retenu par les flux pour cette rubrique sur la période._
 
 ---
 
-Total d'entrées sur la période : 1100.
+Total d'entrées sur la période : 1099.

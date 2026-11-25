@@ -1,4 +1,4 @@
-# Digest RSS mensuel — généré le 2026-11-24 14:18 UTC
+# Digest RSS mensuel — généré le 2026-11-25 04:36 UTC
 
 Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se situe entre le 2026-10-01 et le 2026-10-31 (mois civil écoulé le plus récent). Aucun tri éditorial n'a été fait.
 
@@ -231,9 +231,6 @@ Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se s
 - **Le Danemark commande des missiles sol-sol à longue portée Anthem auprès de l’américain Covenant Industries** — Opex360 / Zone Militaire (2026-10-23 15:42 UTC) — https://www.opex360.com/2026/10/23/le-danemark-commande-des-missiles-sol-sol-a-longue-portee-anthem-aupres-de-lamericain-covenant-industries
 - **Les forces aériennes françaises et britanniques ont simulé une frappe nucléaire lors de l’exercice inédit «Rummy»** — Opex360 / Zone Militaire (2026-10-23 12:50 UTC) — https://www.opex360.com/2026/10/23/les-forces-aeriennes-francaises-et-britanniques-ont-simule-une-frappe-nucleaire-lors-de-lexercice-inedit-rummy
 - **Le Pentagone et Lockheed Martin ont conclu un accord-cadre pour la production de 850 F-35 sur 10 ans** — Opex360 / Zone Militaire (2026-10-23 10:38 UTC) — https://www.opex360.com/2026/10/23/le-pentagone-et-lockheed-martin-ont-conclu-un-accord-cadre-pour-la-production-de-850-f-35-sur-10-ans
-- **Le ministère des Armées annonce la mort en service aérien commandé du lieutenant-colonel Sarkissian et du lieutenant Klysz** — Opex360 / Zone Militaire (2026-10-22 17:48 UTC) — https://www.opex360.com/2026/10/22/le-ministere-des-armees-annonce-la-mort-en-service-aerien-commande-du-lieutenant-colonel-sarkissian-et-du-lieutenant-klysz
-- **Le Japon signale une forte hausse de l’activité aérienne des forces chinoises et russes près de son territoire** — Opex360 / Zone Militaire (2026-10-22 17:12 UTC) — https://www.opex360.com/2026/10/22/le-japon-signale-une-forte-hausse-de-lactivite-aerienne-des-forces-chinoises-et-russes-pres-de-son-territoire
-- **Un rapport s’inquiète des déficits capacitaires de la Royal Navy pour contrer les sous-marins russes dans le Grand Nord** — Opex360 / Zone Militaire (2026-10-22 15:35 UTC) — https://www.opex360.com/2026/10/22/un-rapport-sinquiete-des-deficits-capacitaires-de-la-royal-navy-pour-pour-contrer-les-sous-marins-russes-dans-le-grand-nord
 
 ## 4. Économie française et social
 - **Un espoir pour l'adoption de la loi nécessaire à la pérennisation de TZCLD** — Alternatives Économiques (via Google Actualités) (2026-10-31 23:19 UTC) — https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT3AtV3ZxWjZ5clp3LS1VU29uVjNvX0s4a3VWU2FMREpYb1k0VU9lYWhyU2ktcnMtSmdrZkJ6T25Yemg2T2JxOWZsQmUwRUlOWUUwSkE1WHJEMmlfSVFsX05QNlN1VEZKczJWdWZub3hIVmF0ZWxUZUJncFN2S1FBQkx4SWRqS0dDOXV0TXBjWmZRUWZvdW56eUM4ZXJUSDFCZWY3NVBXVEFVZ0lzcEd4NzFTX1dCaEFyVC1mQk5kYzZxaVF3cEo1R092bHNPbnc5?oc=5
@@ -911,7 +908,6 @@ Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se s
 - **Cancer : le premier vaccin thérapeutique à ARN messager donne de très bon résultats contre le mélanome, le cancer de la peau le plus mortel** — franceinfo (2026-10-23 16:05 UTC) — https://www.franceinfo.fr/sante/cancer/cancer-le-premier-vaccin-therapeutique-a-arn-messager-donne-de-tres-bon-resultats-contre-le-melanome-le-cancer-de-la-peau-le-plus-mortel_8251084.html#xtor=RSS-3-%5Bgeneral%5D
 - **REPORTAGE. "Seul 43% des parents connaissent le contrôle parental", la 15e Paris Games Week sensibilise sur le sujet** — franceinfo (2026-10-23 12:41 UTC) — https://www.franceinfo.fr/culture/jeux-video/seul-43-des-parents-connaissent-le-controle-parental-la-15e-paris-games-week-sensibilise-sur-le-sujet_8250757.html#xtor=RSS-3-%5Bgeneral%5D
 - **Virus Shamonda, un premier cas mortel en France** — franceinfo (2026-10-23 06:00 UTC) — https://www.franceinfo.fr/sante/virus-shamonda-un-premier-cas-mortel-en-france_8249611.html#xtor=RSS-3-%5Bgeneral%5D
-- **"Pas une préoccupation en termes de santé publique" : que retenir du premier cas de virus Shamonda chez l'être humain ?** — franceinfo (2026-10-22 19:53 UTC) — https://www.franceinfo.fr/sante/pas-une-preoccupation-en-termes-de-sante-publique-que-retenir-du-premier-cas-de-virus-shamonda-chez-l-etre-humain_8249641.html#xtor=RSS-3-%5Bgeneral%5D
 
 ## 16. Éducation et enseignement supérieur
 _Rien de retenu par les flux pour cette rubrique sur la période._
@@ -1159,4 +1155,4 @@ _Rien de retenu par les flux pour cette rubrique sur la période._
 
 ---
 
-Total d'entrées sur la période : 1104.
+Total d'entrées sur la période : 1100.

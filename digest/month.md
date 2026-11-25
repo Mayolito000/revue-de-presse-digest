@@ -1,4 +1,4 @@
-# Digest RSS mensuel — généré le 2026-11-25 08:40 UTC
+# Digest RSS mensuel — généré le 2026-11-25 13:33 UTC
 
 Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se situe entre le 2026-10-01 et le 2026-10-31 (mois civil écoulé le plus récent). Aucun tri éditorial n'a été fait.
 
@@ -229,8 +229,6 @@ Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se s
 - **Le futur missile balistique terrestre devrait finalement être mis en œuvre par l’armée de Terre** — Opex360 / Zone Militaire (2026-10-24 09:22 UTC) — https://www.opex360.com/2026/10/24/le-futur-missile-balistique-terrestre-devrait-finalement-etre-mis-en-oeuvre-par-larmee-de-terre
 - **La Turquie espère conclure prochainement un accord avec le Qatar pour se procurer des Eurofighter Typhoon d’occasion** — Opex360 / Zone Militaire (2026-10-23 17:15 UTC) — https://www.opex360.com/2026/10/23/la-turquie-espere-conclure-prochainement-un-accord-avec-le-qatar-pour-se-procurer-des-eurofighter-typhoon-doccasion
 - **Le Danemark commande des missiles sol-sol à longue portée Anthem auprès de l’américain Covenant Industries** — Opex360 / Zone Militaire (2026-10-23 15:42 UTC) — https://www.opex360.com/2026/10/23/le-danemark-commande-des-missiles-sol-sol-a-longue-portee-anthem-aupres-de-lamericain-covenant-industries
-- **Les forces aériennes françaises et britanniques ont simulé une frappe nucléaire lors de l’exercice inédit «Rummy»** — Opex360 / Zone Militaire (2026-10-23 12:50 UTC) — https://www.opex360.com/2026/10/23/les-forces-aeriennes-francaises-et-britanniques-ont-simule-une-frappe-nucleaire-lors-de-lexercice-inedit-rummy
-- **Le Pentagone et Lockheed Martin ont conclu un accord-cadre pour la production de 850 F-35 sur 10 ans** — Opex360 / Zone Militaire (2026-10-23 10:38 UTC) — https://www.opex360.com/2026/10/23/le-pentagone-et-lockheed-martin-ont-conclu-un-accord-cadre-pour-la-production-de-850-f-35-sur-10-ans
 
 ## 4. Économie française et social
 - **Un espoir pour l'adoption de la loi nécessaire à la pérennisation de TZCLD** — Alternatives Économiques (via Google Actualités) (2026-10-31 23:19 UTC) — https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT3AtV3ZxWjZ5clp3LS1VU29uVjNvX0s4a3VWU2FMREpYb1k0VU9lYWhyU2ktcnMtSmdrZkJ6T25Yemg2T2JxOWZsQmUwRUlOWUUwSkE1WHJEMmlfSVFsX05QNlN1VEZKczJWdWZub3hIVmF0ZWxUZUJncFN2S1FBQkx4SWRqS0dDOXV0TXBjWmZRUWZvdW56eUM4ZXJUSDFCZWY3NVBXVEFVZ0lzcEd4NzFTX1dCaEFyVC1mQk5kYzZxaVF3cEo1R092bHNPbnc5?oc=5
@@ -906,7 +904,6 @@ Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se s
 - **Nos journées ne durent pas vraiment 24 heures !** — franceinfo (2026-10-24 14:00 UTC) — https://www.franceinfo.fr/sante/nos-journees-ne-durent-pas-vraiment-24-heures_8251159.html#xtor=RSS-3-%5Bgeneral%5D
 - **Faut-il arrêter le sucre ?** — franceinfo (2026-10-24 13:00 UTC) — https://www.franceinfo.fr/sante/alimentation/faut-il-arreter-le-sucre_8252137.html#xtor=RSS-3-%5Bgeneral%5D
 - **Cancer : le premier vaccin thérapeutique à ARN messager donne de très bon résultats contre le mélanome, le cancer de la peau le plus mortel** — franceinfo (2026-10-23 16:05 UTC) — https://www.franceinfo.fr/sante/cancer/cancer-le-premier-vaccin-therapeutique-a-arn-messager-donne-de-tres-bon-resultats-contre-le-melanome-le-cancer-de-la-peau-le-plus-mortel_8251084.html#xtor=RSS-3-%5Bgeneral%5D
-- **REPORTAGE. "Seul 43% des parents connaissent le contrôle parental", la 15e Paris Games Week sensibilise sur le sujet** — franceinfo (2026-10-23 12:41 UTC) — https://www.franceinfo.fr/culture/jeux-video/seul-43-des-parents-connaissent-le-controle-parental-la-15e-paris-games-week-sensibilise-sur-le-sujet_8250757.html#xtor=RSS-3-%5Bgeneral%5D
 
 ## 16. Éducation et enseignement supérieur
 _Rien de retenu par les flux pour cette rubrique sur la période._
@@ -1154,4 +1151,4 @@ _Rien de retenu par les flux pour cette rubrique sur la période._
 
 ---
 
-Total d'entrées sur la période : 1099.
+Total d'entrées sur la période : 1096.

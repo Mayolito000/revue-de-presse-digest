@@ -1,4 +1,4 @@
-# Digest RSS mensuel — généré le 2026-11-25 13:33 UTC
+# Digest RSS mensuel — généré le 2026-11-26 03:46 UTC
 
 Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se situe entre le 2026-10-01 et le 2026-10-31 (mois civil écoulé le plus récent). Aucun tri éditorial n'a été fait.
 
@@ -227,8 +227,6 @@ Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se s
 - **Lutte antidrone : Un système d’arme laser a été testé à bord du porte-avions Charles de Gaulle** — Opex360 / Zone Militaire (2026-10-24 14:53 UTC) — https://www.opex360.com/2026/10/24/lutte-antidrone-un-systeme-darme-laser-a-ete-teste-a-bord-du-porte-avions-charles-de-gaulle
 - **Le ministère allemand de la Défense plaide en faveur d’une coopération avec la Suède pour développer un nouvel avion de combat** — Opex360 / Zone Militaire (2026-10-24 10:18 UTC) — https://www.opex360.com/2026/10/24/le-ministere-allemand-de-la-defense-plaide-en-faveur-dune-cooperation-avec-la-suede-pour-developper-un-nouvel-avion-de-combat
 - **Le futur missile balistique terrestre devrait finalement être mis en œuvre par l’armée de Terre** — Opex360 / Zone Militaire (2026-10-24 09:22 UTC) — https://www.opex360.com/2026/10/24/le-futur-missile-balistique-terrestre-devrait-finalement-etre-mis-en-oeuvre-par-larmee-de-terre
-- **La Turquie espère conclure prochainement un accord avec le Qatar pour se procurer des Eurofighter Typhoon d’occasion** — Opex360 / Zone Militaire (2026-10-23 17:15 UTC) — https://www.opex360.com/2026/10/23/la-turquie-espere-conclure-prochainement-un-accord-avec-le-qatar-pour-se-procurer-des-eurofighter-typhoon-doccasion
-- **Le Danemark commande des missiles sol-sol à longue portée Anthem auprès de l’américain Covenant Industries** — Opex360 / Zone Militaire (2026-10-23 15:42 UTC) — https://www.opex360.com/2026/10/23/le-danemark-commande-des-missiles-sol-sol-a-longue-portee-anthem-aupres-de-lamericain-covenant-industries
 
 ## 4. Économie française et social
 - **Un espoir pour l'adoption de la loi nécessaire à la pérennisation de TZCLD** — Alternatives Économiques (via Google Actualités) (2026-10-31 23:19 UTC) — https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT3AtV3ZxWjZ5clp3LS1VU29uVjNvX0s4a3VWU2FMREpYb1k0VU9lYWhyU2ktcnMtSmdrZkJ6T25Yemg2T2JxOWZsQmUwRUlOWUUwSkE1WHJEMmlfSVFsX05QNlN1VEZKczJWdWZub3hIVmF0ZWxUZUJncFN2S1FBQkx4SWRqS0dDOXV0TXBjWmZRUWZvdW56eUM4ZXJUSDFCZWY3NVBXVEFVZ0lzcEd4NzFTX1dCaEFyVC1mQk5kYzZxaVF3cEo1R092bHNPbnc5?oc=5
@@ -399,7 +397,6 @@ Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se s
 - **En Allemagne, une fuite massive de documents internes à l’AfD embarrasse le parti d’extrême droite** — Le Monde.fr (via Google Actualités) (2026-10-24 16:00 UTC) — https://news.google.com/rss/articles/CBMigAJBVV95cUxQaHBsWm90dTR4aGEwNGwxLWpVRGNhNlJlbkhUeTZWd3h2RFYwTmYyY1lrdVJOb21UVnJnTzhRZ2VDNWh1cTRpaVB5cDZMd0ZTbTcxV1NQWnRXeXBLYXFRVDMxVDNiMmRoOTQ3ODRNdmZiZDVpUzBXNkd5NlNnc3pvSW5GMTlDOGNLZDM2dlB5ejZEcjFPdklnVll4bzVuQ2RURlllakk5eXdDUkZ1MVB4WnRHQnAzTG5qT3M2aWtEcXhBYkNxNkFSMnl0NUs0UldUSEExTGU1RGc4OFc1ZzZOMDRYaEEwaGFGZkNoR3RveUZqV1ZuTzdGWjl1aTl1YXJT?oc=5
 - **Vidéo. Un incendie ravage l'ancien refuge du Nid d'Aigle d'Hitler en Allemagne** — Euronews.com (via Google Actualités) (2026-10-24 14:12 UTC) — https://news.google.com/rss/articles/CBMirgFBVV95cUxPS2hjcWtIMktVM1RGS1pLUWhfcUVaYWppOGZxTkw5NDAyTjhMY3FhcWo0bm1HYi16dWZEVHRISjdYU3RiWkp3OEEyeDRmamc2RDNzZTlTUUo4X09kdTEtdU52NUZUdHJkNXMwMzkyZVBzMkV0Q1JBVGNCUTdjbDVtdFR5VDlOS2ZXekEyaUc3QS00cGl0emZlZ0VXWGowU3JtMzZpdkpvX1hrTG5lOXc?oc=5
 - **Actualités Espagne en direct | Info & actu en continu sur Euronews** — Euronews.com (via Google Actualités) (2026-10-24 11:17 UTC) — https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JYXc0TUh6SnR2ajNhazAzRnUteEJTSFZ0MWZ6YlpBQks2ZEpRcjUwallhVFpYNWw5ZFd2Z21rblF5THBfLVVaRWI4REdjdVJpSExLYkQweG50N2VibDFKcXN3?oc=5
-- **Partout dans le monde, une jeunesse inquiète se soulève** — Courrier international (via Google Actualités) (2026-10-23 18:48 UTC) — https://news.google.com/rss/articles/CBMitgFBVV95cUxPQlV2M19ic1F3Rk1ZOGR0TnZZN3dyS0VVNGFrcGsyX3Q1NERHdE9iXzVnMmV5YVBmMkJpd1RtcWtwb24yaWhnQk0xZG5DVTFlTXVoTWVDak5EWHNJTzRMZ0ZfMmI3Y2FuaHpjNzhQdWxSaVYwcHc1amozQnNMVmg1TTgxdldLRnlNQ01YZV9YNXJYWHFGeWFrLVdySExHdFI5NmNGVjl5dmJoMGc3UzMwNmJVbVZuZw?oc=5
 
 ## 7. Guerres et conflits
 - **Guerre en Ukraine : au moins 700 habitants d’Olechky, ville du Sud située sur la ligne de front, ont été évacués dans le nord de l’Ukraine après une opération d’aide humanitaire. Retrouvez les informations du 25 au 31 octobre.** — Le Monde (2026-10-31 22:33 UTC) — https://www.lemonde.fr/international/live/2026/10/31/en-direct-guerre-en-ukraine-au-moins-700-habitants-d-olechky-ville-situee-sur-la-ligne-de-front-ont-ete-evacues-dans-le-nord-de-l-ukraine-apres-une-operation-d-aide-humanitaire_6799896_3210.html
@@ -903,7 +900,6 @@ Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se s
 - **"Océans. Le nouveau partage du monde" de Guillaume Pitron : les nouvelles cartes de la puissance** — franceinfo (2026-10-25 08:00 UTC) — https://www.franceinfo.fr/replay-radio/livre-actu/oceans-le-nouveau-partage-du-monde-de-guillaume-pitron-les-nouvelles-cartes-de-la-puissance_8211620.html#xtor=RSS-3-%5Bgeneral%5D
 - **Nos journées ne durent pas vraiment 24 heures !** — franceinfo (2026-10-24 14:00 UTC) — https://www.franceinfo.fr/sante/nos-journees-ne-durent-pas-vraiment-24-heures_8251159.html#xtor=RSS-3-%5Bgeneral%5D
 - **Faut-il arrêter le sucre ?** — franceinfo (2026-10-24 13:00 UTC) — https://www.franceinfo.fr/sante/alimentation/faut-il-arreter-le-sucre_8252137.html#xtor=RSS-3-%5Bgeneral%5D
-- **Cancer : le premier vaccin thérapeutique à ARN messager donne de très bon résultats contre le mélanome, le cancer de la peau le plus mortel** — franceinfo (2026-10-23 16:05 UTC) — https://www.franceinfo.fr/sante/cancer/cancer-le-premier-vaccin-therapeutique-a-arn-messager-donne-de-tres-bon-resultats-contre-le-melanome-le-cancer-de-la-peau-le-plus-mortel_8251084.html#xtor=RSS-3-%5Bgeneral%5D
 
 ## 16. Éducation et enseignement supérieur
 _Rien de retenu par les flux pour cette rubrique sur la période._
@@ -1151,4 +1147,4 @@ _Rien de retenu par les flux pour cette rubrique sur la période._
 
 ---
 
-Total d'entrées sur la période : 1096.
+Total d'entrées sur la période : 1092.

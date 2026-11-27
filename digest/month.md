@@ -1,4 +1,4 @@
-# Digest RSS mensuel — généré le 2026-11-27 03:48 UTC
+# Digest RSS mensuel — généré le 2026-11-27 08:39 UTC
 
 Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se situe entre le 2026-10-01 et le 2026-10-31 (mois civil écoulé le plus récent). Aucun tri éditorial n'a été fait.
 
@@ -890,8 +890,6 @@ Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se s
 - **"On peut gagner des années" : une campagne lancée pour dépister l'amylose cardiaque, la "maladie caméléon"** — franceinfo (2026-10-26 05:46 UTC) — https://www.franceinfo.fr/sante/maladie/on-peut-gagner-des-annees-une-campagne-lancee-pour-depister-l-amylose-cardiaque-la-maladie-cameleon_8253541.html#xtor=RSS-3-%5Bgeneral%5D
 - **Les dangers des réseaux sociaux sur la santé mentale des ados** — franceinfo (2026-10-25 15:00 UTC) — https://www.franceinfo.fr/replay-radio/c-est-ma-sante-conseils/les-dangers-des-reseaux-sociaux-sur-la-sante-mentale-des-ados_8211608.html#xtor=RSS-3-%5Bgeneral%5D
 - **Octobre pas si rose ?** — franceinfo (2026-10-25 10:54 UTC) — https://www.franceinfo.fr/replay-radio/c-est-ma-sante/octobre-pas-si-rose_8230930.html#xtor=RSS-3-%5Bgeneral%5D
-- **La mode (dangereuse) des oreilles en "chou-fleur"** — franceinfo (2026-10-25 08:00 UTC) — https://www.franceinfo.fr/replay-radio/c-est-ma-sante/la-mode-dangereuse-des-oreilles-en-chou-fleur_8211626.html#xtor=RSS-3-%5Bgeneral%5D
-- **"Océans. Le nouveau partage du monde" de Guillaume Pitron : les nouvelles cartes de la puissance** — franceinfo (2026-10-25 08:00 UTC) — https://www.franceinfo.fr/replay-radio/livre-actu/oceans-le-nouveau-partage-du-monde-de-guillaume-pitron-les-nouvelles-cartes-de-la-puissance_8211620.html#xtor=RSS-3-%5Bgeneral%5D
 
 ## 16. Éducation et enseignement supérieur
 _Rien de retenu par les flux pour cette rubrique sur la période._
@@ -950,8 +948,6 @@ _Rien de retenu par les flux pour cette rubrique sur la période._
 - **Supprimer Parcoursup « n’est pas la solution magique », préviennent des présidents d’université, qui appellent à une « réforme en profondeur » de l’orientation** — Le Monde (2026-10-25 11:15 UTC) — https://www.lemonde.fr/education/article/2026/10/25/supprimer-parcoursup-n-est-pas-la-solution-magique-previennent-des-presidents-d-universite-qui-appellent-a-une-reforme-en-profondeur-de-l-orientation_6800073_1473685.html
 - **True Crime Community : « La glorification des criminels, l’imitation de leurs actes et la quête de notoriété peuvent suffire à donner un sens à la violence »** — Le Monde (2026-10-25 10:00 UTC) — https://www.lemonde.fr/idees/article/2026/10/25/true-crime-community-la-glorification-des-criminels-l-imitation-de-leurs-actes-et-la-quete-de-notoriete-peuvent-suffire-a-donner-un-sens-a-la-violence_6800067_3232.html
 - **Attentat raciste de Trappes : le suspect transféré en soins psychiatriques ; son analyse de sang a révélé la présence de cannabis et de cocaïne** — Le Monde (2026-10-25 09:34 UTC) — https://www.lemonde.fr/societe/article/2026/10/25/attentat-raciste-de-trappes-le-suspect-transfere-en-soins-psychiatriques-l-analyse-toxicologique-a-revele-la-presence-de-cannabis-et-de-cocaine-dans-son-sang_6800064_3224.html
-- **« Les gens qui me demandent comment ça va, j’ai envie de les tuer » : aux « apéros de la mort », la parole des personnes en deuil se libère** — Le Monde (2026-10-25 05:00 UTC) — https://www.lemonde.fr/m-perso/article/2026/10/25/les-gens-qui-me-demandent-comment-ca-va-j-ai-envie-de-les-tuer-aux-aperos-de-la-mort-la-parole-des-personnes-en-deuil-se-libere_6800044_4497916.html
-- **Les prêtres birituels, une réponse pragmatique au manque de clercs : « Je me suis mis au rite byzantin il y a deux ans »** — Le Monde (2026-10-25 04:30 UTC) — https://www.lemonde.fr/le-monde-des-religions/article/2026/10/25/les-pretres-birituels-une-reponse-pragmatique-au-manque-de-clercs-je-me-suis-mis-au-rite-byzantin-il-y-a-deux-ans_6800038_6038514.html
 
 ## 18. Transports et villes
 _Rien de retenu par les flux pour cette rubrique sur la période._
@@ -1139,4 +1135,4 @@ _Rien de retenu par les flux pour cette rubrique sur la période._
 
 ---
 
-Total d'entrées sur la période : 1084.
+Total d'entrées sur la période : 1080.

@@ -1,4 +1,4 @@
-# Digest RSS mensuel — généré le 2026-11-27 08:39 UTC
+# Digest RSS mensuel — généré le 2026-11-27 13:10 UTC
 
 Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se situe entre le 2026-10-01 et le 2026-10-31 (mois civil écoulé le plus récent). Aucun tri éditorial n'a été fait.
 
@@ -222,8 +222,6 @@ Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se s
 - **SE Aviation a terminé une campagne d’essais en vol de son drone DRIADE OPV, menée discrètement avec la DGA** — Opex360 / Zone Militaire (2026-10-26 17:16 UTC) — https://www.opex360.com/2026/10/26/se-aviation-a-termine-une-campagne-dessais-en-vol-de-son-drone-driade-opv-menee-discretement-avec-la-dga
 - **Une unité de l’armée algérienne va s’installer dans l’ancienne base française de Madama, au Niger** — Opex360 / Zone Militaire (2026-10-26 15:55 UTC) — https://www.opex360.com/2026/10/26/une-unite-de-larmee-algerienne-va-sinstaller-dans-lancienne-base-francaise-de-madama-au-niger
 - **Spécialiste de l’IA militaire, Helsing AI dévoile un nouveau système de défense aérienne pour contrer les attaques saturantes** — Opex360 / Zone Militaire (2026-10-26 11:34 UTC) — https://www.opex360.com/2026/10/26/specialiste-de-lia-militaire-helsing-ai-devoile-un-nouveau-systeme-de-defense-aerienne-pour-contrer-les-attaques-saturantes
-- **Le standard 2 du futur avion de renseignement électronique Falcon ARCHANGE est déjà en cours de développement** — Opex360 / Zone Militaire (2026-10-25 11:58 UTC) — https://www.opex360.com/2026/10/25/le-standard-2-du-futur-avion-de-renseignement-electronique-falcon-archange-est-deja-en-cours-de-developpement
-- **L’armée de Terre pourrait créer au moins dix régiments ou bataillons supplémentaires après 2030** — Opex360 / Zone Militaire (2026-10-25 11:04 UTC) — https://www.opex360.com/2026/10/25/larmee-de-terre-pourrait-creer-au-moins-dix-regiments-ou-bataillons-supplementaires-apres-2030
 
 ## 4. Économie française et social
 - **Un espoir pour l'adoption de la loi nécessaire à la pérennisation de TZCLD** — Alternatives Économiques (via Google Actualités) (2026-10-31 23:19 UTC) — https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT3AtV3ZxWjZ5clp3LS1VU29uVjNvX0s4a3VWU2FMREpYb1k0VU9lYWhyU2ktcnMtSmdrZkJ6T25Yemg2T2JxOWZsQmUwRUlOWUUwSkE1WHJEMmlfSVFsX05QNlN1VEZKczJWdWZub3hIVmF0ZWxUZUJncFN2S1FBQkx4SWRqS0dDOXV0TXBjWmZRUWZvdW56eUM4ZXJUSDFCZWY3NVBXVEFVZ0lzcEd4NzFTX1dCaEFyVC1mQk5kYzZxaVF3cEo1R092bHNPbnc5?oc=5
@@ -389,8 +387,6 @@ Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se s
 - **Alexia Putellas, lauréate du Ballon d’or pour la troisième fois et symbole de l’attractivité du championnat anglais de football** — Le Monde.fr (via Google Actualités) (2026-10-26 04:48 UTC) — https://news.google.com/rss/articles/CBMinAJBVV95cUxOMzVjTy1aU3Bjbmp3U1loYjBYeXhvaXAybTJzZmtTY3FvSkxOczE5OF9oWlVVSHhpZVA3SHBYV2RwcE02XzlzUjlGQlI0YlRtUktvU1lKbzVzMER0UXFrZEkxdzB3bzcxeFQ0Z0Q1MEI3YXA5a3FWR3VmdThyWXRUMnN0VGtrazk3YldlY2hXOWhZN2RzbDVpTzdZb0EtR3hrbHdMd2xBaXRNc3dEVzNxYXlXTEpxbmxRYVp6YUdhM2REakVKdVJjYzNDWFAyQTc0bS1hQ2lMcm5MUUs1WGRoRlp1UXkzZ0hDWVdBMmdvQU9nTHJ4TlpjeVF1c2p2RHR1LTE0NXJUa0hzU3R6ZDZKZGJET0ZqaDI2aHRuVA?oc=5
 - **Kylian Mbappé, auteur d’un doublé, fait plier le Barça et offre le Clasico au Real Madrid** — Le Monde.fr (via Google Actualités) (2026-10-25 23:44 UTC) — https://news.google.com/rss/articles/CBMi_wFBVV95cUxQa19vcjZQUmIyNDFiUWs4b05GakRLZmgyUEI4VURqekR4bEpSSXhmcWpUYzIzbzZsWm5KaFQ2WTJhdGZOa3hIRXNuWnd6dkFFT2h0RDI1bUtLLThpYllSRzVWRGVuOG04NUQ1YV9iZlZvdDhwazlnRXFNMnQzOVlxQXRxb3lJTG9mcTJvZk1CWEg2X1pFVTlCd253eE5XU2JNTktwaUJ3UHFCazAxcmdyME04ZEc5d19qcDY5MWNLSjRtRk1tNVQwZUhzWnI3QU0zc3FsTVY0NEg0aldKMkJaSXl4Xy1RTjJmYkljUjgwQWNPcTJkaHNnUlRtVnNKajg?oc=5
 - **Vidéo. Royaume-Uni : Andy Burnham veut un "débat franc" sur le retour à la libre circulation dans l'UE** — Euronews.com (via Google Actualités) (2026-10-25 15:49 UTC) — https://news.google.com/rss/articles/CBMiywFBVV95cUxQdVB4S2Y4YnFLRW1hQ3Nvb214c1JrYmFVdnlpQ2VDeThabWtMZDNYeGRzVVRyOWxZQ0ZVZWVMQVFxd2FlVWpjX1pBbUJoY0NxYkM1b21vdUd5alhBWEY3T3RTa0Q3aVZMeXFyVl9yX2lQWlRhSS1hamd5U2xtdmNhbGx5UXotWWZxV0l1UkdiOUV2NmdKblhRZWJxR1ZoeTFjTHlNTzdycVRlRzZ6VmVOODUwMEcyYTl0MS1fbXRuckZhaUpua0pLX3dtSQ?oc=5
-- **Vidéo. Manifestations en France : 1 314 interpellations, 53 membres des forces de l'ordre blessés samedi** — Euronews.com (via Google Actualités) (2026-10-25 11:55 UTC) — https://news.google.com/rss/articles/CBMiywFBVV95cUxQN2tuRUJpTTFXUy1RdEVpNWV0a2gyWUF3TTFWdThwNXd6dGszV09GeHFERk5uaW1SaGJFaGtVZExYR2tGUGdYdDBtRFZST3JrSzNTR0lneU04Wk5ham0xMUhBbllVb1Y1ZFR5c2Z0NEhkRU5hTFBYZEY2MUU0SU5sWWFsRWMya3ZaZl9hVEVDVkdkZmdHN3NaY0J0MV9XR3pVd0cxVVloY2FNZ3VSVlltc0dNZkFTUkdpQ1dwSF9rRlJ1QVhSQk5TdFFrOA?oc=5
-- **Manifestations en France : 1 314 interpellations, 53 membres des forces de l'ordre blessés samedi** — Euronews.com (via Google Actualités) (2026-10-25 11:55 UTC) — https://news.google.com/rss/articles/CBMiwwFBVV95cUxObGliX2ZfdmtLd0FGQ2JTNWYtal9ONUNhLXZ3Y2s4UTdYRVZSZjF0Zl93V3B3ZDAtUW5YUl9rMHk4cFpOdTJiQ0ZCWWxWUjR5Mkx2SnVjb255MnhtWUpGc2ZlSjhYdk1QS25kVW1IbU50aWlBNWVmRjZnUTAtdmxSMzQ4RDlwYkRwMXJ2OENBLTRfa3l0YzY3SERrRXVBRjRsdElCQk1Pb0U1YmpKdmJDN29JRlFodjUyOENvOHVPRWNUVFU?oc=5
 
 ## 7. Guerres et conflits
 - **Guerre en Ukraine : au moins 700 habitants d’Olechky, ville du Sud située sur la ligne de front, ont été évacués dans le nord de l’Ukraine après une opération d’aide humanitaire. Retrouvez les informations du 25 au 31 octobre.** — Le Monde (2026-10-31 22:33 UTC) — https://www.lemonde.fr/international/live/2026/10/31/en-direct-guerre-en-ukraine-au-moins-700-habitants-d-olechky-ville-situee-sur-la-ligne-de-front-ont-ete-evacues-dans-le-nord-de-l-ukraine-apres-une-operation-d-aide-humanitaire_6799896_3210.html
@@ -889,7 +885,6 @@ Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se s
 - **ENQUETE. "Ça touche à vos émotions, à vos peurs" : le juteux business de la désinformation en matière de santé** — franceinfo (2026-10-26 09:49 UTC) — https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/ca-touche-a-vos-emotions-a-vos-peurs-le-juteux-business-de-la-desinformation-en-matiere-de-sante_8233162.html#xtor=RSS-3-%5Bgeneral%5D
 - **"On peut gagner des années" : une campagne lancée pour dépister l'amylose cardiaque, la "maladie caméléon"** — franceinfo (2026-10-26 05:46 UTC) — https://www.franceinfo.fr/sante/maladie/on-peut-gagner-des-annees-une-campagne-lancee-pour-depister-l-amylose-cardiaque-la-maladie-cameleon_8253541.html#xtor=RSS-3-%5Bgeneral%5D
 - **Les dangers des réseaux sociaux sur la santé mentale des ados** — franceinfo (2026-10-25 15:00 UTC) — https://www.franceinfo.fr/replay-radio/c-est-ma-sante-conseils/les-dangers-des-reseaux-sociaux-sur-la-sante-mentale-des-ados_8211608.html#xtor=RSS-3-%5Bgeneral%5D
-- **Octobre pas si rose ?** — franceinfo (2026-10-25 10:54 UTC) — https://www.franceinfo.fr/replay-radio/c-est-ma-sante/octobre-pas-si-rose_8230930.html#xtor=RSS-3-%5Bgeneral%5D
 
 ## 16. Éducation et enseignement supérieur
 _Rien de retenu par les flux pour cette rubrique sur la période._
@@ -945,9 +940,6 @@ _Rien de retenu par les flux pour cette rubrique sur la période._
 - **Baisse de la natalité en France : la faute aux femmes ?** — Le Monde (2026-10-26 04:00 UTC) — https://www.lemonde.fr/podcasts/article/2026/10/26/baisse-de-la-natalite-en-france-la-faute-aux-femmes_6800382_5463015.html
 - **Attentat raciste de Trappes : plusieurs centaines de personnes à la marche blanche en hommage à Pengo Bossio Wangi** — Le Monde (2026-10-25 18:43 UTC) — https://www.lemonde.fr/societe/article/2026/10/25/attentat-raciste-de-trappes-plusieurs-centaines-de-personnes-a-la-marche-blanche-en-hommage-a-pengo-bossio-wangi_6800112_3224.html
 - **Peut-on laisser nos filles porter des crop tops ?** — Le Monde (2026-10-25 16:00 UTC) — https://www.lemonde.fr/intimites/article/2026/10/25/peut-on-laisser-nos-filles-porter-des-crop-tops_6800099_6190330.html
-- **Supprimer Parcoursup « n’est pas la solution magique », préviennent des présidents d’université, qui appellent à une « réforme en profondeur » de l’orientation** — Le Monde (2026-10-25 11:15 UTC) — https://www.lemonde.fr/education/article/2026/10/25/supprimer-parcoursup-n-est-pas-la-solution-magique-previennent-des-presidents-d-universite-qui-appellent-a-une-reforme-en-profondeur-de-l-orientation_6800073_1473685.html
-- **True Crime Community : « La glorification des criminels, l’imitation de leurs actes et la quête de notoriété peuvent suffire à donner un sens à la violence »** — Le Monde (2026-10-25 10:00 UTC) — https://www.lemonde.fr/idees/article/2026/10/25/true-crime-community-la-glorification-des-criminels-l-imitation-de-leurs-actes-et-la-quete-de-notoriete-peuvent-suffire-a-donner-un-sens-a-la-violence_6800067_3232.html
-- **Attentat raciste de Trappes : le suspect transféré en soins psychiatriques ; son analyse de sang a révélé la présence de cannabis et de cocaïne** — Le Monde (2026-10-25 09:34 UTC) — https://www.lemonde.fr/societe/article/2026/10/25/attentat-raciste-de-trappes-le-suspect-transfere-en-soins-psychiatriques-l-analyse-toxicologique-a-revele-la-presence-de-cannabis-et-de-cocaine-dans-son-sang_6800064_3224.html
 
 ## 18. Transports et villes
 _Rien de retenu par les flux pour cette rubrique sur la période._
@@ -1135,4 +1127,4 @@ _Rien de retenu par les flux pour cette rubrique sur la période._
 
 ---
 
-Total d'entrées sur la période : 1080.
+Total d'entrées sur la période : 1072.

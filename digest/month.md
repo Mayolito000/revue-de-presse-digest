@@ -1,4 +1,4 @@
-# Digest RSS mensuel — généré le 2026-11-27 13:10 UTC
+# Digest RSS mensuel — généré le 2026-11-28 03:31 UTC
 
 Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se situe entre le 2026-10-01 et le 2026-10-31 (mois civil écoulé le plus récent). Aucun tri éditorial n'a été fait.
 
@@ -385,8 +385,6 @@ Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se s
 - **Au Royaume-Uni, 160 personnalités dénoncent l’« absurdité répressive » d’une loi antiterroriste qui a conduit au retrait du marché des livres de Sally Rooney, soutien de Palestine Action** — Le Monde.fr (via Google Actualités) (2026-10-26 05:01 UTC) — https://news.google.com/rss/articles/CBMiygJBVV95cUxOS3JqemtOYms3MjZkdzVhTTRwT3pmMHQyV29XU21ITFVWR2x2eUsxcDljb3FkMS1HcmhhclVqVWw4VjdOZE5uMDJpZlVpXzR0Z0VadEM1OEl1YlBEWC02eVVJY2R5T29OUXkzRXhZTUtqeE9Nenh2QmFvVXJSM3d2c1liYXFBNk9MQ2lkVnZhcTJ4MFAxb20zWGRvSGs0VlVtMEFhREpMbVZQdmJBNHdmWVU2ejlQaEhYZzd0UHh1RDdkcmhoRFpoaWRQWlYwdDZEdzVOZ2Q4NEVIUzlrNnZOWElzX3lKM0trR0s3SWRzbWxDUWN2cVlMR3NYR083VlZwd2pSRV8xcnhNSU1YSUQySU1JRkVET0JsaHZHeHRPYm4zU3VqekhOUjhudHNwOHdjemVycGp3TlRvZ0pMRlJCSzI4Y1I0SUp4ZUE?oc=5
 - **L’Anglais Harry Kane remporte le Ballon d’or 2026** — Le Monde.fr (via Google Actualités) (2026-10-26 04:56 UTC) — https://news.google.com/rss/articles/CBMitgFBVV95cUxOaEw5Wl8yUVJic1lzcjQ2dzQ4NXUxZ1hNOUhrMzhLNjRJUmJ6TnRRR3NVdFhuN1JxOHFwMm4xU0paU3Z4aG1PNGRoWmxyVnExVjV6Z0dvVlgwLTY1TjFfWThGbGZJaHpDNlR6VUl1OVU4TS1PZGQzRFJmWU5FbUpCalhnYWh2bkpDR0pQNXdSNWI4Y0VUMzBJS2g2Y285YTlBWXd1MlhiRHR3UTBKRUs2eGZMRlBLZw?oc=5
 - **Alexia Putellas, lauréate du Ballon d’or pour la troisième fois et symbole de l’attractivité du championnat anglais de football** — Le Monde.fr (via Google Actualités) (2026-10-26 04:48 UTC) — https://news.google.com/rss/articles/CBMinAJBVV95cUxOMzVjTy1aU3Bjbmp3U1loYjBYeXhvaXAybTJzZmtTY3FvSkxOczE5OF9oWlVVSHhpZVA3SHBYV2RwcE02XzlzUjlGQlI0YlRtUktvU1lKbzVzMER0UXFrZEkxdzB3bzcxeFQ0Z0Q1MEI3YXA5a3FWR3VmdThyWXRUMnN0VGtrazk3YldlY2hXOWhZN2RzbDVpTzdZb0EtR3hrbHdMd2xBaXRNc3dEVzNxYXlXTEpxbmxRYVp6YUdhM2REakVKdVJjYzNDWFAyQTc0bS1hQ2lMcm5MUUs1WGRoRlp1UXkzZ0hDWVdBMmdvQU9nTHJ4TlpjeVF1c2p2RHR1LTE0NXJUa0hzU3R6ZDZKZGJET0ZqaDI2aHRuVA?oc=5
-- **Kylian Mbappé, auteur d’un doublé, fait plier le Barça et offre le Clasico au Real Madrid** — Le Monde.fr (via Google Actualités) (2026-10-25 23:44 UTC) — https://news.google.com/rss/articles/CBMi_wFBVV95cUxQa19vcjZQUmIyNDFiUWs4b05GakRLZmgyUEI4VURqekR4bEpSSXhmcWpUYzIzbzZsWm5KaFQ2WTJhdGZOa3hIRXNuWnd6dkFFT2h0RDI1bUtLLThpYllSRzVWRGVuOG04NUQ1YV9iZlZvdDhwazlnRXFNMnQzOVlxQXRxb3lJTG9mcTJvZk1CWEg2X1pFVTlCd253eE5XU2JNTktwaUJ3UHFCazAxcmdyME04ZEc5d19qcDY5MWNLSjRtRk1tNVQwZUhzWnI3QU0zc3FsTVY0NEg0aldKMkJaSXl4Xy1RTjJmYkljUjgwQWNPcTJkaHNnUlRtVnNKajg?oc=5
-- **Vidéo. Royaume-Uni : Andy Burnham veut un "débat franc" sur le retour à la libre circulation dans l'UE** — Euronews.com (via Google Actualités) (2026-10-25 15:49 UTC) — https://news.google.com/rss/articles/CBMiywFBVV95cUxQdVB4S2Y4YnFLRW1hQ3Nvb214c1JrYmFVdnlpQ2VDeThabWtMZDNYeGRzVVRyOWxZQ0ZVZWVMQVFxd2FlVWpjX1pBbUJoY0NxYkM1b21vdUd5alhBWEY3T3RTa0Q3aVZMeXFyVl9yX2lQWlRhSS1hamd5U2xtdmNhbGx5UXotWWZxV0l1UkdiOUV2NmdKblhRZWJxR1ZoeTFjTHlNTzdycVRlRzZ6VmVOODUwMEcyYTl0MS1fbXRuckZhaUpua0pLX3dtSQ?oc=5
 
 ## 7. Guerres et conflits
 - **Guerre en Ukraine : au moins 700 habitants d’Olechky, ville du Sud située sur la ligne de front, ont été évacués dans le nord de l’Ukraine après une opération d’aide humanitaire. Retrouvez les informations du 25 au 31 octobre.** — Le Monde (2026-10-31 22:33 UTC) — https://www.lemonde.fr/international/live/2026/10/31/en-direct-guerre-en-ukraine-au-moins-700-habitants-d-olechky-ville-situee-sur-la-ligne-de-front-ont-ete-evacues-dans-le-nord-de-l-ukraine-apres-une-operation-d-aide-humanitaire_6799896_3210.html
@@ -884,7 +882,6 @@ Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se s
 - **L'ancienne ministre de la Santé Michèle Barzach est morte à l'âge de 83 ans** — franceinfo (2026-10-26 12:57 UTC) — https://www.franceinfo.fr/sante/l-ancienne-ministre-de-la-sante-michele-barzach-est-morte-a-l-age-de-83-ans_8254237.html#xtor=RSS-3-%5Bgeneral%5D
 - **ENQUETE. "Ça touche à vos émotions, à vos peurs" : le juteux business de la désinformation en matière de santé** — franceinfo (2026-10-26 09:49 UTC) — https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/ca-touche-a-vos-emotions-a-vos-peurs-le-juteux-business-de-la-desinformation-en-matiere-de-sante_8233162.html#xtor=RSS-3-%5Bgeneral%5D
 - **"On peut gagner des années" : une campagne lancée pour dépister l'amylose cardiaque, la "maladie caméléon"** — franceinfo (2026-10-26 05:46 UTC) — https://www.franceinfo.fr/sante/maladie/on-peut-gagner-des-annees-une-campagne-lancee-pour-depister-l-amylose-cardiaque-la-maladie-cameleon_8253541.html#xtor=RSS-3-%5Bgeneral%5D
-- **Les dangers des réseaux sociaux sur la santé mentale des ados** — franceinfo (2026-10-25 15:00 UTC) — https://www.franceinfo.fr/replay-radio/c-est-ma-sante-conseils/les-dangers-des-reseaux-sociaux-sur-la-sante-mentale-des-ados_8211608.html#xtor=RSS-3-%5Bgeneral%5D
 
 ## 16. Éducation et enseignement supérieur
 _Rien de retenu par les flux pour cette rubrique sur la période._
@@ -938,8 +935,6 @@ _Rien de retenu par les flux pour cette rubrique sur la période._
 - **Mort de Cédric Chouviat : le procès des policiers mis en cause pour homicide involontaire renvoyé à juin 2027** — Le Monde (2026-10-26 16:20 UTC) — https://www.lemonde.fr/societe/article/2026/10/26/mort-de-cedric-chouviat-le-proces-des-policiers-mis-en-cause-pour-homicide-involontaire-renvoye-a-juin-2027_6800809_3224.html
 - **Remembering El Fasher, the city I knew and the atrocities that changed it** — The New Humanitarian (2026-10-26 14:11 UTC) — https://www.thenewhumanitarian.org/opinion/first-person/2026/10/26/remembering-el-fasher-the-city-i-knew-atrocities-changed-it
 - **Baisse de la natalité en France : la faute aux femmes ?** — Le Monde (2026-10-26 04:00 UTC) — https://www.lemonde.fr/podcasts/article/2026/10/26/baisse-de-la-natalite-en-france-la-faute-aux-femmes_6800382_5463015.html
-- **Attentat raciste de Trappes : plusieurs centaines de personnes à la marche blanche en hommage à Pengo Bossio Wangi** — Le Monde (2026-10-25 18:43 UTC) — https://www.lemonde.fr/societe/article/2026/10/25/attentat-raciste-de-trappes-plusieurs-centaines-de-personnes-a-la-marche-blanche-en-hommage-a-pengo-bossio-wangi_6800112_3224.html
-- **Peut-on laisser nos filles porter des crop tops ?** — Le Monde (2026-10-25 16:00 UTC) — https://www.lemonde.fr/intimites/article/2026/10/25/peut-on-laisser-nos-filles-porter-des-crop-tops_6800099_6190330.html
 
 ## 18. Transports et villes
 _Rien de retenu par les flux pour cette rubrique sur la période._
@@ -1127,4 +1122,4 @@ _Rien de retenu par les flux pour cette rubrique sur la période._
 
 ---
 
-Total d'entrées sur la période : 1072.
+Total d'entrées sur la période : 1067.

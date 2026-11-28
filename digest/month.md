@@ -1,4 +1,4 @@
-# Digest RSS mensuel — généré le 2026-11-28 03:31 UTC
+# Digest RSS mensuel — généré le 2026-11-28 07:53 UTC
 
 Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se situe entre le 2026-10-01 et le 2026-10-31 (mois civil écoulé le plus récent). Aucun tri éditorial n'a été fait.
 
@@ -382,9 +382,6 @@ Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se s
 - **Guide voyages novembre 2026: meilleures destinations, visites et nouveaux hôtels en Europe** — Euronews.com (via Google Actualités) (2026-10-26 10:59 UTC) — https://news.google.com/rss/articles/CBMimgJBVV95cUxNbzFSNWlSSWFKdmlrbGVsaXROZGFCTWxjclMwamMzQmREaHFqNGxEcHZ3X0ljOEtXYU02bGkxSVVjOF9FNzlSamR4RWZzYmhsckpRMjNENWdGQ1Y5WVNUZ2NRcDZkQ2Z5SGw3aGZocER6UllyN040bWVEYzE4Z1ZHUW9uOVBpNlVQOFl3dWdURDJ0bFRwbWpFWWlPN0diUmpTN3Y5bnFYU04tQV9RX2RBSlBZY0NmX0poY3ptY2Q5dWQ0Y0M2anJnYlc1QnEyY1hmMlZQRERuLXlWTlZZUzNhSFkyZFFHQXBHTUhUeVJuTjRXRHVENEs2aGFVN1V4ZkdaTkh2UFYwd2dnZFE0Y2YwaC1IWVlPYXhxSHc?oc=5
 - **Entre Mbappé et Yamal, qui gagnera le Melon d’or ?** — Courrier international (via Google Actualités) (2026-10-26 09:22 UTC) — https://news.google.com/rss/articles/CBMisAFBVV95cUxQNUY0WWo0eDNjRUpYRzhiYzJvZzRnZWZoa0hTSzZ1WVZsOFRvYjVKeEZ5czJUWGtaa2wtZEdWVU53bXUyZmNScXVSMVRCVTBBaW91bXE4RTYtTjJMQUplZTZXY3ZSRm82S3ZtcnQyY0hwa1M0V2pGQl8yWVNpbXc3UkZJd3JpNXd6TG5STXJpRUV5eGZWYVFrMnhZZmFpRUJ4VlBjVHB2TTFEaEttUzd0NQ?oc=5
 - **Vidéo. Midterms 2026 : Nicki Minaj affiche son soutien à Trump dans le Michigan** — Euronews.com (via Google Actualités) (2026-10-26 08:33 UTC) — https://news.google.com/rss/articles/CBMiywFBVV95cUxQZHcxdzdlMkpaVExReVdsMlFROW5IZUFJUDEyLTVtZjRyYzZEYUFVOHhfZTgxSjRqeU5hcU1sdmktMzFaNWFydXNzZzM4OXJ4d094RDYzb0tsWkhJUjNqZjd4NzFvQ2Rsa01nR0tzb3BJY1FPQmQyRk1COWdaSlczV2hSa2FPWU9zZ2lCVElXUWpYYnp5QlVBWFowMl9jSnBQMlVmMFV1clRyVk5MUWVua1FSVXBHc2tWOHVkVVNJRjZuZkFFSWZqMnVqNA?oc=5
-- **Au Royaume-Uni, 160 personnalités dénoncent l’« absurdité répressive » d’une loi antiterroriste qui a conduit au retrait du marché des livres de Sally Rooney, soutien de Palestine Action** — Le Monde.fr (via Google Actualités) (2026-10-26 05:01 UTC) — https://news.google.com/rss/articles/CBMiygJBVV95cUxOS3JqemtOYms3MjZkdzVhTTRwT3pmMHQyV29XU21ITFVWR2x2eUsxcDljb3FkMS1HcmhhclVqVWw4VjdOZE5uMDJpZlVpXzR0Z0VadEM1OEl1YlBEWC02eVVJY2R5T29OUXkzRXhZTUtqeE9Nenh2QmFvVXJSM3d2c1liYXFBNk9MQ2lkVnZhcTJ4MFAxb20zWGRvSGs0VlVtMEFhREpMbVZQdmJBNHdmWVU2ejlQaEhYZzd0UHh1RDdkcmhoRFpoaWRQWlYwdDZEdzVOZ2Q4NEVIUzlrNnZOWElzX3lKM0trR0s3SWRzbWxDUWN2cVlMR3NYR083VlZwd2pSRV8xcnhNSU1YSUQySU1JRkVET0JsaHZHeHRPYm4zU3VqekhOUjhudHNwOHdjemVycGp3TlRvZ0pMRlJCSzI4Y1I0SUp4ZUE?oc=5
-- **L’Anglais Harry Kane remporte le Ballon d’or 2026** — Le Monde.fr (via Google Actualités) (2026-10-26 04:56 UTC) — https://news.google.com/rss/articles/CBMitgFBVV95cUxOaEw5Wl8yUVJic1lzcjQ2dzQ4NXUxZ1hNOUhrMzhLNjRJUmJ6TnRRR3NVdFhuN1JxOHFwMm4xU0paU3Z4aG1PNGRoWmxyVnExVjV6Z0dvVlgwLTY1TjFfWThGbGZJaHpDNlR6VUl1OVU4TS1PZGQzRFJmWU5FbUpCalhnYWh2bkpDR0pQNXdSNWI4Y0VUMzBJS2g2Y285YTlBWXd1MlhiRHR3UTBKRUs2eGZMRlBLZw?oc=5
-- **Alexia Putellas, lauréate du Ballon d’or pour la troisième fois et symbole de l’attractivité du championnat anglais de football** — Le Monde.fr (via Google Actualités) (2026-10-26 04:48 UTC) — https://news.google.com/rss/articles/CBMinAJBVV95cUxOMzVjTy1aU3Bjbmp3U1loYjBYeXhvaXAybTJzZmtTY3FvSkxOczE5OF9oWlVVSHhpZVA3SHBYV2RwcE02XzlzUjlGQlI0YlRtUktvU1lKbzVzMER0UXFrZEkxdzB3bzcxeFQ0Z0Q1MEI3YXA5a3FWR3VmdThyWXRUMnN0VGtrazk3YldlY2hXOWhZN2RzbDVpTzdZb0EtR3hrbHdMd2xBaXRNc3dEVzNxYXlXTEpxbmxRYVp6YUdhM2REakVKdVJjYzNDWFAyQTc0bS1hQ2lMcm5MUUs1WGRoRlp1UXkzZ0hDWVdBMmdvQU9nTHJ4TlpjeVF1c2p2RHR1LTE0NXJUa0hzU3R6ZDZKZGJET0ZqaDI2aHRuVA?oc=5
 
 ## 7. Guerres et conflits
 - **Guerre en Ukraine : au moins 700 habitants d’Olechky, ville du Sud située sur la ligne de front, ont été évacués dans le nord de l’Ukraine après une opération d’aide humanitaire. Retrouvez les informations du 25 au 31 octobre.** — Le Monde (2026-10-31 22:33 UTC) — https://www.lemonde.fr/international/live/2026/10/31/en-direct-guerre-en-ukraine-au-moins-700-habitants-d-olechky-ville-situee-sur-la-ligne-de-front-ont-ete-evacues-dans-le-nord-de-l-ukraine-apres-une-operation-d-aide-humanitaire_6799896_3210.html
@@ -881,7 +878,6 @@ Ce fichier regroupe, par rubrique, les entrées RSS archivées dont la date se s
 - **Deux nouveaux traitements contre le cancer du poumon améliorent les chances de survie des patients** — franceinfo (2026-10-26 13:09 UTC) — https://www.franceinfo.fr/sante/cancer/deux-nouveaux-traitements-contre-le-cancer-du-poumon-ameliorent-les-chances-de-survie-des-patients_8254069.html#xtor=RSS-3-%5Bgeneral%5D
 - **L'ancienne ministre de la Santé Michèle Barzach est morte à l'âge de 83 ans** — franceinfo (2026-10-26 12:57 UTC) — https://www.franceinfo.fr/sante/l-ancienne-ministre-de-la-sante-michele-barzach-est-morte-a-l-age-de-83-ans_8254237.html#xtor=RSS-3-%5Bgeneral%5D
 - **ENQUETE. "Ça touche à vos émotions, à vos peurs" : le juteux business de la désinformation en matière de santé** — franceinfo (2026-10-26 09:49 UTC) — https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/ca-touche-a-vos-emotions-a-vos-peurs-le-juteux-business-de-la-desinformation-en-matiere-de-sante_8233162.html#xtor=RSS-3-%5Bgeneral%5D
-- **"On peut gagner des années" : une campagne lancée pour dépister l'amylose cardiaque, la "maladie caméléon"** — franceinfo (2026-10-26 05:46 UTC) — https://www.franceinfo.fr/sante/maladie/on-peut-gagner-des-annees-une-campagne-lancee-pour-depister-l-amylose-cardiaque-la-maladie-cameleon_8253541.html#xtor=RSS-3-%5Bgeneral%5D
 
 ## 16. Éducation et enseignement supérieur
 _Rien de retenu par les flux pour cette rubrique sur la période._
@@ -934,7 +930,6 @@ _Rien de retenu par les flux pour cette rubrique sur la période._
 - **Mouvement lycéen : « Beaucoup de nos élèves estiment qu’il n’existe plus aucun moyen de faire entendre leur voix »** — Le Monde (2026-10-26 18:00 UTC) — https://www.lemonde.fr/idees/article/2026/10/26/mouvement-lyceen-beaucoup-de-nos-eleves-estiment-qu-il-n-existe-plus-aucun-moyen-de-faire-entendre-leur-voix_6800826_3232.html
 - **Mort de Cédric Chouviat : le procès des policiers mis en cause pour homicide involontaire renvoyé à juin 2027** — Le Monde (2026-10-26 16:20 UTC) — https://www.lemonde.fr/societe/article/2026/10/26/mort-de-cedric-chouviat-le-proces-des-policiers-mis-en-cause-pour-homicide-involontaire-renvoye-a-juin-2027_6800809_3224.html
 - **Remembering El Fasher, the city I knew and the atrocities that changed it** — The New Humanitarian (2026-10-26 14:11 UTC) — https://www.thenewhumanitarian.org/opinion/first-person/2026/10/26/remembering-el-fasher-the-city-i-knew-atrocities-changed-it
-- **Baisse de la natalité en France : la faute aux femmes ?** — Le Monde (2026-10-26 04:00 UTC) — https://www.lemonde.fr/podcasts/article/2026/10/26/baisse-de-la-natalite-en-france-la-faute-aux-femmes_6800382_5463015.html
 
 ## 18. Transports et villes
 _Rien de retenu par les flux pour cette rubrique sur la période._
@@ -1122,4 +1117,4 @@ _Rien de retenu par les flux pour cette rubrique sur la période._
 
 ---
 
-Total d'entrées sur la période : 1067.
+Total d'entrées sur la période : 1062.
